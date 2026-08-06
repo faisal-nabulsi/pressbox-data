@@ -104,6 +104,12 @@ aside.filters{position:sticky;top:12px;max-height:calc(100vh - 24px);overflow:au
 .slider{padding:2px 0 10px}
 .slider input{width:100%;accent-color:var(--accent)}
 .slider .lab{display:flex;justify-content:space-between;color:var(--ink-3);font-size:11.5px}
+.wrow{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:12.5px;color:var(--ink-2)}
+.wrow .d{width:9px;height:9px;border-radius:3px;flex:none}
+.wrow .wl{flex:0 0 88px}
+.wrow input[type=range]{flex:1;min-width:0;accent-color:var(--accent)}
+.wrow .wv{width:30px;text-align:right;font-variant-numeric:tabular-nums;font-weight:700;color:var(--ink)}
+.whint{color:var(--ink-3);font-size:11.5px;margin:4px 0 2px}
 .fbtnrow{display:none;margin-bottom:10px}
 
 /* ---------- legend ---------- */
@@ -210,17 +216,15 @@ footer p{margin:4px 0;max-width:90ch}
 
 <div class="chips" id="activeChips"></div>
 
-<div class="legend" id="legend">
-  <span><i class="d" style="background:var(--s1)"></i>Prestige ×3.5</span>
-  <span><i class="d" style="background:var(--s2)"></i>Sophomore fit ×2.5</span>
-  <span><i class="d" style="background:var(--s3)"></i>Pay ×1.5</span>
-  <span><i class="d" style="background:var(--s4)"></i>Location ×1.5</span>
-  <span><i class="d" style="background:var(--s5)"></i>Timing ×1</span>
-  <span style="margin-left:auto">= score /100</span>
-</div>
+<div class="legend" id="legend"></div>
 
 <div class="layout">
   <aside class="filters" id="filterPanel" aria-label="Filters">
+    <div class="fsec"><h3>Score weights</h3>
+      <div class="whint">Drag to re-rank by what matters to you. Scores stay /100.</div>
+      <div id="fWeights"></div>
+      <button class="btn" id="wReset" style="width:100%;margin-top:6px;font-size:12.5px">Reset to default weights</button>
+    </div>
     <div class="fsec"><h3>Application timing</h3><div id="fTiming"></div></div>
     <div class="fsec"><h3>Quick picks</h3><div id="fQuick"></div></div>
     <div class="fsec"><h3>Category</h3><div id="fCat"></div></div>
@@ -237,7 +241,7 @@ footer p{margin:4px 0;max-width:90ch}
     <div id="list"></div>
     <div class="empty" id="empty" style="display:none"><b>Nothing matches those filters.</b><br>Try removing one — or <button class="btn" id="clearAll2" style="margin-top:8px">reset everything</button></div>
     <footer>
-      <p><b>How the score works:</b> Overall /100 = Prestige×3.5 + Sophomore fit×2.5 + Pay×1.5 + Location×1.5 + Timing×1 (each component scored 1–10). Prestige weighs most because brand-name experience compounds; sophomore fit is second because a program she can't enter until senior year is worth less right now. Re-sort by any single component above.</p>
+      <p><b>How the score works:</b> Overall /100 is a weighted blend of five components each scored 1–10, normalized so 100 is always the max. Default weights — Prestige ×3.5, Sophomore fit ×2.5, Pay ×1.5, Location ×1.5, Timing ×1 — reflect that brand-name experience compounds, and that a program she can't enter until senior year is worth less right now. Disagree? Drag the sliders under <b>Score weights</b> in the filters and the whole ranking recalculates; your weights are remembered on this device.</p>
       <p><b>Honesty notes:</b> contact emails are only shown where the organization publishes them. Deadlines labeled “expected” are projected from the previous cycle — verify before relying on them. Eligibility rules change yearly; re-read each posting.</p>
       <p id="autoNote">Compiled by Claude research agents, Aug 5–6 2026.</p>
     </footer>
@@ -287,6 +291,42 @@ const REMOTES=[['yes','Fully remote'],['hybrid','Hybrid'],['no','In person']];
 
 const state = { q:'', cat:new Set(), region:new Set(), remote:new Set(), pay:new Set(),
   role:new Set(), timing:new Set(), quick:new Set(), payMin:1, sort:'overall', dir:-1 };
+
+/* ---------- adjustable score weights ---------- */
+const W_DEFAULT = { prestige:3.5, fit:2.5, pay:1.5, loc:1.5, timing:1 };
+const W_META = [
+  ['prestige','Prestige','--s1'], ['fit','Sophomore fit','--s2'], ['pay','Pay','--s3'],
+  ['loc','Location','--s4'], ['timing','Timing','--s5'],
+];
+let W = {...W_DEFAULT};
+try {
+  const saved = JSON.parse(localStorage.getItem('pressbox-weights') || 'null');
+  if (saved && W_META.every(([k]) => typeof saved[k] === 'number' && saved[k] >= 0 && saved[k] <= 5)) W = saved;
+} catch (e) {}
+const sumW = () => W_META.reduce((a, [k]) => a + W[k], 0);
+function liveScore(r){
+  const sw = sumW();
+  if (!sw) return 0;
+  return Math.round(10 * W_META.reduce((a, [k]) => a + W[k] * r.s[k], 0) / sw * 10) / 10;
+}
+let RANKS = new Map();
+function computeRanks(){
+  const order = [...ROWS].map(r => [r.id, liveScore(r)]).sort((a, b) => b[1] - a[1]);
+  RANKS = new Map();
+  order.forEach(([id], i) => RANKS.set(id, i + 1));
+}
+function renderLegend(){
+  document.getElementById('legend').innerHTML = W_META.map(([k, l, c]) =>
+    `<span><i class="d" style="background:var(${c})"></i>${l} ×${W[k]}</span>`).join('') +
+    `<span style="margin-left:auto">= score /100</span>`;
+}
+function renderWeights(){
+  document.getElementById('fWeights').innerHTML = W_META.map(([k, l, c]) =>
+    `<div class="wrow"><i class="d" style="background:var(${c})"></i><span class="wl">${l}</span>` +
+    `<input type="range" min="0" max="5" step="0.5" value="${W[k]}" data-w="${k}" aria-label="${l} weight">` +
+    `<span class="wv">×${W[k]}</span></div>`).join('');
+  renderLegend();
+}
 
 const uniq = (arr)=>[...new Set(arr)];
 const CATS = uniq(ROWS.map(r=>r.cat)).sort();
@@ -374,20 +414,27 @@ function dlPill(r){
   return `<span class="pill dl ${cls}" title="${esc(r.deadlineLabel||r.window)}">${pre}${txt}</span>`;
 }
 function sbar(r){
-  const seg = [[r.s.prestige*3.5,'--s1','Prestige'],[r.s.fit*2.5,'--s2','Sophomore fit'],[r.s.pay*1.5,'--s3','Pay'],[r.s.loc*1.5,'--s4','Location'],[r.s.timing*1,'--s5','Timing']];
-  return `<div class="sbar" role="img" aria-label="Score ${r.s.overall} of 100">`+
-    seg.map(([v,c,l])=>`<i style="width:${v}%;background:var(${c})" title="${l}: ${v.toFixed(1)} pts"></i>`).join('')+`</div>`;
+  const sw = sumW() || 1;
+  const score = liveScore(r);
+  return `<div class="sbar" role="img" aria-label="Score ${score} of 100">`+
+    W_META.map(([k,l,c])=>{
+      const pts = 10 * W[k] * r.s[k] / sw;
+      return `<i style="width:${pts}%;background:var(${c})" title="${l}: ${pts.toFixed(1)} pts"></i>`;
+    }).join('')+`</div>`;
 }
 function card(r){
-  return `<div class="card ${r.rank<=10?'top10':''}" data-id="${r.id}">
+  const rank = RANKS.get(r.id) || r.rank;
+  const score = liveScore(r);
+  const sw = sumW() || 1;
+  return `<div class="card ${rank<=10?'top10':''}" data-id="${r.id}">
   <button class="exp" aria-expanded="false"><div class="crow">
-    <div class="rank">#${r.rank}</div>
+    <div class="rank">#${rank}</div>
     <div class="tt">
       <div class="nm">${esc(r.name)}</div>
       <div class="org">${esc(r.org)}</div>
       <div class="tags">
         <span class="pill cat">${esc(r.cat)}</span>
-        ${r.rank<=10?'<span class="pill gold">★ Top 10</span>':''}
+        ${rank<=10?'<span class="pill gold">★ Top 10</span>':''}
         ${dlPill(r)}
         <span class="pill">${esc(r.regions.filter(x=>!x.startsWith('Remote'))[0]||'Remote')}</span>
         ${r.remote==='yes'?'<span class="pill">Remote</span>':r.remote==='hybrid'?'<span class="pill">Hybrid</span>':''}
@@ -395,7 +442,7 @@ function card(r){
         ${r.tags.includes('volleyball')?'<span class="pill">🏐</span>':''}
       </div>
     </div>
-    <div class="scorebox"><div class="num">${r.s.overall}<small> /100</small></div>${sbar(r)}</div>
+    <div class="scorebox"><div class="num">${score}<small> /100</small></div>${sbar(r)}</div>
   </div></button>
   <div class="det">
     <div class="grid">
@@ -406,11 +453,11 @@ function card(r){
       <div class="f"><h4>Time commitment</h4><p>${esc(r.time)||'—'}</p></div>
       <div class="f"><h4>Location</h4><p>${esc(r.loc)||'—'} ${r.remote&&r.remote!=='no'?`(${r.remote})`:''}</p></div>
       <div class="f"><h4>Contact</h4><p>${r.email?`<a href="mailto:${esc(r.email)}">${esc(r.email)}</a>`:'—'}${r.contact?`<br>${esc(r.contact)}`:''}</p></div>
-      <div class="f" style="grid-column:1/-1"><h4>Score breakdown</h4>
+      <div class="f" style="grid-column:1/-1"><h4>Score breakdown (current weights)</h4>
         <table><tr><th></th><th>Score</th><th>Weight</th><th>Points</th></tr>
-        ${[['Prestige','--s1',r.s.prestige,3.5],['Sophomore fit','--s2',r.s.fit,2.5],['Pay','--s3',r.s.pay,1.5],['Location','--s4',r.s.loc,1.5],['Timing','--s5',r.s.timing,1]].map(([l,c,v,w])=>
-          `<tr><td><i class="d" style="background:var(${c});width:9px;height:9px;border-radius:3px;display:inline-block;margin-right:6px"></i>${l}</td><td>${v}/10</td><td>×${w}</td><td class="pt">${(v*w).toFixed(1)}</td></tr>`).join('')}
-        <tr><td></td><td></td><th>Total</th><td class="pt">${r.s.overall}</td></tr></table></div>
+        ${W_META.map(([k,l,c])=>
+          `<tr><td><i class="d" style="background:var(${c});width:9px;height:9px;border-radius:3px;display:inline-block;margin-right:6px"></i>${l}</td><td>${r.s[k]}/10</td><td>×${W[k]}</td><td class="pt">${(10*W[k]*r.s[k]/sw).toFixed(1)}</td></tr>`).join('')}
+        <tr><td></td><td></td><th>Total</th><td class="pt">${score}</td></tr></table></div>
       <div class="actions">
         ${r.link?`<a class="btn primary" href="${esc(r.link)}" target="_blank" rel="noopener">Apply / details ↗</a>`:''}
         ${r.email?`<a class="btn" href="mailto:${esc(r.email)}">Email contact</a>`:''}
@@ -429,12 +476,13 @@ function currentRows(){
       const av=a.deadline||'9999', bv=b.deadline||'9999';
       return av<bv?dirv===-1?-1:1:av>bv?dirv===-1?1:-1:0;
     }
-    if (key==='overall') return (a.s.overall-b.s.overall)*dirv;
-    return (a.s[key]-b.s[key])*dirv || (a.s.overall-b.s.overall)*dirv;
+    if (key==='overall') return (liveScore(a)-liveScore(b))*dirv;
+    return (a.s[key]-b.s[key])*dirv || (liveScore(a)-liveScore(b))*dirv;
   });
   return rows;
 }
 function render(){
+  computeRanks();
   const rows = currentRows();
   document.getElementById('list').innerHTML = rows.map(card).join('');
   document.getElementById('shown').textContent = rows.length;
@@ -476,6 +524,27 @@ document.getElementById('list').addEventListener('click', e=>{
 document.getElementById('fOpen').addEventListener('click', ()=>document.getElementById('filterPanel').classList.add('open'));
 document.getElementById('fClose').addEventListener('click', ()=>document.getElementById('filterPanel').classList.remove('open'));
 
+/* weight sliders: live re-rank while dragging (coalesced), persist on release */
+let wPend = 0;
+document.getElementById('fWeights').addEventListener('input', e=>{
+  const t = e.target;
+  if (!t.dataset.w) return;
+  W[t.dataset.w] = +t.value;
+  t.parentElement.querySelector('.wv').textContent = '×' + t.value;
+  renderLegend();
+  clearTimeout(wPend);
+  wPend = setTimeout(render, 30);
+});
+document.getElementById('fWeights').addEventListener('change', e=>{
+  if (!e.target.dataset.w) return;
+  try { localStorage.setItem('pressbox-weights', JSON.stringify(W)); } catch(err) {}
+});
+document.getElementById('wReset').addEventListener('click', ()=>{
+  W = {...W_DEFAULT};
+  try { localStorage.removeItem('pressbox-weights'); } catch(err) {}
+  renderWeights(); render();
+});
+
 /* ---------- search + suggestions ---------- */
 const qEl = document.getElementById('q'), sEl = document.getElementById('sugg');
 let selIdx = -1;
@@ -507,5 +576,5 @@ sEl.addEventListener('mousedown', e=>{ const it=e.target.closest('.it'); if(it) 
 document.addEventListener('click', e=>{ if(!e.target.closest('.searchrow')) sEl.classList.remove('open'); });
 document.getElementById('clearQ').addEventListener('click', ()=>{ qEl.value=''; state.q=''; suggest(''); document.getElementById('clearQ').style.display='none'; render(); });
 
-syncDir(); render();
+syncDir(); renderWeights(); render();
 </script>
