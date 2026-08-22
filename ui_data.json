@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-20",
+    "updated": "2026-08-22",
     "count": 172,
-    "note": "Daily refresh Aug 20, 2026: re-verified imminent deadlines (WBD NYC/ATL Aug 21, Cal Volleyball Aug 22, URAP Aug 31) - all confirmed accurate as recorded; re-checked Daily Cal open-house claim resurfacing in search results and confirmed via tweet timestamp decoding it is still the mis-dated 2025 tweet, existing caveat stands; reconfirmed NLGJA convention (SF, Sept 10-13) and added missing deadlineLabel; checked SF Standard, KRON4, FanSided, WISE - no changes found."
+    "note": "Daily refresh Aug 22, 2026: WBD NYC (R000107178) and ATL (R000107173 + siblings) fall 2026 internship cycles confirmed closed as of their ~Aug 21 deadlines - both re-bucketed to watch, deadlines cleared, next-wave expectations noted; URAP fall application window confirmed open (Aug 21-31) with project listings now live; Cal Volleyball Aug 22 scrimmage date reconfirmed via schedule search; no primary-source info found yet on ACC Network Extra student crew recruiting (unverified note stands)."
   },
   "rows": [
     {
@@ -1729,48 +1729,6 @@
     {
       "id": 43,
       "rank": 43,
-      "name": "Warner Bros. Discovery Sports Internships (TNT Sports, sports marketing/social, analytics)",
-      "org": "Warner Bros. Discovery / TNT Sports",
-      "cat": "National sports media",
-      "role": "internship",
-      "loc": "New York City, Atlanta, Knoxville",
-      "remote": "hybrid",
-      "regions": [
-        "New York City",
-        "Other US",
-        "Remote-friendly (hybrid)"
-      ],
-      "pay": "Paid hourly (varies by location)",
-      "payType": "Paid (hourly / unspecified)",
-      "payScore": 7,
-      "time": "Full-time summer; part-time fall/spring cohorts also verified",
-      "window": "Verified Aug 7, 2026: NYC Sports Marketing & Social (R000107178) open until ~Aug 21; ATL slate also live: Growth Strategy & Data (R000107173), Production & Design, Marketing & Social, CNN Sports, Inclusion Intern - all fall 2026, rising junior/senior, ~$19/hr.",
-      "deadline": "2026-08-21",
-      "deadlineLabel": "NYC fall social internship closes ~Aug 21",
-      "buckets": [
-        "closing-soon",
-        "fall-2026"
-      ],
-      "elig": "Rising juniors and seniors, 3.0+ GPA, US work authorization. Class of 2028 = rising junior by graduation year - she likely QUALIFIES for these fall roles; NYC/ATL hybrid location is the real constraint from Berkeley.",
-      "desc": "Verified 2026 roles include TNT Sports NHL Marketing, Sports Marketing & Social Media (NYC), and Sports Analytics (Atlanta). Urgent: the Fall 2026 NYC sports social internship deadline is around Aug 21, 2026 \u2014 worth an immediate look even if the semester logistics are hard, and it signals the team recruits every term.",
-      "email": null,
-      "contact": null,
-      "link": "https://careers.wbd.com/global/en/job/R000107178/Sports-Marketing-and-Social-Media-Internships-NYC-Fall-2026",
-      "s": {
-        "prestige": 8,
-        "fit": 5,
-        "pay": 7,
-        "loc": 6,
-        "timing": 9,
-        "overall": 69.0
-      },
-      "tags": [
-        "verified"
-      ]
-    },
-    {
-      "id": 44,
-      "rank": 44,
       "name": "Newsroom Summer Internship Program",
       "org": "The Washington Post",
       "cat": "General journalism",
@@ -1808,8 +1766,8 @@
       ]
     },
     {
-      "id": 45,
-      "rank": 45,
+      "id": 44,
+      "rank": 44,
       "name": "POLITICO Editorial Internships (HQ, New York, California/Sacramento)",
       "org": "POLITICO",
       "cat": "General journalism",
@@ -1848,8 +1806,8 @@
       "tags": []
     },
     {
-      "id": 46,
-      "rank": 46,
+      "id": 45,
+      "rank": 45,
       "name": "Summer Reporting Internships",
       "org": "Bay Area News Group (The Mercury News, East Bay Times)",
       "cat": "General journalism",
@@ -1890,8 +1848,8 @@
       ]
     },
     {
-      "id": 47,
-      "rank": 47,
+      "id": 46,
+      "rank": 46,
       "name": "Daily Californian Education Foundation scholarships (via Daily Cal sports staff)",
       "org": "The Daily Californian Education Foundation",
       "cat": "Programs & fellowships",
@@ -1930,8 +1888,8 @@
       ]
     },
     {
-      "id": 48,
-      "rank": 48,
+      "id": 47,
+      "rank": 47,
       "name": "Freelance writer \u2014 The IX Basketball (formerly The Next), The IX Soccer (with The Equalizer), The IX newsletter",
       "org": "The IX Sports (Howard Megdal's women's sports network)",
       "cat": "Bay Area & digital outlets",
@@ -1971,8 +1929,8 @@
       ]
     },
     {
-      "id": 49,
-      "rank": 49,
+      "id": 48,
+      "rank": 48,
       "name": "Social media / digital ecosystems student assistant",
       "org": "Cal Athletics - Strawberry Creek Studios (Digital Ecosystems)",
       "cat": "Cal campus / athletics",
@@ -2012,8 +1970,8 @@
       ]
     },
     {
-      "id": 50,
-      "rank": 50,
+      "id": 49,
+      "rank": 49,
       "name": "Student manager / practice support - Cal Women's Volleyball",
       "org": "Cal Athletics - Women's Volleyball",
       "cat": "Cal campus / athletics",
@@ -2056,8 +2014,8 @@
       ]
     },
     {
-      "id": 51,
-      "rank": 51,
+      "id": 50,
+      "rank": 50,
       "name": "Undergraduate Journalism Minor (J100 News Reporting, J110 Multimedia)",
       "org": "UC Berkeley Graduate School of Journalism",
       "cat": "Cal campus / athletics",
@@ -2098,8 +2056,8 @@
       ]
     },
     {
-      "id": 52,
-      "rank": 52,
+      "id": 51,
+      "rank": 51,
       "name": "URAP research apprenticeship with Journalism/Investigative Reporting Program faculty",
       "org": "UC Berkeley Office of Undergraduate Research (URAP)",
       "cat": "Cal campus / athletics",
@@ -2114,7 +2072,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Typically 6-12 hours/week for a semester",
-      "window": "Verified Aug 12, 2026: corrected \u2014 the fall 2026 URAP application window opens Fri Aug 21 after 4pm and closes Mon Aug 31, 4pm (research.berkeley.edu/urap/application). Previous entry mistakenly used the open date as the deadline. Apply within that window once faculty project listings post.",
+      "window": "Verified Aug 22, 2026: fall 2026 URAP application window opened Aug 21 as scheduled; project listings (research.berkeley.edu/urap and urapprojects.berkeley.edu) are now viewable. Deadline remains Aug 31, 4pm - browse Journalism/IRP and Media Studies-adjacent projects now.",
       "deadline": "2026-08-31",
       "deadlineLabel": "Fall application deadline Aug 31, 4pm (window opens Aug 21)",
       "buckets": [
@@ -2135,15 +2093,15 @@
         "overall": 68.0
       },
       "tags": [
+        "has-contact",
         "on-campus",
         "sophomore-ok",
-        "has-contact",
         "verified"
       ]
     },
     {
-      "id": 53,
-      "rank": 53,
+      "id": 52,
+      "rank": 52,
       "name": "PBS News Hour Internships (WETA)",
       "org": "PBS News Hour / WETA",
       "cat": "General journalism",
@@ -2182,8 +2140,8 @@
       ]
     },
     {
-      "id": 54,
-      "rank": 54,
+      "id": 53,
+      "rank": 53,
       "name": "ESPN / AAJA Sports Task Force Production Internship",
       "org": "ESPN + Asian American Journalists Association Sports Task Force",
       "cat": "National sports media",
@@ -2222,8 +2180,8 @@
       ]
     },
     {
-      "id": 55,
-      "rank": 55,
+      "id": 54,
+      "rank": 54,
       "name": "NBCUniversal Summer Internship Program (NBC Sports / Peacock Sports tracks)",
       "org": "NBCUniversal",
       "cat": "National sports media",
@@ -2262,8 +2220,8 @@
       ]
     },
     {
-      "id": 56,
-      "rank": 56,
+      "id": 55,
+      "rank": 55,
       "name": "The Athletic - Leon H. Carter Internship Program",
       "org": "The Athletic (The New York Times Company)",
       "cat": "National sports media",
@@ -2302,8 +2260,8 @@
       ]
     },
     {
-      "id": 57,
-      "rank": 57,
+      "id": 56,
+      "rank": 56,
       "name": "Social Media Intern",
       "org": "Sacramento Kings (NBA)",
       "cat": "Teams & leagues",
@@ -2339,8 +2297,8 @@
       "tags": []
     },
     {
-      "id": 58,
-      "rank": 58,
+      "id": 57,
+      "rank": 57,
       "name": "WSJ Summer Internship Program",
       "org": "The Wall Street Journal (Dow Jones)",
       "cat": "General journalism",
@@ -2380,8 +2338,8 @@
       "tags": []
     },
     {
-      "id": 59,
-      "rank": 59,
+      "id": 58,
+      "rank": 58,
       "name": "NABJ Student Multimedia Project (2027)",
       "org": "National Association of Black Journalists (NABJ)",
       "cat": "Programs & fellowships",
@@ -2420,8 +2378,8 @@
       ]
     },
     {
-      "id": 60,
-      "rank": 60,
+      "id": 59,
+      "rank": 59,
       "name": "Freelance high school sports stringer / photographer",
       "org": "MaxPreps (CBS Sports)",
       "cat": "Bay Area & digital outlets",
@@ -2462,8 +2420,8 @@
       ]
     },
     {
-      "id": 61,
-      "rank": 61,
+      "id": 60,
+      "rank": 60,
       "name": "Cal Football creative / recruiting content student team",
       "org": "Cal Athletics - Football Creative Video",
       "cat": "Cal campus / athletics",
@@ -2501,8 +2459,8 @@
       ]
     },
     {
-      "id": 62,
-      "rank": 62,
+      "id": 61,
+      "rank": 61,
       "name": "KALX News department volunteer / news-production internship",
       "org": "KALX 90.7 FM Berkeley",
       "cat": "Cal campus / athletics",
@@ -2541,8 +2499,8 @@
       ]
     },
     {
-      "id": 63,
-      "rank": 63,
+      "id": 62,
+      "rank": 62,
       "name": "Bleacher Report / House of Highlights Social & Production Internships",
       "org": "Warner Bros. Discovery - Bleacher Report / House of Highlights",
       "cat": "National sports media",
@@ -2582,8 +2540,8 @@
       ]
     },
     {
-      "id": 64,
-      "rank": 64,
+      "id": 63,
+      "rank": 63,
       "name": "The Ringer Summer Internships (Production; Editorial)",
       "org": "The Ringer / Spotify",
       "cat": "National sports media",
@@ -2621,8 +2579,8 @@
       ]
     },
     {
-      "id": 65,
-      "rank": 65,
+      "id": 64,
+      "rank": 64,
       "name": "US Open Media Operations Assistant (seasonal)",
       "org": "USTA / US Open",
       "cat": "Teams & leagues",
@@ -2661,8 +2619,8 @@
       ]
     },
     {
-      "id": 66,
-      "rank": 66,
+      "id": 65,
+      "rank": 65,
       "name": "AP Global News Internship",
       "org": "Associated Press",
       "cat": "General journalism",
@@ -2698,8 +2656,8 @@
       "tags": []
     },
     {
-      "id": 67,
-      "rank": 67,
+      "id": 66,
+      "rank": 66,
       "name": "SPJ student membership + SPJ Northern California chapter",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -2738,8 +2696,8 @@
       ]
     },
     {
-      "id": 68,
-      "rank": 68,
+      "id": 67,
+      "rank": 67,
       "name": "KNBR 680/104.5 The Sports Leader \u2014 Programming Internship",
       "org": "Cumulus Media San Francisco (KNBR/KSFO/KGO)",
       "cat": "Bay Area & digital outlets",
@@ -2777,8 +2735,8 @@
       ]
     },
     {
-      "id": 69,
-      "rank": 69,
+      "id": 68,
+      "rank": 68,
       "name": "Emerging Reporters Program",
       "org": "ProPublica",
       "cat": "General journalism",
@@ -2817,8 +2775,8 @@
       ]
     },
     {
-      "id": 70,
-      "rank": 70,
+      "id": 69,
+      "rank": 69,
       "name": "NHL Summer Internship Program",
       "org": "National Hockey League (League Office)",
       "cat": "Teams & leagues",
@@ -2854,8 +2812,8 @@
       "tags": []
     },
     {
-      "id": 71,
-      "rank": 71,
+      "id": 70,
+      "rank": 70,
       "name": "PGA TOUR Summer Internship Program 2027",
       "org": "PGA TOUR",
       "cat": "Teams & leagues",
@@ -2893,8 +2851,8 @@
       ]
     },
     {
-      "id": 72,
-      "rank": 72,
+      "id": 71,
+      "rank": 71,
       "name": "AWSM student membership + annual convention",
       "org": "Association for Women in Sports Media (AWSM)",
       "cat": "Programs & fellowships",
@@ -2936,8 +2894,8 @@
       ]
     },
     {
-      "id": 73,
-      "rank": 73,
+      "id": 72,
+      "rank": 72,
       "name": "Athletic Communications / media relations student assistant (incl. gameday stats support)",
       "org": "Cal Athletics - Athletic Communications",
       "cat": "Cal campus / athletics",
@@ -2977,8 +2935,8 @@
       ]
     },
     {
-      "id": 74,
-      "rank": 74,
+      "id": 73,
+      "rank": 73,
       "name": "Front Office Sports - Social Media Intern (and recurring FOS internships)",
       "org": "Front Office Sports (backed by RedBird IMI)",
       "cat": "National sports media",
@@ -3017,8 +2975,8 @@
       ]
     },
     {
-      "id": 75,
-      "rank": 75,
+      "id": 74,
+      "rank": 74,
       "name": "Sports Journalism Institute (SJI)",
       "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
       "cat": "National sports media",
@@ -3056,8 +3014,8 @@
       ]
     },
     {
-      "id": 76,
-      "rank": 76,
+      "id": 75,
+      "rank": 75,
       "name": "Seasonal Social Media Specialist / team & league internships",
       "org": "League One Volleyball (LOVB Pro)",
       "cat": "Teams & leagues",
@@ -3100,8 +3058,8 @@
       ]
     },
     {
-      "id": 77,
-      "rank": 77,
+      "id": 76,
+      "rank": 76,
       "name": "VolleyballMag - freelance contributor route",
       "org": "VolleyballMag.com",
       "cat": "National sports media",
@@ -3141,8 +3099,8 @@
       ]
     },
     {
-      "id": 78,
-      "rank": 78,
+      "id": 77,
+      "rank": 77,
       "name": "Internships / matchday content roles",
       "org": "Bay FC (NWSL)",
       "cat": "Teams & leagues",
@@ -3182,8 +3140,8 @@
       ]
     },
     {
-      "id": 79,
-      "rank": 79,
+      "id": 78,
+      "rank": 78,
       "name": "USTA Undergraduate Summer Internship (e.g., Digital Strategy & Partnerships)",
       "org": "USTA (United States Tennis Association)",
       "cat": "Teams & leagues",
@@ -3220,8 +3178,8 @@
       "tags": []
     },
     {
-      "id": 80,
-      "rank": 80,
+      "id": 79,
+      "rank": 79,
       "name": "Summer Internships (News Reporting, Social Media, Photo)",
       "org": "The San Francisco Standard",
       "cat": "General journalism",
@@ -3257,8 +3215,8 @@
       "tags": []
     },
     {
-      "id": 81,
-      "rank": 81,
+      "id": 80,
+      "rank": 80,
       "name": "IRE student membership + conference fellowships (incl. AccessFest26)",
       "org": "Investigative Reporters & Editors (IRE)",
       "cat": "Programs & fellowships",
@@ -3298,8 +3256,8 @@
       ]
     },
     {
-      "id": 82,
-      "rank": 82,
+      "id": 81,
+      "rank": 81,
       "name": "Editorial/content internships and contributor pitches",
       "org": "Just Women's Sports",
       "cat": "Bay Area & digital outlets",
@@ -3339,8 +3297,8 @@
       ]
     },
     {
-      "id": 83,
-      "rank": 83,
+      "id": 82,
+      "rank": 82,
       "name": "ABC7/KGO-TV College Student Internship Program",
       "org": "KGO-TV ABC7 (Disney/ABC Owned Television Stations)",
       "cat": "General journalism",
@@ -3374,6 +3332,47 @@
         "overall": 65.5
       },
       "tags": []
+    },
+    {
+      "id": 83,
+      "rank": 83,
+      "name": "Warner Bros. Discovery Sports Internships (TNT Sports, sports marketing/social, analytics)",
+      "org": "Warner Bros. Discovery / TNT Sports",
+      "cat": "National sports media",
+      "role": "internship",
+      "loc": "New York City, Atlanta, Knoxville",
+      "remote": "hybrid",
+      "regions": [
+        "New York City",
+        "Other US",
+        "Remote-friendly (hybrid)"
+      ],
+      "pay": "Paid hourly (varies by location)",
+      "payType": "Paid (hourly / unspecified)",
+      "payScore": 7,
+      "time": "Full-time summer; part-time fall/spring cohorts also verified",
+      "window": "Verified Aug 22, 2026: NYC Sports Marketing & Social (R000107178) fall 2026 cycle closed (deadline was on/before Aug 21). WBD recruits every term; next wave (spring 2027 term) expected to post ~Nov-Dec 2026 on careers.wbd.com - check back then.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "watch"
+      ],
+      "elig": "Rising juniors and seniors, 3.0+ GPA, US work authorization. Class of 2028 = rising junior by graduation year - she likely QUALIFIES for these fall roles; NYC/ATL hybrid location is the real constraint from Berkeley.",
+      "desc": "Verified 2026 roles include TNT Sports NHL Marketing, Sports Marketing & Social Media (NYC), and Sports Analytics (Atlanta). Urgent: the Fall 2026 NYC sports social internship deadline is around Aug 21, 2026 \u2014 worth an immediate look even if the semester logistics are hard, and it signals the team recruits every term.",
+      "email": null,
+      "contact": null,
+      "link": "https://careers.wbd.com/global/en/job/R000107178/Sports-Marketing-and-Social-Media-Internships-NYC-Fall-2026",
+      "s": {
+        "prestige": 8,
+        "fit": 5,
+        "pay": 7,
+        "loc": 6,
+        "timing": 5,
+        "overall": 65.0
+      },
+      "tags": [
+        "verified"
+      ]
     },
     {
       "id": 84,
@@ -4632,13 +4631,11 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "16-24 hrs/week, Oct 12-Dec 18, 2026",
-      "window": "Verified Aug 6, 2026: ATL fall slate live on careers.wbd.com; Growth Strategy & Data (R000107173) confirmed with deadline on/before Aug 21 - siblings likely same.",
-      "deadline": "2026-08-21",
-      "deadlineLabel": "Apps close ~Aug 21",
+      "window": "Verified Aug 22, 2026: ATL fall 2026 slate (Growth Strategy & Data R000107173 and siblings) closed (deadline was on/before Aug 21). Not fall-compatible with Berkeley anyway; per prior verification the next relevant wave is summer 2027 postings, expected ~Jan-Mar 2027.",
+      "deadline": null,
+      "deadlineLabel": null,
       "buckets": [
-        "open-now",
-        "closing-soon",
-        "fall-2026"
+        "watch"
       ],
       "elig": "Rising juniors/seniors, 3.0+ GPA, US work auth. Class of 2028 = likely eligible by graduation year; Atlanta residency during the semester is the real blocker.",
       "desc": "Included for completeness of the WBD fall slate: five ATL sports-side internships incl. CNN Sports and an Inclusion Intern. Not compatible with a Berkeley fall - but proof this team hires every term; summer 2027 postings land Jan-Mar.",
