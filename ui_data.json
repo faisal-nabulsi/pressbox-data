@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "count": 172,
-    "note": "Daily refresh Aug 23, 2026: Cal Womens Volleyball student manager/practice-player pitch window (row formerly id 49) updated after the Aug 22 scrimmage passed - new target is the Aug 28-30 Gael Bear Classic season opener; deadline moved to Aug 28. Checked KRON4, Strawberry Creek Studios/Gameday Entertainment student crew, KALX fall volunteer recruitment, Daily Cal open-house timing, Berkeley B-Side, and Fear the Fin staff recruiting - no new primary-source postings found for any (notes unchanged, semester starts Aug 26 so recheck in the next few days)."
+    "note": "Daily refresh Aug 24, 2026: Daily Cal confirmed fall 2026 open houses Sept 5 & 11 (rows 10/33/34); corrected Cal Women's Volleyball Gael Bear Classic venue to Haas Pavilion, not Moraga, with confirmed Aug 28 vs. Pacific / Aug 29 vs. UC San Diego matchups (row 49); flagged the ~25-person June 2026 Cal Athletics layoff and 'Strawberry Creek Studios' reorg affecting technical production, football creative video, and athletic communications contacts (rows 11/60/72); removed WISE's unconfirmed Bay FC tie-in deadline (row 105) after a second check found no corroboration. Re-verified IRE, NLGJA, URAP, MLV NorCal, Sacramento Kings, NBCU, SF Standard, Mission Local, FloSports - no other changes found."
   },
   "rows": [
     {
@@ -388,7 +388,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "1-2 articles per week; beat writers cover an assigned Cal team with press passes to games and access to coaches/players",
-      "window": "Verified Aug 18, 2026: sports reporter/photographer/video producer application pages remain live on apply.dailycal.org. Correction: the previously cited '@dailycal open houses Sept 5 & 11' tweet is from Aug 2025 (last year's cycle), not 2026 - no 2026-dated recruiting announcement confirmed yet. Reconfirm portal and open-house dates closer to the semester start (Aug 26).",
+      "window": "Verified Aug 24, 2026: Daily Cal's official account confirmed fall 2026 recruiting is open, hiring for 20+ positions, with open houses at the Daily Cal office Sept. 5 and Sept. 11, 2026 (resolves prior uncertainty about whether 2025 dates had been mistakenly carried over). Application pages remain live on apply.dailycal.org.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -432,7 +432,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Per-broadcast shifts (camera, replay, graphics, audio) for Cal's ACCNX-streamed events, including women's volleyball",
-      "window": "Crews assemble each season; fall 2026 volleyball/soccer streams begin late Aug - reach out in August",
+      "window": "Crews assemble each season; fall 2026 volleyball/soccer streams begin late Aug - reach out in August. Verified Aug 24, 2026: Cal Athletics laid off ~25 staff across marketing, athletic communications, and creative services in June 2026, restructuring into a new 'Strawberry Creek Studios' content model with 20+ new positions posted (confirmed via Daily Cal, SF Chronicle, Athletic Business, and Front Office Sports reporting, Apr-Jun 2026). Named staff contacts below could not be independently reconfirmed as current given the reorg - verify via calbears.com/staff-directory before reaching out.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -1330,7 +1330,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Weekly assignments; sports shoots on game days at Memorial Stadium/Haas Pavilion",
-      "window": "Verified Aug 18, 2026: sports reporter/photographer/video producer application pages remain live on apply.dailycal.org. Correction: the previously cited '@dailycal open houses Sept 5 & 11' tweet is from Aug 2025 (last year's cycle), not 2026 - no 2026-dated recruiting announcement confirmed yet. Reconfirm portal and open-house dates closer to the semester start (Aug 26).",
+      "window": "Verified Aug 24, 2026: Daily Cal's official account confirmed fall 2026 recruiting is open, hiring for 20+ positions, with open houses at the Daily Cal office Sept. 5 and Sept. 11, 2026 (resolves prior uncertainty about whether 2025 dates had been mistakenly carried over). Application pages remain live on apply.dailycal.org.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -1374,7 +1374,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Roughly one video/podcast project at a time plus weekly department meetings",
-      "window": "Verified Aug 18, 2026: sports reporter/photographer/video producer application pages remain live on apply.dailycal.org. Correction: the previously cited '@dailycal open houses Sept 5 & 11' tweet is from Aug 2025 (last year's cycle), not 2026 - no 2026-dated recruiting announcement confirmed yet. Reconfirm portal and open-house dates closer to the semester start (Aug 26).",
+      "window": "Verified Aug 24, 2026: Daily Cal's official account confirmed fall 2026 recruiting is open, hiring for 20+ positions, with open houses at the Daily Cal office Sept. 5 and Sept. 11, 2026 (resolves prior uncertainty about whether 2025 dates had been mistakenly carried over). Application pages remain live on apply.dailycal.org.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -1985,7 +1985,7 @@
       "payType": "Stipend / scholarship",
       "payScore": 5,
       "time": "Multiple practices per week plus home matches in season (Aug-Nov)",
-      "window": "Verified Aug 23, 2026: the Aug 22 Blue & Gold intrasquad scrimmage has passed (outreach window before it is closed). Season opens at the Gael Bear Classic (Moraga, co-hosted with Saint Mary's, also featuring UC San Diego, Southern Utah, Gonzaga) - Cal plays Fri Aug 28 7:00pm, Sat Aug 29 7:00pm, and Sun Aug 30 (11am & 2pm). A manager/practice-player/media pitch should land before the opener.",
+      "window": "Verified Aug 24, 2026: corrected venue - Cal's Gael Bear Classic matches are played at Haas Pavilion in Berkeley, not Moraga (calbears.com schedule release, corroborated by VCP Volleyball). Confirmed matchups: Fri Aug 28 vs. Pacific, 7:00pm, and Sat Aug 29 vs. UC San Diego, 7:00pm, both at Haas Pavilion. The tournament also features Saint Mary's, Southern Utah, and Gonzaga; Sunday Aug 30 matchups were not independently confirmed in this check. A manager/practice-player/media pitch should land before the opener.",
       "deadline": "2026-08-28",
       "deadlineLabel": "Season opener - Gael Bear Classic Aug 28-30",
       "buckets": [
@@ -2435,7 +2435,7 @@
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "Practices, gamedays, and recruiting weekends in season (Aug-Nov)",
-      "window": "Staffed ahead of and during football season; the director role charged with building the student team had a June 26, 2026 first-review date, so the student workforce is being assembled for fall 2026",
+      "window": "Staffed ahead of and during football season; the director role charged with building the student team had a June 26, 2026 first-review date, so the student workforce is being assembled for fall 2026. Verified Aug 24, 2026: Cal Athletics laid off ~25 staff across marketing, athletic communications, and creative services in June 2026, restructuring into a new 'Strawberry Creek Studios' content model with 20+ new positions posted (confirmed via Daily Cal, SF Chronicle, Athletic Business, and Front Office Sports reporting, Apr-Jun 2026). Named staff contacts below could not be independently reconfirmed as current given the reorg - verify via calbears.com/staff-directory before reaching out.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -2909,7 +2909,7 @@
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "Office hours plus game-day duties (press box setup, stats, notes, postgame quotes)",
-      "window": "Hired around start of fall semester; recurring every year",
+      "window": "Hired around start of fall semester; recurring every year. Verified Aug 24, 2026: Cal Athletics laid off ~25 staff across marketing, athletic communications, and creative services in June 2026, restructuring into a new 'Strawberry Creek Studios' content model with 20+ new positions posted (confirmed via Daily Cal, SF Chronicle, Athletic Business, and Front Office Sports reporting, Apr-Jun 2026). Named staff contacts below could not be independently reconfirmed as current given the reorg - verify via calbears.com/staff-directory before reaching out.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -4224,9 +4224,9 @@
       "payType": "Unpaid / for credit",
       "payScore": 1,
       "time": "Ongoing; chapter events and webinars as available",
-      "window": "Verified Aug 6, 2026: SF Bay Area chapter is ACTIVE: virtual event Aug 6, South Bay Walk & Talk Aug 19. Re-check Aug 18: a Bay FC match is confirmed for Sept 20, 2026 (4pm, PayPal Park, vs Racing Louisville - branded on Bay FC's own site as their 'Deaf Awareness Match'), but the WISE x Bay FC tie-in for that date could not be independently confirmed - verify with the chapter before treating it as a WISE event. Chapter contact: wisesfbayarea@gmail.com. $40/yr student tier includes chapter events.",
-      "deadline": "2026-09-20",
-      "deadlineLabel": "Bay FC match Sept 20 (WISE tie-in unconfirmed)",
+      "window": "Verified Aug 24, 2026: SF Bay Area chapter remains active (wisesfbayarea@gmail.com), but the previously flagged WISE x Bay FC Sept 20 tie-in could not be confirmed on a second check either - removing the speculative deadline until a chapter event is directly confirmed. $40/yr student tier includes chapter events.",
+      "deadline": null,
+      "deadlineLabel": null,
       "buckets": [
         "open-now",
         "rolling"
