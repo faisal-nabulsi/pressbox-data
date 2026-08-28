@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-26",
+    "updated": "2026-08-28",
     "count": 173,
-    "note": "Daily refresh Aug 26, 2026: resolved yesterday's ESPN Programming Intern ambiguity - the live Fall 2026 remote posting's own text confirms it's a general Programming-department role (college/pro sports scheduling) with no women's-sports/espnW framing, so lowered its fit score and re-labeled the espnW-lineage row as not currently live; verified Berkeley B-Side's rolling per-department application process and moved it to open-now now that fall 2026 semester has started. Spot-checked KALX fall orientation (still no dates posted) and Fear the Fin new-season staff call (no 2026 post yet) - no changes there. Recomputed scores and re-ranked."
+    "note": "Daily refresh Aug 28, 2026: verified ~20 targets (URAP Aug 31 deadline, IRE AccessFest26 Sept 13, NLGJA convention Sept 10-13/CONNECT 2027 opens March 2027, NBCU, ESPN Digital Video/Social interns, MLV NorCal, Daily Cal, SF Standard, Mission Local, Sacramento Kings, KRON4, FanSided, FloSports) against primary/corroborating sources - all confirmed accurate, no data changes needed there. Updated the Cal Women's Volleyball student manager row: Gael Bear Classic opener has arrived, so cleared the soft advisory deadline and moved it from closing-soon to open-now/rolling for in-season recruiting. Recomputed scores and re-ranked."
   },
   "rows": [
     {
@@ -29,7 +29,7 @@
         "nov-dec-2026",
         "rolling"
       ],
-      "elig": "Open to anyone with a passion for public media — no student-status or class-year requirement; sophomores fully eligible",
+      "elig": "Open to anyone with a passion for public media \u2014 no student-status or class-year requirement; sophomores fully eligible",
       "desc": "Probably the single best-fit realistic opportunity on this list: paid, part-time enough to run alongside Berkeley classes, sophomore-friendly, and roles include Visual Journalism (shooting/editing video), Bay Curious, Forum and Audience Intelligence (data/analytics). Set a reminder for the October-November posting window at kqed.applytojob.com.",
       "email": null,
       "contact": null,
@@ -50,7 +50,7 @@
     {
       "id": 2,
       "rank": 2,
-      "name": "NBCU Local Bay Area — Production Assistant Internship (NBC Sports Bay Area/California content group), Academic Year 2026-27",
+      "name": "NBCU Local Bay Area \u2014 Production Assistant Internship (NBC Sports Bay Area/California content group), Academic Year 2026-27",
       "org": "NBCUniversal (NBC Sports Bay Area / NBC Sports California)",
       "cat": "Bay Area & digital outlets",
       "role": "internship",
@@ -70,8 +70,8 @@
         "open-now",
         "rolling"
       ],
-      "elig": "Enrolled degree-seeking student, sophomore standing or above (30 credits) — Olivia qualifies exactly; must work in SF",
-      "desc": "The single best resume line in Bay Area sports TV — interns work on daily Warriors/Giants/Kings show production alongside NBC Sports Bay Area staff. Search 'NBCU Local Bay Area' on NBCU careers; her Final Cut/analytics skills map directly to the Production Assistant and Video Editor tracks.",
+      "elig": "Enrolled degree-seeking student, sophomore standing or above (30 credits) \u2014 Olivia qualifies exactly; must work in SF",
+      "desc": "The single best resume line in Bay Area sports TV \u2014 interns work on daily Warriors/Giants/Kings show production alongside NBC Sports Bay Area staff. Search 'NBCU Local Bay Area' on NBCU careers; her Final Cut/analytics skills map directly to the Production Assistant and Video Editor tracks.",
       "email": null,
       "contact": null,
       "link": "https://www.nbcunicareers.com/",
@@ -110,8 +110,8 @@
       "buckets": [
         "nov-dec-2026"
       ],
-      "elig": "College sophomores, juniors, seniors and graduate students enrolled full-time — sophomores explicitly eligible",
-      "desc": "The classic student pathway into serious newsrooms: ~80-100 students placed annually, sophomores explicitly eligible, and the Digital Media and Audience Engagement tracks fit Olivia's video/social-analytics profile perfectly. Application requires a timed news test — prep for it, and apply this fall for summer 2027.",
+      "elig": "College sophomores, juniors, seniors and graduate students enrolled full-time \u2014 sophomores explicitly eligible",
+      "desc": "The classic student pathway into serious newsrooms: ~80-100 students placed annually, sophomores explicitly eligible, and the Digital Media and Audience Engagement tracks fit Olivia's video/social-analytics profile perfectly. Application requires a timed news test \u2014 prep for it, and apply this fall for summer 2027.",
       "email": "djnf@dowjones.com",
       "contact": "Dow Jones News Fund program staff",
       "link": "https://www.dowjonesnewsfund.org/djnfinternships/",
@@ -143,14 +143,14 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "20 hrs/week, M-F; Summer/Fall 2026 term ran June-mid-December",
-      "window": "Summer/Fall 2026 cohort already underway — target the Spring 2027 posting (ABC7 posts each term on abc7news.com and Disney Careers, typically 2-3 months ahead)",
+      "window": "Summer/Fall 2026 cohort already underway \u2014 target the Spring 2027 posting (ABC7 posts each term on abc7news.com and Disney Careers, typically 2-3 months ahead)",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "watch"
       ],
-      "elig": "Enrolled college students; no senior-only restriction on ABC7 local postings — sophomores can and do get these",
-      "desc": "A dedicated, paid SPORTS internship at a Disney O&O station — interns log games, help cut highlights and can attend live events, exactly the broadcast reps she wants. ABC7 publicizes each opening with a requisition ID on its own site; being local with Final Cut skills and game-day experience is a real edge.",
+      "elig": "Enrolled college students; no senior-only restriction on ABC7 local postings \u2014 sophomores can and do get these",
+      "desc": "A dedicated, paid SPORTS internship at a Disney O&O station \u2014 interns log games, help cut highlights and can attend live events, exactly the broadcast reps she wants. ABC7 publicizes each opening with a requisition ID on its own site; being local with Final Cut skills and game-day experience is a real edge.",
       "email": null,
       "contact": null,
       "link": "https://www.disneycareers.com/en/job/san-francisco/kgo-tv-abc7-sports-intern-summer-fall-2026/391/91108071856",
@@ -167,7 +167,7 @@
     {
       "id": 5,
       "rank": 5,
-      "name": "NBCU Local Bay Area — Digital / Video Editor Internships (Fall 2026 & AY 2026-27)",
+      "name": "NBCU Local Bay Area \u2014 Digital / Video Editor Internships (Fall 2026 & AY 2026-27)",
       "org": "NBCUniversal (NBC Bay Area / NBC Sports Bay Area)",
       "cat": "Bay Area & digital outlets",
       "role": "internship",
@@ -189,7 +189,7 @@
         "rolling"
       ],
       "elig": "Sophomore+ (30 credits), enrolled through the program; Dec 2026 grads excluded",
-      "desc": "Digital intern writes/edits and curates social for NBC Bay Area's site and app — bylines plus analytics work she already does. Multiple parallel tracks (Digital, Video Editor, Programming, Production Assistant) mean several shots per cycle; apply to all of them.",
+      "desc": "Digital intern writes/edits and curates social for NBC Bay Area's site and app \u2014 bylines plus analytics work she already does. Multiple parallel tracks (Digital, Video Editor, Programming, Production Assistant) mean several shots per cycle; apply to all of them.",
       "email": null,
       "contact": null,
       "link": "https://www.nbcunicareers.com/",
@@ -223,7 +223,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "Part/full-time for the semester (Fall 2026, likely ~Sept-Dec 2026 per ESPN's other fall remote intern postings)",
-      "window": "Verified Aug 25, 2026: spotted alongside ESPN's other Fall 2026 remote intern postings (job title 'ESPN Digital Video Newsroom Intern, Remote, Fall 2026') — video/newsroom-editing focus, $22.50/hr, ~40 hrs/week, confirmed via multiple corroborating listings (Himalayas, Broxer job mirrors). A direct Disney Careers fetch was blocked this session (proxy); rests on the primary URL plus multiple agreeing secondary mirrors rather than a direct primary read.",
+      "window": "Verified Aug 25, 2026: spotted alongside ESPN's other Fall 2026 remote intern postings (job title 'ESPN Digital Video Newsroom Intern, Remote, Fall 2026') \u2014 video/newsroom-editing focus, $22.50/hr, ~40 hrs/week, confirmed via multiple corroborating listings (Himalayas, Broxer job mirrors). A direct Disney Careers fetch was blocked this session (proxy); rests on the primary URL plus multiple agreeing secondary mirrors rather than a direct primary read.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -231,7 +231,7 @@
         "fall-2026"
       ],
       "elig": "Enrolled college students taking at least one class at time of application (ESPN's standard intern eligibility); confirm on the posting",
-      "desc": "A newly-spotted remote ESPN video/newsroom internship for Fall 2026, in the same posting wave as the Social Intern role — a strong fit for her Final Cut Pro/Premiere editing background if the workload fits alongside a full course load. Confirm scope and hours before applying, since this hasn't been independently verified via a primary-source fetch yet.",
+      "desc": "A newly-spotted remote ESPN video/newsroom internship for Fall 2026, in the same posting wave as the Social Intern role \u2014 a strong fit for her Final Cut Pro/Premiere editing background if the workload fits alongside a full course load. Confirm scope and hours before applying, since this hasn't been independently verified via a primary-source fetch yet.",
       "email": null,
       "contact": null,
       "link": "https://jobs.disneycareers.com/job/bristol/espn-digital-video-newsroom-intern-remote-fall-2026/391/96963727488",
@@ -271,7 +271,7 @@
       "buckets": [
         "spring-2027"
       ],
-      "elig": "Enrolled undergrad (any class year) or grad students, or recent graduates — sophomores eligible",
+      "elig": "Enrolled undergrad (any class year) or grad students, or recent graduates \u2014 sophomores eligible",
       "desc": "Sophomore-eligible, well paid for public media, and desks include visuals, social/engagement and podcast production where her skills stand out; NPR interns frequently convert to temp staff. Watch the Greenhouse board in January for summer 2027 roles and apply to 2-3 desks.",
       "email": null,
       "contact": null,
@@ -305,7 +305,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "Part/full-time for the semester (Fall 2026, ~Sept-Dec 2026)",
-      "window": "Verified Aug 25, 2026: the fall 2026 remote Social Intern posting is LIVE again — 'ESPN Social Intern, Remote, Fall 2026' (~Sept-Dec 2026), $22.50/hr, supports ESPN NEXT Show Social / ESPN Social / ESPN YouTube teams. Confirmed via the Disney Careers posting URL plus corroborating mirrors (ASU and Harvard FAS career-services listings); a direct fetch of jobs.disneycareers.com was blocked this session, so this rests on the primary URL + two agreeing secondary mirrors rather than a direct primary read. Requires enrollment with at least one class at time of application.",
+      "window": "Verified Aug 25, 2026: the fall 2026 remote Social Intern posting is LIVE again \u2014 'ESPN Social Intern, Remote, Fall 2026' (~Sept-Dec 2026), $22.50/hr, supports ESPN NEXT Show Social / ESPN Social / ESPN YouTube teams. Confirmed via the Disney Careers posting URL plus corroborating mirrors (ASU and Harvard FAS career-services listings); a direct fetch of jobs.disneycareers.com was blocked this session, so this rests on the primary URL + two agreeing secondary mirrors rather than a direct primary read. Requires enrollment with at least one class at time of application.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -313,7 +313,7 @@
         "fall-2026"
       ],
       "elig": "Enrolled college students taking at least one class; class-standing preference varies by posting",
-      "desc": "A verified remote ESPN social-media internship (Fall 2026) she could do from Berkeley without leaving school — the rare ESPN role compatible with a semester. Her social analytics + video editing combo is exactly the skill set these roles screen for; set a Disney Careers alert because remote ESPN roles fill fast.",
+      "desc": "A verified remote ESPN social-media internship (Fall 2026) she could do from Berkeley without leaving school \u2014 the rare ESPN role compatible with a semester. Her social analytics + video editing combo is exactly the skill set these roles screen for; set a Disney Careers alert because remote ESPN roles fill fast.",
       "email": null,
       "contact": null,
       "link": "https://jobs.disneycareers.com/job/bristol/espn-social-intern-remote-fall-2026/391/96897952096",
@@ -377,7 +377,7 @@
     {
       "id": 10,
       "rank": 10,
-      "name": "Summer 2027 Newsroom Internship — Sports Reporting Intern",
+      "name": "Summer 2027 Newsroom Internship \u2014 Sports Reporting Intern",
       "org": "San Francisco Chronicle / SFGate (Hearst)",
       "cat": "Bay Area & digital outlets",
       "role": "internship",
@@ -390,14 +390,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Full-time, 12 weeks in summer",
-      "window": "Summer 2026 applications opened Oct 2025 and closed in fall; summer 2027 cycle should open ~Oct 2026 — mark the calendar now",
+      "window": "Summer 2026 applications opened Oct 2025 and closed in fall; summer 2027 cycle should open ~Oct 2026 \u2014 mark the calendar now",
       "deadline": "2026-10-31",
       "deadlineLabel": "Apps open ~October",
       "buckets": [
         "fall-2026"
       ],
-      "elig": "Open to community college, university and graduate students — sophomores explicitly eligible (rare among major-metro papers)",
-      "desc": "The Chronicle runs a dedicated Sports Reporting Intern slot each summer — a top-tier byline factory. Application needs a resume, 500-word autobiographical essay and 3+ clips, so she should bank Daily Cal/stringer clips this fall before the October window. (Hearst's 2-year Journalism Fellowship is grad-only — skip until senior year.) [Also flagged by another researcher: The Bay Area's flagship paper, with metro reporting and audience/digital-producer internships — the audience role (site, app, social, multimedia) is a strong match for her analytics and video skills. ]",
+      "elig": "Open to community college, university and graduate students \u2014 sophomores explicitly eligible (rare among major-metro papers)",
+      "desc": "The Chronicle runs a dedicated Sports Reporting Intern slot each summer \u2014 a top-tier byline factory. Application needs a resume, 500-word autobiographical essay and 3+ clips, so she should bank Daily Cal/stringer clips this fall before the October window. (Hearst's 2-year Journalism Fellowship is grad-only \u2014 skip until senior year.) [Also flagged by another researcher: The Bay Area's flagship paper, with metro reporting and audience/digital-producer internships \u2014 the audience role (site, app, social, multimedia) is a strong match for her analytics and video skills. ]",
       "email": null,
       "contact": null,
       "link": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_8007",
@@ -566,7 +566,7 @@
         "rolling"
       ],
       "elig": "Actively enrolled undergrad/grad; CURRENT CLASS STANDING OF SOPHOMORE OR ABOVE explicitly allowed; must supply own housing/transportation",
-      "desc": "The best big-network bet for her year: FOX explicitly accepts sophomores, and FOX Sports LA is a manageable relocation from the Bay Area. Application asks for a 1-page resume plus cover letter (PDF) explaining fit — her club-coaching plus FCP editing story is distinctive; apply early since it is rolling.",
+      "desc": "The best big-network bet for her year: FOX explicitly accepts sophomores, and FOX Sports LA is a manageable relocation from the Bay Area. Application asks for a 1-page resume plus cover letter (PDF) explaining fit \u2014 her club-coaching plus FCP editing story is distinctive; apply early since it is rolling.",
       "email": null,
       "contact": null,
       "link": "https://www.foxcareers.com/internships",
@@ -599,7 +599,7 @@
       "payType": "Freelance / per piece",
       "payScore": 9,
       "time": "Varies; internships are temporary full/part-time",
-      "window": "Rolling — no sports internship open as of Aug 5, 2026, but the jobs board changes frequently and includes an 'Open Call for Creators'",
+      "window": "Rolling \u2014 no sports internship open as of Aug 5, 2026, but the jobs board changes frequently and includes an 'Open Call for Creators'",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -647,7 +647,7 @@
         "rolling"
       ],
       "elig": "None formal; the IJ explicitly runs 'full-time sportswriters and a team of freelancers' covering 10 county high schools",
-      "desc": "Her hometown paper — it covered her as a Marin volleyball player, which is a genuinely disarming cold-email opener. The IJ leans on freelancers for prep coverage; pitching herself as the volleyball-literate stringer for MCAL matches is about as high-probability as sports bylines get.",
+      "desc": "Her hometown paper \u2014 it covered her as a Marin volleyball player, which is a genuinely disarming cold-email opener. The IJ leans on freelancers for prep coverage; pitching herself as the volleyball-literate stringer for MCAL matches is about as high-probability as sports bylines get.",
       "email": "sports@marinij.com",
       "contact": "Ian Ross, sports writer (runs @marinij_sports on X; 'sports editor' title unconfirmed as of Aug 2026)",
       "link": "https://www.marinij.com/",
@@ -682,14 +682,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "8-10 weeks, summer, full-time",
-      "window": "Annual; 2026 application window was Feb 1-15, 2026 — expect the 2027 window around Feb 1-15, 2027",
+      "window": "Annual; 2026 application window was Feb 1-15, 2026 \u2014 expect the 2027 window around Feb 1-15, 2027",
       "deadline": "2027-02-15",
       "deadlineLabel": "Window Feb 1-15 only",
       "buckets": [
         "spring-2027"
       ],
       "elig": "Open to college students and recent grads (no junior/senior restriction published); extremely competitive (thousands of applicants)",
-      "desc": "One of the best team-side brands in sports media; tracks include Digital Media/Communications and Content. The two-week application window is the whole game — build a TeamWork Online profile now and calendar Feb 1, 2027; her volleyball coaching + Final Cut portfolio should headline the application.",
+      "desc": "One of the best team-side brands in sports media; tracks include Digital Media/Communications and Content. The two-week application window is the whole game \u2014 build a TeamWork Online profile now and calendar Feb 1, 2027; her volleyball coaching + Final Cut portfolio should headline the application.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/basketball-jobs/warriors/golden-state-warriors-careers",
@@ -728,7 +728,7 @@
         "watch"
       ],
       "elig": "Students with journalism background and digital/social fluency; no strict class-year bar in posting",
-      "desc": "Verified recurring sports editorial/social intern seat: writing for Yahoo Sports blogs, assisting the social team, pitching enterprise ideas — remote-friendly and pays the best of the digital shops. Good realistic Summer 2027 target where her analytics + content combo stands out.",
+      "desc": "Verified recurring sports editorial/social intern seat: writing for Yahoo Sports blogs, assisting the social team, pitching enterprise ideas \u2014 remote-friendly and pays the best of the digital shops. Good realistic Summer 2027 target where her analytics + content combo stands out.",
       "email": null,
       "contact": null,
       "link": "https://www.yahooinc.com/careers/",
@@ -808,8 +808,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "College students; mentored project-based program — no junior/senior bar found",
-      "desc": "Near-perfect fit: remote, paid, short, sophomore-friendly, and AU runs a pro VOLLEYBALL league — her playing/coaching credibility is a genuine differentiator for their digital/social team (2026 Digital Fan Engagement intern reported to the Associate Director of Digital Media). Also monitor auprosports.com careers directly.",
+      "elig": "College students; mentored project-based program \u2014 no junior/senior bar found",
+      "desc": "Near-perfect fit: remote, paid, short, sophomore-friendly, and AU runs a pro VOLLEYBALL league \u2014 her playing/coaching credibility is a genuine differentiator for their digital/social team (2026 Digital Fan Engagement intern reported to the Associate Director of Digital Media). Also monitor auprosports.com careers directly.",
       "email": null,
       "contact": null,
       "link": "https://www.jobs.motherofsport.com/jobs/digital-fan-engagement-intern-cb3ccbb7",
@@ -843,14 +843,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "8-10 weeks, summer (overlaps the May-Sept WNBA season, so interns see live games)",
-      "window": "Annual; applications Feb 1-15 (2026 cycle complete) — target Feb 2027 for summer 2027",
+      "window": "Annual; applications Feb 1-15 (2026 cycle complete) \u2014 target Feb 2027 for summer 2027",
       "deadline": "2027-02-15",
       "deadlineLabel": "Window Feb 1-15 only",
       "buckets": [
         "spring-2027"
       ],
       "elig": "College students and recent grads; same application as the Golden State/Warriors program",
-      "desc": "Brand-new WNBA franchise building its content operation from scratch — the strongest women's-sports fit on this list, and unlike the Warriors, the Valkyries' season is IN summer, so content interns work actual gamedays. Named internship tracks include Marketing, Content & Programming, and Communications.",
+      "desc": "Brand-new WNBA franchise building its content operation from scratch \u2014 the strongest women's-sports fit on this list, and unlike the Warriors, the Valkyries' season is IN summer, so content interns work actual gamedays. Named internship tracks include Marketing, Content & Programming, and Communications.",
       "email": null,
       "contact": null,
       "link": "https://valkyries.wnba.com/summer-internship-program",
@@ -931,7 +931,7 @@
       "buckets": [
         "spring-2027"
       ],
-      "elig": "Collegiate sports journalists entering sophomore, junior, or senior year, plus grad students — she is exactly the target applicant for the 2027 cycle",
+      "elig": "Collegiate sports journalists entering sophomore, junior, or senior year, plus grad students \u2014 she is exactly the target applicant for the 2027 cycle",
       "desc": "APSE members run the sports desks at virtually every major US outlet, so this scholarship doubles as a talent-spotting exercise by hiring editors. Note APSE's Diversity Fellowship is mid-career only; the student play here is the scholarship plus getting on APSE editors' radar. Berkeley could also form a student chapter.",
       "email": "pkaplan@gannett.com",
       "contact": "Phil Kaplan, APSE scholarship committee chair",
@@ -1008,7 +1008,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Varies by role; hockey season Oct-Apr, plus year-round arena events",
-      "window": "Rolling — postings appear on TeamWork Online through the year; season-facing roles post summer/fall",
+      "window": "Rolling \u2014 postings appear on TeamWork Online through the year; season-facing roles post summer/fall",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -1055,7 +1055,7 @@
         "nov-dec-2026"
       ],
       "elig": "Current class standing of sophomore or above (30 credits), pursuing a degree, authorized to work in the U.S. without sponsorship",
-      "desc": "Explicitly sophomore-eligible and spans NBC News editorial, production, digital and social roles — one of the best big-brand shots open to her class year, and NBC Sports internships live in the same portal. Important caveat: CNBC and MSNBC (now MS NOW) were spun off to Versant in late 2025, so those tracks now recruit separately — check Versant's careers site too.",
+      "desc": "Explicitly sophomore-eligible and spans NBC News editorial, production, digital and social roles \u2014 one of the best big-brand shots open to her class year, and NBC Sports internships live in the same portal. Important caveat: CNBC and MSNBC (now MS NOW) were spun off to Versant in late 2025, so those tracks now recruit separately \u2014 check Versant's careers site too.",
       "email": null,
       "contact": null,
       "link": "https://www.nbcunicareers.com/",
@@ -1093,7 +1093,7 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Actively enrolled undergrad, sophomore standing or above — she qualifies",
+      "elig": "Actively enrolled undergrad, sophomore standing or above \u2014 she qualifies",
       "desc": "KTVU's sports desk (Mark Ibanez legacy shop) takes station interns via FOX's centralized program; no KTVU-specific sports posting was verifiable for fall 2026, so set a foxcareers.com alert filtered to Internships + San Francisco Bay Area. Local station internships are less competitive than network ones and value local sports knowledge. [Also flagged by another researcher: KTVU has no formal internship posting right now, so verify directly via its careers page; the FOX corporate internship program accepts sophomores but is LA/NY-based. SFSU's BECA department and NorCal ]",
       "email": null,
       "contact": null,
@@ -1114,7 +1114,7 @@
     {
       "id": 28,
       "rank": 28,
-      "name": "95.7 The Game — Audacy Internship Program",
+      "name": "95.7 The Game \u2014 Audacy Internship Program",
       "org": "Audacy (KGMZ-FM)",
       "cat": "Bay Area & digital outlets",
       "role": "internship",
@@ -1133,8 +1133,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Most Audacy postings ask for rising juniors/seniors, 18+ — as a sophomore she may need to wait a cycle or apply anyway; credit optional (they provide documentation)",
-      "desc": "Audacy's formal paid program covers programming, on-air, production, content creation and digital — the Bay Area's #1 sports station (Warriors/A's play-by-play). No SF sports internship was verifiably posted as of Aug 2026, so watch Audacy listings on Indeed/EntertainmentCareers; the station also hires part-time board-op/producers at $20-25/hr, a realistic paid entry once she has any radio experience.",
+      "elig": "Most Audacy postings ask for rising juniors/seniors, 18+ \u2014 as a sophomore she may need to wait a cycle or apply anyway; credit optional (they provide documentation)",
+      "desc": "Audacy's formal paid program covers programming, on-air, production, content creation and digital \u2014 the Bay Area's #1 sports station (Warriors/A's play-by-play). No SF sports internship was verifiably posted as of Aug 2026, so watch Audacy listings on Indeed/EntertainmentCareers; the station also hires part-time board-op/producers at $20-25/hr, a realistic paid entry once she has any radio experience.",
       "email": null,
       "contact": null,
       "link": "https://www.audacy.com/957thegame/contact-us",
@@ -1218,7 +1218,7 @@
         "watch"
       ],
       "elig": "College students / early-career candidates pursuing sports-industry careers",
-      "desc": "Running since 2018 and explicitly built for students, but the first half is sales-focused — worth it only if she wants the second-half rotation into marketing/comms; the club also posts an Assistant, Communications gameday role (writing, stats, copyediting) on its isolved careers portal. Media inquiries route through comms@sjearthquakes.com (published on the club's media resources page).",
+      "desc": "Running since 2018 and explicitly built for students, but the first half is sales-focused \u2014 worth it only if she wants the second-half rotation into marketing/comms; the club also posts an Assistant, Communications gameday role (writing, stats, copyediting) on its isolved careers portal. Media inquiries route through comms@sjearthquakes.com (published on the club's media resources page).",
       "email": null,
       "contact": null,
       "link": "https://www.wayup.com/i-j-San-Jose-Earthquakes-647254416479734/",
@@ -1257,8 +1257,8 @@
         "open-now",
         "rolling"
       ],
-      "elig": "Open application; designed for new journalists — no class-year requirement",
-      "desc": "An award-winning neighborhood newsroom famous for training young reporters, paying a remarkable $1,000/week — but the full-time 16-week spring format would require a semester off or co-op arrangement. Applications are open right now, and the contact email is published for questions.",
+      "elig": "Open application; designed for new journalists \u2014 no class-year requirement",
+      "desc": "An award-winning neighborhood newsroom famous for training young reporters, paying a remarkable $1,000/week \u2014 but the full-time 16-week spring format would require a semester off or co-op arrangement. Applications are open right now, and the contact email is published for questions.",
       "email": "meg.shutzer@missionlocal.com",
       "contact": "Meg Shutzer, Mission Local (internship contact; use subject line 'Internship')",
       "link": "https://missionlocal.org/about/internships/",
@@ -1340,8 +1340,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Open — no degree or class-year requirement; students routinely hired",
-      "desc": "Minor league baseball is the classic sophomore entry point: press-box video board operation, camera operating, and in-park entertainment for $19/hr, with a parallel Marketing & Media Relations intern role. Low prestige, extremely high hire-rate and skill reps — and it's SF Giants-affiliated on a resume.",
+      "elig": "Open \u2014 no degree or class-year requirement; students routinely hired",
+      "desc": "Minor league baseball is the classic sophomore entry point: press-box video board operation, camera operating, and in-park entertainment for $19/hr, with a parallel Marketing & Media Relations intern role. Low prestige, extremely high hire-rate and skill reps \u2014 and it's SF Giants-affiliated on a resume.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/baseball-jobs/diamond-baseball-holdings/san-jose-giants",
@@ -1509,7 +1509,7 @@
         "watch"
       ],
       "elig": "Open to college students; requires flexible schedule and availability for all Giants home games",
-      "desc": "Press-box role assisting media and broadcasters on game days — direct exposure to working sports journalists, and Oracle Park is a short BART ride from Berkeley. Set a TeamWork Online alert for the Giants and check the team jobs page in December-February; the 2026 posting explicitly welcomed communications/journalism students.",
+      "desc": "Press-box role assisting media and broadcasters on game days \u2014 direct exposure to working sports journalists, and Oracle Park is a short BART ride from Berkeley. Set a TeamWork Online alert for the Giants and check the team jobs page in December-February; the 2026 posting explicitly welcomed communications/journalism students.",
       "email": null,
       "contact": null,
       "link": "https://jobs.lever.co/sfgiants",
@@ -1548,8 +1548,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "College students from undergrad up — recent interns from UC Berkeley specifically",
-      "desc": "The Bay Area's newswire trains interns in deadline reporting with one-on-one mentorship and regularly takes Berkeley sophomores — not sports-specific, but wire bylines run in outlets across 13 counties and the deadline-writing reps transfer directly to sports. Good backup if the sports-specific internships don't land. [Also flagged by another researcher: The Bay Area's wire service: fast daily bylines, one-on-one mentorship, and a history of taking underclassmen — an ideal first professional clip factory before bigger applications. Published newsroom ]",
+      "elig": "College students from undergrad up \u2014 recent interns from UC Berkeley specifically",
+      "desc": "The Bay Area's newswire trains interns in deadline reporting with one-on-one mentorship and regularly takes Berkeley sophomores \u2014 not sports-specific, but wire bylines run in outlets across 13 counties and the deadline-writing reps transfer directly to sports. Good backup if the sports-specific internships don't land. [Also flagged by another researcher: The Bay Area's wire service: fast daily bylines, one-on-one mentorship, and a history of taking underclassmen \u2014 an ideal first professional clip factory before bigger applications. Published newsroom ]",
       "email": "newsroom@baycitynews.com",
       "contact": "Bay City News Foundation newsroom",
       "link": "https://localnewsmatters.org/internships/",
@@ -1629,7 +1629,7 @@
         "nov-dec-2026"
       ],
       "elig": "Actively working toward an undergraduate or graduate degree (no class-year floor stated); reporting roles require a driver's license and car",
-      "desc": "Placements include a dedicated Sports desk plus Photography, Data and Graphics, and Digital/Engagement — several map directly onto Olivia's video and analytics skills, and there is no junior/senior requirement. Competitive, so strong Daily Cal clips matter; the September 1 open date is only weeks away.",
+      "desc": "Placements include a dedicated Sports desk plus Photography, Data and Graphics, and Digital/Engagement \u2014 several map directly onto Olivia's video and analytics skills, and there is no junior/senior requirement. Competitive, so strong Daily Cal clips matter; the September 1 open date is only weeks away.",
       "email": null,
       "contact": null,
       "link": "https://latimes.submittable.com/submit",
@@ -1672,7 +1672,7 @@
         "spring-2027"
       ],
       "elig": "Enrolled students; 3.0 GPA minimum; no visa sponsorship; junior/senior standing preferred for most editorial roles",
-      "desc": "News Show Team and Newsgathering internships put interns on live coverage; social/digital and production roles value editing and analytics skills like hers. Sophomores aren't barred but most hires are juniors — apply anyway with strong video clips, and target the January 2027 window.",
+      "desc": "News Show Team and Newsgathering internships put interns on live coverage; social/digital and production roles value editing and analytics skills like hers. Sophomores aren't barred but most hires are juniors \u2014 apply anyway with strong video clips, and target the January 2027 window.",
       "email": null,
       "contact": null,
       "link": "https://careers.wbd.com/global/en/global-intern-programs",
@@ -1792,7 +1792,7 @@
         "fall-2026"
       ],
       "elig": "College juniors, seniors and graduate students enrolled in a degree program at application deadline",
-      "desc": "One of the best-paid, most prestigious newsroom internships; roles include reporting, video, audience strategy and audio, which fit Olivia's video/analytics skills. Officially juniors+, so this is a fall 2027 application target for her junior year — but the app opens this month, so study the requirements now and build clips.",
+      "desc": "One of the best-paid, most prestigious newsroom internships; roles include reporting, video, audience strategy and audio, which fit Olivia's video/analytics skills. Officially juniors+, so this is a fall 2027 application target for her junior year \u2014 but the app opens this month, so study the requirements now and build clips.",
       "email": "newsinterns@washpost.com",
       "contact": "Camille Kilgore, Newsroom Lead for Training and Programs",
       "link": "https://careers.washingtonpost.com/newsroom-internships/",
@@ -1872,7 +1872,7 @@
         "watch"
       ],
       "elig": "College journalists; no explicit class-year bar",
-      "desc": "Two reporting interns cover local government and breaking news in Silicon Valley — real bylines at a major metro chain, and campus-paper experience is exactly what they screen for. Mercury News also has a respected sports desk; mention the sports interest in the cover letter.",
+      "desc": "Two reporting interns cover local government and breaking news in Silicon Valley \u2014 real bylines at a major metro chain, and campus-paper experience is exactly what they screen for. Mercury News also has a respected sports desk; mention the sports interest in the cover letter.",
       "email": "dsabedra@bayareanewsgroup.com",
       "contact": "Darren Sabedra, assistant sports editor / preps lead (byline Aug 2, 2026)",
       "link": "https://www.mercurynews.com",
@@ -1912,8 +1912,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "UC Berkeley students on Daily Cal staff who show dedication and produce superior journalism — sophomores routinely win",
-      "desc": "The keystone opportunity everything else on this list depends on: Daily Cal sports/video clips are the raw material for AWSM, APSE, Mark of Excellence, and every internship application here — and the foundation pays committed staffers. Note Berkeley has no undergrad journalism major, so Hearst Journalism Awards (which require accredited j-school enrollment) are out; the Daily Cal is Berkeley's equivalent pipeline.",
+      "elig": "UC Berkeley students on Daily Cal staff who show dedication and produce superior journalism \u2014 sophomores routinely win",
+      "desc": "The keystone opportunity everything else on this list depends on: Daily Cal sports/video clips are the raw material for AWSM, APSE, Mark of Excellence, and every internship application here \u2014 and the foundation pays committed staffers. Note Berkeley has no undergrad journalism major, so Hearst Journalism Awards (which require accredited j-school enrollment) are out; the Daily Cal is Berkeley's equivalent pipeline.",
       "email": null,
       "contact": null,
       "link": "https://www.dailycal.org/",
@@ -1933,7 +1933,7 @@
     {
       "id": 48,
       "rank": 48,
-      "name": "Freelance writer — The IX Basketball (formerly The Next), The IX Soccer (with The Equalizer), The IX newsletter",
+      "name": "Freelance writer \u2014 The IX Basketball (formerly The Next), The IX Soccer (with The Equalizer), The IX newsletter",
       "org": "The IX Sports (Howard Megdal's women's sports network)",
       "cat": "Bay Area & digital outlets",
       "role": "freelance",
@@ -1952,8 +1952,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "None formal — the masthead is deliberately young and developing; strong pitch + samples",
-      "desc": "The premier women's-sports byline network, famous for developing student journalists into WNBA beat writers — and the Golden State Valkyries plus Cal/Stanford women's hoops give her an on-the-ground beat few contributors can offer. Email the published editors address with a specific Bay Area women's sports pitch; The Next's history of student internship cohorts makes a 'can I cover Cal for you' email very plausible to land.",
+      "elig": "None formal \u2014 the masthead is deliberately young and developing; strong pitch + samples",
+      "desc": "The premier women's-sports byline network, famous for developing student journalists into WNBA beat writers \u2014 and the Golden State Valkyries plus Cal/Stanford women's hoops give her an on-the-ground beat few contributors can offer. Email the published editors address with a specific Bay Area women's sports pitch; The Next's history of student internship cohorts makes a 'can I cover Cal for you' email very plausible to land.",
       "email": "editors@theixsports.com",
       "contact": "Howard Megdal, Founder/Editor",
       "link": "https://www.theixsports.com/about/",
@@ -2028,11 +2028,11 @@
       "payType": "Stipend / scholarship",
       "payScore": 5,
       "time": "Multiple practices per week plus home matches in season (Aug-Nov)",
-      "window": "Verified Aug 24, 2026: corrected venue - Cal's Gael Bear Classic matches are played at Haas Pavilion in Berkeley, not Moraga (calbears.com schedule release, corroborated by VCP Volleyball). Confirmed matchups: Fri Aug 28 vs. Pacific, 7:00pm, and Sat Aug 29 vs. UC San Diego, 7:00pm, both at Haas Pavilion. The tournament also features Saint Mary's, Southern Utah, and Gonzaga; Sunday Aug 30 matchups were not independently confirmed in this check. A manager/practice-player/media pitch should land before the opener.",
-      "deadline": "2026-08-28",
-      "deadlineLabel": "Season opener - Gael Bear Classic Aug 28-30",
+      "window": "Verified Aug 28, 2026: the Gael Bear Classic season opener (Fri Aug 28 vs. Pacific, Sat Aug 29 vs. UC San Diego, both at Haas Pavilion; Sunday Aug 30 matchup unconfirmed) is underway. The soft 'reach out before the opener' window has passed, but manager/practice-player recruitment for current students is ongoing through the season (practices continue Aug-Nov) - reach out to the coaching staff any time this fall, no hard deadline.",
+      "deadline": null,
+      "deadlineLabel": null,
       "buckets": [
-        "closing-soon",
+        "open-now",
         "fall-2026"
       ],
       "elig": "UC Berkeley students; competitive volleyball background strongly preferred - Olivia qualifies",
@@ -2165,8 +2165,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "Currently enrolled in college/university or within 12 months of graduation — sophomores eligible",
-      "desc": "Paid, sophomore-accessible national broadcast credit; broadcast interns cut b-roll, write scripts and research — direct use of her Final Cut skills. The Student Reporting Labs (SRL) team also takes interns and is youth-media focused, a natural first application.",
+      "elig": "Currently enrolled in college/university or within 12 months of graduation \u2014 sophomores eligible",
+      "desc": "Paid, sophomore-accessible national broadcast credit; broadcast interns cut b-roll, write scripts and research \u2014 direct use of her Final Cut skills. The Student Reporting Labs (SRL) team also takes interns and is youth-media focused, a natural first application.",
       "email": null,
       "contact": null,
       "link": "https://www.pbs.org/newshour/jobs",
@@ -2246,7 +2246,7 @@
         "nov-dec-2026"
       ],
       "elig": "Actively enrolled degree-seeking students authorized to work in the US; open to underclassmen for many roles though competitive",
-      "desc": "NBC Sports edit/production/digital internships run through the central NBCU program — mark the November window now because it's one of the earliest deadlines for Summer 2027. Bonus angle: NBCU has run Olympics-tied student programs (a verified 'NBC 2026 Winter Olympics At Home Immersion Program' in Stamford), and LA28 ramp-up should create more of these on exactly her timeline.",
+      "desc": "NBC Sports edit/production/digital internships run through the central NBCU program \u2014 mark the November window now because it's one of the earliest deadlines for Summer 2027. Bonus angle: NBCU has run Olympics-tied student programs (a verified 'NBC 2026 Winter Olympics At Home Immersion Program' in Stamford), and LA28 ramp-up should create more of these on exactly her timeline.",
       "email": null,
       "contact": null,
       "link": "https://www.nbcunicareers.com/early-career-programs/internships",
@@ -2285,7 +2285,7 @@
         "future"
       ],
       "elig": "Undergrads 18+ or recent postgrads; several roles state 'ideally junior, senior, or recent graduate'; application needs a 500-700 word essay, 2 recommendation letters, and 5+ work samples",
-      "desc": "The premier written-sports-journalism internship and fully remote — doable from Berkeley. The heavy portfolio requirement (5+ clips) is the real gate: a year of Daily Cal sports clips plus volleyball video features would make her competitive despite the junior/senior preference. Video Reporter intern track fits her FCP skills. Aug 6 check: the fall 2026 remote NHL Student Intern closed May 1; no other student roles currently posted - summer 2027 cycle expected to open ~Dec 2026-Jan 2027.",
+      "desc": "The premier written-sports-journalism internship and fully remote \u2014 doable from Berkeley. The heavy portfolio requirement (5+ clips) is the real gate: a year of Daily Cal sports clips plus volleyball video features would make her competitive despite the junior/senior preference. Video Reporter intern track fits her FCP skills. Aug 6 check: the fall 2026 remote NHL Student Intern closed May 1; no other student roles currently posted - summer 2027 cycle expected to open ~Dec 2026-Jan 2027.",
       "email": null,
       "contact": null,
       "link": "https://jobs.lever.co/theathletic",
@@ -2324,8 +2324,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Students/recent grads; emphasis on vertical video creation — no junior/senior requirement stated",
-      "desc": "Creates written/audio/video content across Kings platforms with an explicit vertical-video emphasis — exactly her social-analytics + video profile. The Kings post more student-level content/digital internships than any other NorCal pro team; subscribe to alerts on their TeamWork Online page.",
+      "elig": "Students/recent grads; emphasis on vertical video creation \u2014 no junior/senior requirement stated",
+      "desc": "Creates written/audio/video content across Kings platforms with an explicit vertical-video emphasis \u2014 exactly her social-analytics + video profile. The Kings post more student-level content/digital internships than any other NorCal pro team; subscribe to alerts on their TeamWork Online page.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/basketball-jobs/sacramento-kings-jobs/sacramento-kings",
@@ -2437,16 +2437,16 @@
       "payType": "Freelance / per piece",
       "payScore": 4,
       "time": "Self-scheduled; fall season starts late Aug 2026",
-      "window": "Rolling — apply before fall sports; photographers need 10 published current-season galleries to earn a credential",
+      "window": "Rolling \u2014 apply before fall sports; photographers need 10 published current-season galleries to earn a credential",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
       "elig": "None formal; equipment expectations for photogs, writing samples for reporters",
-      "desc": "CBS-owned national preps platform headquartered near Sacramento that runs entirely on freelancers — a CBS-adjacent credit she can earn immediately covering Marin/East Bay volleyball and football. Apply via the support-site freelancer pages; her coaching network gives her access and story ideas most stringers lack.",
+      "desc": "CBS-owned national preps platform headquartered near Sacramento that runs entirely on freelancers \u2014 a CBS-adjacent credit she can earn immediately covering Marin/East Bay volleyball and football. Apply via the support-site freelancer pages; her coaching network gives her access and story ideas most stringers lack.",
       "email": "ahendricks@maxpreps.com",
-      "contact": "MaxPreps freelance/photographer coordinator (email published in MaxPreps support materials — verify on contact)",
+      "contact": "MaxPreps freelance/photographer coordinator (email published in MaxPreps support materials \u2014 verify on contact)",
       "link": "https://support.maxpreps.com/hc/en-us/articles/202469920-Professional-Photographer",
       "s": {
         "prestige": 5,
@@ -2565,7 +2565,7 @@
         "watch"
       ],
       "elig": "Enrolled students; check class-standing line per posting",
-      "desc": "House of Highlights (45M+ followers) runs intern seats in social programming, TikTok, and production inside the B/R umbrella — the single best brand match for her social-analytics + short-form video skills. Also verified: an AAJA Sports Task Force x Bleacher Report Social Content Internship with its own application on aaja.org, a lower-competition side door.",
+      "desc": "House of Highlights (45M+ followers) runs intern seats in social programming, TikTok, and production inside the B/R umbrella \u2014 the single best brand match for her social-analytics + short-form video skills. Also verified: an AAJA Sports Task Force x Bleacher Report Social Content Internship with its own application on aaja.org, a lower-competition side door.",
       "email": null,
       "contact": null,
       "link": "https://careers.wbd.com",
@@ -2605,7 +2605,7 @@
         "watch"
       ],
       "elig": "Students/early-career; production intern supports podcast producers (fact-checking, research, transcription, pre/post-production); editorial intern works the copy desk and CMS",
-      "desc": "Best-in-class podcast/video sports storytelling shop, LA-based (close-ish to home), and the production intern seat rewards editing chops over seniority. The Ringer's Netflix video-podcast expansion (2025 deal) means more video production work — her lane.",
+      "desc": "Best-in-class podcast/video sports storytelling shop, LA-based (close-ish to home), and the production intern seat rewards editing chops over seniority. The Ringer's Netflix video-podcast expansion (2025 deal) means more video production work \u2014 her lane.",
       "email": null,
       "contact": null,
       "link": "https://www.lifeatspotify.com/students",
@@ -2644,8 +2644,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Open seasonal role — media/communications students welcome; no degree requirement published",
-      "desc": "Works the media credentialing desk for a Grand Slam AND administers the US Open Content Creator Program — a front-row seat to how a major event manages both traditional press and creators. Summer-long NY commitment; her social-analytics background maps directly to the creator-program side.",
+      "elig": "Open seasonal role \u2014 media/communications students welcome; no degree requirement published",
+      "desc": "Works the media credentialing desk for a Grand Slam AND administers the US Open Content Creator Program \u2014 a front-row seat to how a major event manages both traditional press and creators. Summer-long NY commitment; her social-analytics background maps directly to the creator-program side.",
       "email": null,
       "contact": null,
       "link": "https://seasonalworks.labor.ny.gov/purchase-ny/2026-us-open-media-operations-assistant/C86FC352EBEA49948DE6A6400409DA88/job/",
@@ -2668,7 +2668,7 @@
       "org": "Associated Press",
       "cat": "General journalism",
       "role": "internship",
-      "loc": "AP bureaus in the U.S. and internationally (varies by year; text, video, photo tracks — AP also covers sports from many bureaus)",
+      "loc": "AP bureaus in the U.S. and internationally (varies by year; text, video, photo tracks \u2014 AP also covers sports from many bureaus)",
       "remote": "no",
       "regions": [
         "National / varies"
@@ -2684,7 +2684,7 @@
         "nov-dec-2026"
       ],
       "elig": "Full-time students within two years of earning an undergraduate degree (juniors/seniors), current grad students, or recent graduates; first- and second-year students not eligible",
-      "desc": "Highly selective, individually mentored, and includes video-journalist tracks — a strong future fit given her Final Cut skills, and AP wire clips carry weight everywhere. Note the eligibility fine print excludes second-year students, so this is a fall 2027 application (for summer 2028) unless her early-graduation timeline puts her within two years of her degree by the 2027 program.",
+      "desc": "Highly selective, individually mentored, and includes video-journalist tracks \u2014 a strong future fit given her Final Cut skills, and AP wire clips carry weight everywhere. Note the eligibility fine print excludes second-year students, so this is a fall 2027 application (for summer 2028) unless her early-graduation timeline puts her within two years of her degree by the 2027 program.",
       "email": null,
       "contact": null,
       "link": "https://www.ap.org/careers/",
@@ -2711,7 +2711,7 @@
         "National / varies",
         "Remote-friendly (hybrid)"
       ],
-      "pay": "Costs $40/year student rate — or $105 one-time for a four-year membership available only to freshmen and sophomores (she qualifies now); NorCal chapter adds $20",
+      "pay": "Costs $40/year student rate \u2014 or $105 one-time for a four-year membership available only to freshmen and sophomores (she qualifies now); NorCal chapter adds $20",
       "payType": "Unpaid / for credit",
       "payScore": 1,
       "time": "Ongoing; local events and awards nights",
@@ -2741,7 +2741,7 @@
     {
       "id": 68,
       "rank": 68,
-      "name": "KNBR 680/104.5 The Sports Leader — Programming Internship",
+      "name": "KNBR 680/104.5 The Sports Leader \u2014 Programming Internship",
       "org": "Cumulus Media San Francisco (KNBR/KSFO/KGO)",
       "cat": "Bay Area & digital outlets",
       "role": "internship",
@@ -2750,7 +2750,7 @@
       "regions": [
         "San Francisco"
       ],
-      "pay": "Unpaid — must receive college credit (Cumulus requires proof of enrollment and credit)",
+      "pay": "Unpaid \u2014 must receive college credit (Cumulus requires proof of enrollment and credit)",
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Minimum 1 day/week in-office; semester-length",
@@ -2760,8 +2760,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "Enrolled college student able to earn academic credit — Berkeley Media Studies credit works",
-      "desc": "Interns are attached to specific KNBR shows (Murph & Markus, Tolbert & Copes) and learn daily sports-radio production — real broadcast hours at the Giants/49ers flagship. No central application portal: contact KNBR programming through the station and set up credit through Berkeley; for-credit-only means less competition.",
+      "elig": "Enrolled college student able to earn academic credit \u2014 Berkeley Media Studies credit works",
+      "desc": "Interns are attached to specific KNBR shows (Murph & Markus, Tolbert & Copes) and learn daily sports-radio production \u2014 real broadcast hours at the Giants/49ers flagship. No central application portal: contact KNBR programming through the station and set up credit through Berkeley; for-credit-only means less competition.",
       "email": null,
       "contact": null,
       "link": "https://www.cumulusmedia.com/",
@@ -2839,8 +2839,8 @@
       "buckets": [
         "spring-2027"
       ],
-      "elig": "Currently enrolled undergraduates pursuing a bachelor's in a relevant field — NO junior/senior floor published, so a sophomore can apply for summer 2027",
-      "desc": "The most sophomore-open of the Big Four league offices — enrollment is the only stated requirement. Deadline discipline matters: apply by March 1, 2027 for summer 2027; content/social/comms placements exist alongside business roles on the NHL's TeamWork Online board.",
+      "elig": "Currently enrolled undergraduates pursuing a bachelor's in a relevant field \u2014 NO junior/senior floor published, so a sophomore can apply for summer 2027",
+      "desc": "The most sophomore-open of the Big Four league offices \u2014 enrollment is the only stated requirement. Deadline discipline matters: apply by March 1, 2027 for summer 2027; content/social/comms placements exist alongside business roles on the NHL's TeamWork Online board.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/hockey-jobs/hockeyjobs/nhl-league-office",
@@ -2876,7 +2876,7 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Must be enrolled in a degree program AND have completed sophomore year — Olivia is eligible for summer 2027 (her first big-league-office eligibility)",
+      "elig": "Must be enrolled in a degree program AND have completed sophomore year \u2014 Olivia is eligible for summer 2027 (her first big-league-office eligibility)",
       "desc": "The best-timed league-office program for her: sophomore-year completion is the floor, and departments explicitly include Digital Content, Broadcasting, Media, and Communications at a brand-new HQ facility. Apply the day it opens in fall 2026; also on Workday (pgatour.wd5.myworkdayjobs.com/PGATOURExternal).",
       "email": null,
       "contact": null,
@@ -3001,7 +3001,7 @@
         "watch"
       ],
       "elig": "Students/early-career; no junior/senior bar stated",
-      "desc": "The leading business-of-sports outlet (150M social impressions/month) with verified paid social internships in its Multimedia department — squarely her skill set. FOS also publishes free online courses/certificates with industry partners that a Media Studies sophomore can complete now for the resume; careers page currently shows no openings, so use the 'Register Your Interest' form.",
+      "desc": "The leading business-of-sports outlet (150M social impressions/month) with verified paid social internships in its Multimedia department \u2014 squarely her skill set. FOS also publishes free online courses/certificates with industry partners that a Media Studies sophomore can complete now for the resume; careers page currently shows no openings, so use the 'Register Your Interest' form.",
       "email": null,
       "contact": null,
       "link": "https://careers.frontofficesports.com/",
@@ -3040,7 +3040,7 @@
         "nov-dec-2026"
       ],
       "elig": "College students at accredited 4-year schools, cumulative GPA 2.5+; mission focus on racial and gender diversity in sports departments; sophomores can apply though juniors/seniors are typical",
-      "desc": "The most respected pipeline program in sports journalism — alumni at ESPN, The Athletic, NYT — and it PLACES you in a paid newsroom internship, solving the sophomore chicken-and-egg problem. November deadline means she should spend fall 2026 stacking clips and recommenders.",
+      "desc": "The most respected pipeline program in sports journalism \u2014 alumni at ESPN, The Athletic, NYT \u2014 and it PLACES you in a paid newsroom internship, solving the sophomore chicken-and-egg problem. November deadline means she should spend fall 2026 stacking clips and recommenders.",
       "email": null,
       "contact": null,
       "link": "http://sportsjournalisminstitute.org/application/",
@@ -3081,7 +3081,7 @@
         "rolling"
       ],
       "elig": "Seasonal specialist roles open to early-career candidates; must be in a team market for team roles",
-      "desc": "The premier US pro volleyball league, built on top of the country's largest club network — a club coach who can shoot vertical video is precisely their hiring profile. No Bay Area team, so target remote-friendly league roles (marketing/youth side) or a Nov-May seasonal gig structured around a semester; Major League Volleyball teams (e.g., Orlando Valkyries Marketing & Brand Intern) are a parallel option. [Also flagged by another researcher: LOVB is the venture-backed pro league built on top of a huge club network (her club-coaching world), and its new Victory+ media deal (Dec 2025) explicitly promises creator-driven, behind-the-scenes co]",
+      "desc": "The premier US pro volleyball league, built on top of the country's largest club network \u2014 a club coach who can shoot vertical video is precisely their hiring profile. No Bay Area team, so target remote-friendly league roles (marketing/youth side) or a Nov-May seasonal gig structured around a semester; Major League Volleyball teams (e.g., Orlando Valkyries Marketing & Brand Intern) are a parallel option. [Also flagged by another researcher: LOVB is the venture-backed pro league built on top of a huge club network (her club-coaching world), and its new Victory+ media deal (Dec 2025) explicitly promises creator-driven, behind-the-scenes co]",
       "email": null,
       "contact": null,
       "link": "https://www.lovb.com/jobs",
@@ -3158,14 +3158,14 @@
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "Varies; NWSL season March-November",
-      "window": "Rolling — small, growing front office posts roles on its careers page, Rippling ATS, and TeamWork Online",
+      "window": "Rolling \u2014 small, growing front office posts roles on its careers page, Rippling ATS, and TeamWork Online",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
       "elig": "Varies by posting; no standing internship program published",
-      "desc": "The Bay Area's NWSL club, co-founded by USWNT legends — a top women's-sports fit, and young clubs lean heavily on interns/contractors for social and matchday video. Check bayfc.com/club/careers/, their TeamWork Online page, and the Togethxr job board; a cold portfolio email after applying to any open posting goes far at clubs this size.",
+      "desc": "The Bay Area's NWSL club, co-founded by USWNT legends \u2014 a top women's-sports fit, and young clubs lean heavily on interns/contractors for social and matchday video. Check bayfc.com/club/careers/, their TeamWork Online page, and the Togethxr job board; a cold portfolio email after applying to any open posting goes far at clubs this size.",
       "email": null,
       "contact": null,
       "link": "https://bayfc.com/club/careers/",
@@ -3199,14 +3199,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Full-time, summer",
-      "window": "Annual; 2026 undergrad roles posted winter/spring on TeamWork Online — expect same for 2027",
+      "window": "Annual; 2026 undergrad roles posted winter/spring on TeamWork Online \u2014 expect same for 2027",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "watch"
       ],
-      "elig": "Current undergraduates (dedicated 'Undergraduate Intern' titles — no senior requirement stated)",
-      "desc": "USTA runs a genuine undergraduate track (digital marketing, content development, strategy) with CEO-level networking and weekly professional development — one of the more sophomore-realistic national programs. Linked role is the 2026 posting; set a TeamWork Online alert on the USTA org page for the 2027 batch.",
+      "elig": "Current undergraduates (dedicated 'Undergraduate Intern' titles \u2014 no senior requirement stated)",
+      "desc": "USTA runs a genuine undergraduate track (digital marketing, content development, strategy) with CEO-level networking and weekly professional development \u2014 one of the more sophomore-realistic national programs. Linked role is the 2026 posting; set a TeamWork Online alert on the USTA org page for the 2027 batch.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/golf-tennis-jobs/protennisjobs/u-s--tennis--usta--29068/undergraduate-intern-summer-2026-digital-strategy-partnerships-2151254",
@@ -3281,7 +3281,7 @@
         "fall-2026"
       ],
       "elig": "Students pursuing journalism degrees or substantially engaged in student journalism qualify for membership; multiple fellowship tracks including ones for women and students of color",
-      "desc": "NICAR is the best data-journalism training on earth, and sports analytics + social analytics is a natural fit — a NICAR fellowship as a sophomore would set her apart in sports media applicant pools. The Sept 13, 2026 AccessFest fellowship deadline is the nearest-term item in this entire list.",
+      "desc": "NICAR is the best data-journalism training on earth, and sports analytics + social analytics is a natural fit \u2014 a NICAR fellowship as a sophomore would set her apart in sports media applicant pools. The Sept 13, 2026 AccessFest fellowship deadline is the nearest-term item in this entire list.",
       "email": null,
       "contact": null,
       "link": "https://www.ire.org/training/fellowships-and-scholarships/",
@@ -3315,14 +3315,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Varies by posting",
-      "window": "Careers page currently shows 'No open positions' — check monthly; they state they're 'always looking to meet talented people'",
+      "window": "Careers page currently shows 'No open positions' \u2014 check monthly; they state they're 'always looking to meet talented people'",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
       "elig": "Varies; past editorial internships took undergrads",
-      "desc": "High-brand women's sports outlet whose past remote editorial/social internships fit her analytics + video profile exactly, but nothing is open today — set a reminder rather than count on it. Their heavy volleyball coverage (LOVB, NCAA) means a former club player has a real angle when something posts. [Also flagged by another researcher: Digital-first, 100% women's sports brand that has hired student interns in social/editorial in past cycles; women's volleyball is a growth beat for them (they covered the MLV merger closely). Cold out]",
+      "desc": "High-brand women's sports outlet whose past remote editorial/social internships fit her analytics + video profile exactly, but nothing is open today \u2014 set a reminder rather than count on it. Their heavy volleyball coverage (LOVB, NCAA) means a former club player has a real angle when something posts. [Also flagged by another researcher: Digital-first, 100% women's sports brand that has hired student interns in social/editorial in past cycles; women's volleyball is a growth beat for them (they covered the MLV merger closely). Cold out]",
       "email": null,
       "contact": null,
       "link": "https://justwomenssports.com/careers/",
@@ -3362,7 +3362,7 @@
         "rolling"
       ],
       "elig": "Currently enrolled juniors, seniors or graduate students; ~3.0 GPA",
-      "desc": "Local, prestigious station whose internship pool feeds its production-assistant hiring (7 On Your Side consumer unit is a known intern placement). Officially juniors+ — she can apply the moment junior standing hits, and station internships weigh enthusiasm and editing skills heavily.",
+      "desc": "Local, prestigious station whose internship pool feeds its production-assistant hiring (7 On Your Side consumer unit is a known intern placement). Officially juniors+ \u2014 she can apply the moment junior standing hits, and station internships weigh enthusiasm and editing skills heavily.",
       "email": null,
       "contact": null,
       "link": "https://abc7news.com/jobs/",
@@ -3401,7 +3401,7 @@
         "watch"
       ],
       "elig": "Rising juniors and seniors, 3.0+ GPA, US work authorization. Class of 2028 = rising junior by graduation year - she likely QUALIFIES for these fall roles; NYC/ATL hybrid location is the real constraint from Berkeley.",
-      "desc": "Verified 2026 roles include TNT Sports NHL Marketing, Sports Marketing & Social Media (NYC), and Sports Analytics (Atlanta). Urgent: the Fall 2026 NYC sports social internship deadline is around Aug 21, 2026 — worth an immediate look even if the semester logistics are hard, and it signals the team recruits every term.",
+      "desc": "Verified 2026 roles include TNT Sports NHL Marketing, Sports Marketing & Social Media (NYC), and Sports Analytics (Atlanta). Urgent: the Fall 2026 NYC sports social internship deadline is around Aug 21, 2026 \u2014 worth an immediate look even if the semester logistics are hard, and it signals the team recruits every term.",
       "email": null,
       "contact": null,
       "link": "https://careers.wbd.com/global/en/job/R000107178/Sports-Marketing-and-Social-Media-Internships-NYC-Fall-2026",
@@ -3478,8 +3478,8 @@
       "buckets": [
         "open-now"
       ],
-      "elig": "Emerging creative professionals; students/recent grads with video chops — no class-year floor stated",
-      "desc": "Tailor-made for her skills: shooting/editing on Sony mirrorless and RED cameras, Premiere Pro editing, season-long NBA storytelling. Catch: it's Sacramento (~1.5 hrs from Berkeley) and season-long — most realistic as a summer-start or gap-flexible role; the parallel Social Media Intern posting (Feb-Aug, vertical video) fits a spring semester better.",
+      "elig": "Emerging creative professionals; students/recent grads with video chops \u2014 no class-year floor stated",
+      "desc": "Tailor-made for her skills: shooting/editing on Sony mirrorless and RED cameras, Premiere Pro editing, season-long NBA storytelling. Catch: it's Sacramento (~1.5 hrs from Berkeley) and season-long \u2014 most realistic as a summer-start or gap-flexible role; the parallel Social Media Intern posting (Feb-Aug, vertical video) fits a spring semester better.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/basketball-jobs/sacramento-kings-jobs/sacramento-kings/content-intern-2158176",
@@ -3518,8 +3518,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Current undergraduate juniors, master's, and law students — Olivia can apply in fall 2027 (as a junior) for summer 2028",
-      "desc": "Flagged for timeline honesty — a fall-2027 application, not a 2027 summer option. The NFL's separate Rotational Program (2 years, 4 rotations) is for graduating seniors: a 2028 target. Media/content placements exist within both.",
+      "elig": "Current undergraduate juniors, master's, and law students \u2014 Olivia can apply in fall 2027 (as a junior) for summer 2028",
+      "desc": "Flagged for timeline honesty \u2014 a fall-2027 application, not a 2027 summer option. The NFL's separate Rotational Program (2 years, 4 rotations) is for graduating seniors: a 2028 target. Media/content placements exist within both.",
       "email": null,
       "contact": null,
       "link": "https://www.nfl.com/careers/early-career-programs",
@@ -3556,7 +3556,7 @@
         "rolling"
       ],
       "elig": "Open to anyone; no student status required",
-      "desc": "No student-specific cohort program currently runs (the Leadership Academy for Women in Media is for working professionals — a great year-8 goal, and its 2026 edition already closed), but Poynter's self-paced courses are the standard way students add credible training lines cheaply between semesters.",
+      "desc": "No student-specific cohort program currently runs (the Leadership Academy for Women in Media is for working professionals \u2014 a great year-8 goal, and its 2026 edition already closed), but Poynter's self-paced courses are the standard way students add credible training lines cheaply between semesters.",
       "email": null,
       "contact": null,
       "link": "https://www.poynter.org/",
@@ -3596,7 +3596,7 @@
         "rolling"
       ],
       "elig": "Student-accessible; community-focused club with men's (Roots) and women's (Soul) teams",
-      "desc": "Probably the most attainable pro-club media internship in the East Bay — a purpose-driven club with a Multimedia Content Manager on staff and a history of content-marketing interns, 20 minutes from campus. Soul SC (women's side) doubles the women's-sports angle; follow their socials since they announce openings there first.",
+      "desc": "Probably the most attainable pro-club media internship in the East Bay \u2014 a purpose-driven club with a Multimedia Content Manager on staff and a history of content-marketing interns, 20 minutes from campus. Soul SC (women's side) doubles the women's-sports angle; follow their socials since they announce openings there first.",
       "email": null,
       "contact": null,
       "link": "https://www.oaklandrootssc.com/careers",
@@ -3629,14 +3629,14 @@
       "payType": "Salaried",
       "payScore": 10,
       "time": "2 years full-time",
-      "window": "Annual; deadline has fallen in early January (Jan 5 for the class starting August 2026) — expect ~January 2027 for the 2027 class",
+      "window": "Annual; deadline has fallen in early January (Jan 5 for the class starting August 2026) \u2014 expect ~January 2027 for the 2027 class",
       "deadline": "2027-01-05",
       "deadlineLabel": null,
       "buckets": [
         "spring-2027"
       ],
       "elig": "Early-career/new graduates",
-      "desc": "Post-grad two-year rotation that regularly places fellows at the SF Chronicle — the natural capstone if her Bay Area internship path goes well. File under senior-year (fall 2027/January 2028) applications.",
+      "desc": "Post-grad two-year rotation that regularly places fellows at the SF Chronicle \u2014 the natural capstone if her Bay Area internship path goes well. File under senior-year (fall 2027/January 2028) applications.",
       "email": null,
       "contact": null,
       "link": "https://hearstfellowships.com/",
@@ -3666,7 +3666,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Part-time, semester or summer",
-      "window": "No KRON4 internship verifiably open as of Aug 5, 2026 — Nexstar posts by station on its careers portal each term",
+      "window": "No KRON4 internship verifiably open as of Aug 5, 2026 \u2014 Nexstar posts by station on its careers portal each term",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -3711,7 +3711,7 @@
       "buckets": [
         "future"
       ],
-      "elig": "POSTGRAD ONLY: requires a completed bachelor's degree — not sophomore-eligible",
+      "elig": "POSTGRAD ONLY: requires a completed bachelor's degree \u2014 not sophomore-eligible",
       "desc": "Included for honesty and future planning: roles span Communications, Digital Marketing, and 49ers Studios content (a recent posting: Intern, Creative Podcast & International Content, editing in Premiere). Bookmark for post-graduation 2028; for now, gameday event-staff roles at Levi's Stadium are the sophomore-accessible foot in the door.",
       "email": null,
       "contact": null,
@@ -3751,8 +3751,8 @@
       "buckets": [
         "spring-2027"
       ],
-      "elig": "Enrolled college students; categories span print/online, multimedia, audio, and TV — including sports writing and sports videography categories",
-      "desc": "The most recognized student journalism contest; a regional Mark of Excellence in sports writing or video is a resume line internship editors actually recognize. Everything she publishes at the Daily Cal in fall 2026 is contest-eligible — plan entries now.",
+      "elig": "Enrolled college students; categories span print/online, multimedia, audio, and TV \u2014 including sports writing and sports videography categories",
+      "desc": "The most recognized student journalism contest; a regional Mark of Excellence in sports writing or video is a resume line internship editors actually recognize. Everything she publishes at the Daily Cal in fall 2026 is contest-eligible \u2014 plan entries now.",
       "email": null,
       "contact": null,
       "link": "https://www.spj.org/mark-of-excellence-awards/",
@@ -3780,7 +3780,7 @@
       "regions": [
         "National / varies"
       ],
-      "pay": "Scholarship competition up to $1,500 (Larry Donald award); seminar itself is the experience — students cover real Final Four press conferences",
+      "pay": "Scholarship competition up to $1,500 (Larry Donald award); seminar itself is the experience \u2014 students cover real Final Four press conferences",
       "payType": "Stipend / scholarship",
       "payScore": 6,
       "time": "Final Four weekend",
@@ -3791,7 +3791,7 @@
         "spring-2027"
       ],
       "elig": "Undergrad and grad students with sports journalism interest; scholarship judged solely on a 700-750 word news/feature story produced at the event",
-      "desc": "Real credentialed access to Final Four press conferences as a sophomore, judged purely on the story you write — no seniority advantage. Her volleyball-player's game insight transfers directly to covering elite basketball.",
+      "desc": "Real credentialed access to Final Four press conferences as a sophomore, judged purely on the story you write \u2014 no seniority advantage. Her volleyball-player's game insight transfers directly to covering elite basketball.",
       "email": null,
       "contact": null,
       "link": "https://www.sportswriters.net/usbwa/full-court-press",
@@ -3812,7 +3812,7 @@
     {
       "id": 95,
       "rank": 95,
-      "name": "CBS News & Stations Internship — KPIX (Summer 2027 cycle)",
+      "name": "CBS News & Stations Internship \u2014 KPIX (Summer 2027 cycle)",
       "org": "KPIX CBS News Bay Area / Paramount",
       "cat": "Bay Area & digital outlets",
       "role": "internship",
@@ -3831,7 +3831,7 @@
       "buckets": [
         "future"
       ],
-      "elig": "CBS News Intern slots are restricted to rising seniors/master's students — Olivia won't qualify until 2028; the Creative Services intern track (writes/shoots/produces promos incl. Sports) has looser requirements",
+      "elig": "CBS News Intern slots are restricted to rising seniors/master's students \u2014 Olivia won't qualify until 2028; the Creative Services intern track (writes/shoots/produces promos incl. Sports) has looser requirements",
       "desc": "Listed for completeness with honest odds: the flagship KPIX news internship is seniors-and-up, so as a sophomore she should aim at the Creative Services intern (production/promo work touching Sports and Special Events) and bank KPIX for junior year. Note KPIX carries a heavy Bay Area sports brand (home of Vern Glenn).",
       "email": null,
       "contact": null,
@@ -3907,7 +3907,7 @@
         "watch"
       ],
       "elig": "Current students; editorial, audio, video, data and revenue tracks",
-      "desc": "No hard class-year bar and spans brands including SB Nation (sports) and The Verge — editorial and audience/video tracks fit her profile well. Small cohort, so a tailored cover letter naming the specific brand matters.",
+      "desc": "No hard class-year bar and spans brands including SB Nation (sports) and The Verge \u2014 editorial and audience/video tracks fit her profile well. Small cohort, so a tailored cover letter naming the specific brand matters.",
       "email": null,
       "contact": null,
       "link": "https://corp.voxmedia.com/careers",
@@ -3924,7 +3924,7 @@
     {
       "id": 98,
       "rank": 98,
-      "name": "Contributor — Cal Athletics coverage",
+      "name": "Contributor \u2014 Cal Athletics coverage",
       "org": "Write for California (successor to SB Nation's California Golden Blogs)",
       "cat": "Bay Area & digital outlets",
       "role": "contributor",
@@ -3944,7 +3944,7 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "None — Cal fandom and reliability; active on Substack in 2026",
+      "elig": "None \u2014 Cal fandom and reliability; active on Substack in 2026",
       "desc": "Perfect fit: she's ON CAMPUS at the school this site covers. Founded 2020 by the former SB Nation California Golden Blogs crew (the old CGB site's status is unverified - pitch Write for California, not CGB). Offer beat coverage of Cal volleyball and Olympic sports - coverage nobody else staffs - and she'd likely be publishing within weeks; pairs perfectly with a Daily Cal beat.",
       "email": null,
       "contact": null,
@@ -3988,7 +3988,7 @@
         "rolling"
       ],
       "elig": "Any student pursuing sports media",
-      "desc": "Unique perk: student members can publish written/audio/video work on NationalSportsMedia.org and get critiques from working professionals — a rare structured feedback loop plus mentoring. The awards weekend draws the biggest names in sportscasting/sportswriting if she ever wants to attend.",
+      "desc": "Unique perk: student members can publish written/audio/video work on NationalSportsMedia.org and get critiques from working professionals \u2014 a rare structured feedback loop plus mentoring. The awards weekend draws the biggest names in sportscasting/sportswriting if she ever wants to attend.",
       "email": null,
       "contact": null,
       "link": "https://nationalsportsmedia.org/join-today",
@@ -4007,7 +4007,7 @@
     {
       "id": 100,
       "rank": 100,
-      "name": "FanSided Contributor (Blue Man Hoop — Warriors, Niner Noise — 49ers, Around the Foghorn — Giants, Golden Gate Sports)",
+      "name": "FanSided Contributor (Blue Man Hoop \u2014 Warriors, Niner Noise \u2014 49ers, Around the Foghorn \u2014 Giants, Golden Gate Sports)",
       "org": "FanSided (Minute Media)",
       "cat": "Bay Area & digital outlets",
       "role": "contributor",
@@ -4062,14 +4062,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Full-time summer (~10 weeks)",
-      "window": "Verified Aug 26, 2026: confirmed via the live posting's own text — the ESPN Programming Intern, Remote, Fall 2026 role sits in the Programming department, whose mission is to \"create, acquire, and schedule premier content\" across professional and collegiate sports; responsibilities are general scheduling/planning across college sports, professional sports, and digital media, with no women's-sports/espnW-specific language anywhere in the listing. This resolves yesterday's ambiguity: the live Fall 2026 posting is the general ESPN Programming track, not a women's-sports-specific one. The espnW-lineage women's-sports internship (like the Summer 2026 posting previously verified here) is not currently live as a standalone posting; watch for a Summer 2027 women's-sports-specific posting later in fall 2026.",
+      "window": "Verified Aug 26, 2026: confirmed via the live posting's own text \u2014 the ESPN Programming Intern, Remote, Fall 2026 role sits in the Programming department, whose mission is to \"create, acquire, and schedule premier content\" across professional and collegiate sports; responsibilities are general scheduling/planning across college sports, professional sports, and digital media, with no women's-sports/espnW-specific language anywhere in the listing. This resolves yesterday's ambiguity: the live Fall 2026 posting is the general ESPN Programming track, not a women's-sports-specific one. The espnW-lineage women's-sports internship (like the Summer 2026 posting previously verified here) is not currently live as a standalone posting; watch for a Summer 2027 women's-sports-specific posting later in fall 2026.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "watch"
       ],
       "elig": "Enrolled college students; junior/senior preferred",
-      "desc": "ESPN ran a dedicated Women's Sports programming internship for Summer 2026, confirming espnW-style tracks still exist inside the main program; a former competitive volleyball player who coaches girls' club is a strong story fit. Standalone Andscape internships were not found in 2026 — Andscape hiring runs through general ESPN/Disney editorial postings. [Also flagged by another researcher: espnW no longer runs a separate student program, but ESPN posts a dedicated Women's Sports programming internship — the exact intersection of her interests. Long shot at her stage, but a strong AWSM/D]",
+      "desc": "ESPN ran a dedicated Women's Sports programming internship for Summer 2026, confirming espnW-style tracks still exist inside the main program; a former competitive volleyball player who coaches girls' club is a strong story fit. Standalone Andscape internships were not found in 2026 \u2014 Andscape hiring runs through general ESPN/Disney editorial postings. [Also flagged by another researcher: espnW no longer runs a separate student program, but ESPN posts a dedicated Women's Sports programming internship \u2014 the exact intersection of her interests. Long shot at her stage, but a strong AWSM/D]",
       "email": null,
       "contact": null,
       "link": "https://jobs.disneycareers.com/espn",
@@ -4141,11 +4141,11 @@
         "Remote",
         "South Bay / San Jose"
       ],
-      "pay": "Small — site uses subscriptions/tips explicitly 'to pay contributors'",
+      "pay": "Small \u2014 site uses subscriptions/tips explicitly 'to pay contributors'",
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "Flexible; heaviest Oct-Apr (NHL season)",
-      "window": "Recruits before each season — published 'From the Editor: New season, new staff' intro posts; late summer 2026 is exactly when to ask",
+      "window": "Recruits before each season \u2014 published 'From the Editor: New season, new staff' intro posts; late summer 2026 is exactly when to ask",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -4232,7 +4232,7 @@
         "open-now"
       ],
       "elig": "Students with video editing experience; ADOBE PREMIERE OR FINAL CUT PRO REQUIRED for the content video production intern role",
-      "desc": "One of the few internships that literally lists Final Cut Pro as a required skill, and FloVolleyball is the biggest streamer of club/college volleyball — her coaching knowledge maps directly to their content calendar. Editing-heavy role producing 16x9/1x1/9x16 cuts across verticals; a summer in Austin is very achievable.",
+      "desc": "One of the few internships that literally lists Final Cut Pro as a required skill, and FloVolleyball is the biggest streamer of club/college volleyball \u2014 her coaching knowledge maps directly to their content calendar. Editing-heavy role producing 16x9/1x1/9x16 cuts across verticals; a summer in Austin is very achievable.",
       "email": null,
       "contact": null,
       "link": "https://jobs.ashbyhq.com/flosports",
@@ -4274,8 +4274,8 @@
         "open-now",
         "rolling"
       ],
-      "elig": "Full-time enrolled college students. Honest caveat: student members are excluded from the flagship WISE Within one-on-one mentor program and several leadership programs — students get networking, chapter events, and online resources only.",
-      "desc": "Good for the business-of-sports network (events, marketing, sponsorship side) that complements journalism — relevant to her marketing/social analytics skills. Worth $40 mainly if a Bay Area chapter is active; WISE Within mentoring only unlocks after she graduates into professional membership.",
+      "elig": "Full-time enrolled college students. Honest caveat: student members are excluded from the flagship WISE Within one-on-one mentor program and several leadership programs \u2014 students get networking, chapter events, and online resources only.",
+      "desc": "Good for the business-of-sports network (events, marketing, sponsorship side) that complements journalism \u2014 relevant to her marketing/social analytics skills. Worth $40 mainly if a Bay Area chapter is active; WISE Within mentoring only unlocks after she graduates into professional membership.",
       "email": "wisesfbayarea@gmail.com",
       "contact": null,
       "link": "https://www.wiseworks.org/membership",
@@ -4298,7 +4298,7 @@
       "id": 107,
       "rank": 107,
       "name": "Prep sports freelance stringer (high school game coverage)",
-      "org": "Bay Area News Group — Mercury News / East Bay Times",
+      "org": "Bay Area News Group \u2014 Mercury News / East Bay Times",
       "cat": "Bay Area & digital outlets",
       "role": "stringer",
       "loc": "South Bay / East Bay, CA",
@@ -4317,9 +4317,9 @@
         "watch"
       ],
       "elig": "Anyone who can cover a game on deadline; clips help but desks train reliable stringers",
-      "desc": "BANG uses a stable of freelancers for Friday-night football and prep roundups, and its Prep2Prep partnership shows it actively runs student content in the Mercury News/East Bay Times. Successful pitch: short email to the preps desk with 2-3 clips (or mock gamers), her volleyball expertise, and availability for deadline game coverage — volleyball-season coverage is chronically understaffed and she's a former club player who coaches.",
+      "desc": "BANG uses a stable of freelancers for Friday-night football and prep roundups, and its Prep2Prep partnership shows it actively runs student content in the Mercury News/East Bay Times. Successful pitch: short email to the preps desk with 2-3 clips (or mock gamers), her volleyball expertise, and availability for deadline game coverage \u2014 volleyball-season coverage is chronically understaffed and she's a former club player who coaches.",
       "email": null,
-      "contact": "Darren Sabedra, BANG prep sports editor (longtime preps lead — verify current title on the Mercury News sports masthead)",
+      "contact": "Darren Sabedra, BANG prep sports editor (longtime preps lead \u2014 verify current title on the Mercury News sports masthead)",
       "link": "https://www.workinsports.com/jobs/view/528722609",
       "s": {
         "prestige": 6,
@@ -4401,7 +4401,7 @@
         "watch"
       ],
       "elig": "Varies by posting",
-      "desc": "Sports-business journalism leader; include because PMC's pending acquisition of Vox Media (announced 2026, per Sportico's own reporting) would bring SB Nation under the same roof — meaning more sports internship surface area at one employer. Watch pmc.com careers and Sportico's About page for postings. Update: PMC's acquisition of Vox Media's remaining brands (incl. SB Nation) was announced June 18, 2026, creating the PMX division - watch pmc.com careers for combined early-career postings.",
+      "desc": "Sports-business journalism leader; include because PMC's pending acquisition of Vox Media (announced 2026, per Sportico's own reporting) would bring SB Nation under the same roof \u2014 meaning more sports internship surface area at one employer. Watch pmc.com careers and Sportico's About page for postings. Update: PMC's acquisition of Vox Media's remaining brands (incl. SB Nation) was announced June 18, 2026, creating the PMX division - watch pmc.com careers for combined early-career postings.",
       "email": null,
       "contact": null,
       "link": "https://pmc.com/careers/",
@@ -4439,8 +4439,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "Undergrad-accessible — a dedicated 'Summer Intern - Undergraduate - Films' role exists; specific requirements per posting",
-      "desc": "The gold standard for sports video storytelling and one of the few elite programs with an undergraduate track — her Final Cut Pro reel is the differentiator here. Cohorts of 10-20 per session and many staff started as interns; requires a New Jersey summer, so plan housing.",
+      "elig": "Undergrad-accessible \u2014 a dedicated 'Summer Intern - Undergraduate - Films' role exists; specific requirements per posting",
+      "desc": "The gold standard for sports video storytelling and one of the few elite programs with an undergraduate track \u2014 her Final Cut Pro reel is the differentiator here. Cohorts of 10-20 per session and many staff started as interns; requires a New Jersey summer, so plan housing.",
       "email": null,
       "contact": null,
       "link": "https://www.nflfilms.com/careers/internship-faqs",
@@ -4470,14 +4470,14 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Varies (summer and semester placements historically offered)",
-      "window": "No current cycle verified as of Aug 2026 — monitor the USOPC careers portal; LA 2028 Olympic buildout should expand comms/content hiring",
+      "window": "No current cycle verified as of Aug 2026 \u2014 monitor the USOPC careers portal; LA 2028 Olympic buildout should expand comms/content hiring",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "watch"
       ],
       "elig": "Varies by posting; communications-focused placements have existed for undergrads",
-      "desc": "Flagged with a caveat: the careers page is real but I could not verify a currently posted internship cycle — treat as a monitoring target, not an open application. The LA28 Games (separate organizing committee, laolympics jobs) will also spin up thousands of media/content roles her junior/senior year — the same monitoring habit covers both.",
+      "desc": "Flagged with a caveat: the careers page is real but I could not verify a currently posted internship cycle \u2014 treat as a monitoring target, not an open application. The LA28 Games (separate organizing committee, laolympics jobs) will also spin up thousands of media/content roles her junior/senior year \u2014 the same monitoring habit covers both.",
       "email": null,
       "contact": null,
       "link": "https://www.usopc.org/careers",
@@ -4515,8 +4515,8 @@
       "buckets": [
         "nov-dec-2026"
       ],
-      "elig": "16+; media relations experience preferred — student journalists/media volunteers routinely used",
-      "desc": "The zero-barrier option this fall: when Cal or Stanford host NCAA volleyball first/second rounds in December 2026, the host media coordinator needs credential, stats, and press-row volunteers — email the host school's athletics communications office in November. Combines her sport with press-box experience she can cite in every later application.",
+      "elig": "16+; media relations experience preferred \u2014 student journalists/media volunteers routinely used",
+      "desc": "The zero-barrier option this fall: when Cal or Stanford host NCAA volleyball first/second rounds in December 2026, the host media coordinator needs credential, stats, and press-row volunteers \u2014 email the host school's athletics communications office in November. Combines her sport with press-box experience she can cite in every later application.",
       "email": null,
       "contact": null,
       "link": "https://www.ncaa.org/championships/media-center/",
@@ -4559,8 +4559,8 @@
         "nov-dec-2026",
         "watch"
       ],
-      "elig": "Full-time college students or grads within one year with serious journalism interest; reporters, social strategists, podcasters, and video journalists all welcome. AAJA programs are broadly open to students who support the mission — membership encouraged; confirm whether required.",
-      "desc": "One of the best-regarded student journalism training programs in the country — a working newsroom with pro editors. Her video/social portfolio is a real differentiator since VOICES explicitly recruits beyond writers.",
+      "elig": "Full-time college students or grads within one year with serious journalism interest; reporters, social strategists, podcasters, and video journalists all welcome. AAJA programs are broadly open to students who support the mission \u2014 membership encouraged; confirm whether required.",
+      "desc": "One of the best-regarded student journalism training programs in the country \u2014 a working newsroom with pro editors. Her video/social portfolio is a real differentiator since VOICES explicitly recruits beyond writers.",
       "email": "support@aaja.org",
       "contact": null,
       "link": "https://voices.aaja.org/apply/",
@@ -4642,7 +4642,7 @@
         "watch"
       ],
       "elig": "Verified Aug 6, 2026: student membership $25/yr, open to any enrolled student with journalism interest - no descent requirement (associate tier covers everyone else).",
-      "desc": "NAHJ's premier training program — students produce real multiplatform coverage of the convention under professional editors. Video producers and social-first storytellers are in demand for these newsrooms, which plays to her strengths.",
+      "desc": "NAHJ's premier training program \u2014 students produce real multiplatform coverage of the convention under professional editors. Video producers and social-first storytellers are in demand for these newsrooms, which plays to her strengths.",
       "email": null,
       "contact": null,
       "link": "https://nahj.org/student-project/",
@@ -4723,7 +4723,7 @@
         "fall-2026",
         "rolling"
       ],
-      "elig": "Enrolled students; wants writing/SEO/social skills — no class-standing floor",
+      "elig": "Enrolled students; wants writing/SEO/social skills \u2014 no class-standing floor",
       "desc": "One of the few shops that lists Final Cut Pro in requirements, and FloVolleyball streams the club circuit she coaches in. Correction: fall roles are Austin-based in person, so they fit a summer or gap term, not a Berkeley semester. Spring/summer cohorts recur - watch Ashby.",
       "email": null,
       "contact": null,
@@ -4764,7 +4764,7 @@
       "buckets": [
         "future"
       ],
-      "elig": "Early-career journalists — ideally recent college graduates with under 5 years professional experience; NOT open to current undergraduates",
+      "elig": "Early-career journalists \u2014 ideally recent college graduates with under 5 years professional experience; NOT open to current undergraduates",
       "desc": "Flagged per instructions: she cannot apply until she graduates in 2028, but it is the top prize for a sports-journalism trajectory (fellows can be placed with Sports/The Athletic desks). File under 'build clips now, apply senior year.'",
       "email": null,
       "contact": null,
@@ -4792,7 +4792,7 @@
         "National / varies",
         "Remote-friendly (hybrid)"
       ],
-      "pay": "Low cost — JournCamp has run at ~$20 for SPJ/ONA members, $40 non-members",
+      "pay": "Low cost \u2014 JournCamp has run at ~$20 for SPJ/ONA members, $40 non-members",
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "1-2 days",
@@ -4842,8 +4842,8 @@
       "buckets": [
         "fall-2026"
       ],
-      "elig": "Undergrad/grad students considering journalism careers; NLGJA membership is open to allies who support the mission — verify current terms",
-      "desc": "The 2026 national convention being in San Francisco is a rare geographic gift — a national journalism convention a BART ride from campus in her first month of sophomore year. Attend cheaply in 2026, then apply for the 10-person CONNECT newsroom in 2027.",
+      "elig": "Undergrad/grad students considering journalism careers; NLGJA membership is open to allies who support the mission \u2014 verify current terms",
+      "desc": "The 2026 national convention being in San Francisco is a rare geographic gift \u2014 a national journalism convention a BART ride from campus in her first month of sophomore year. Attend cheaply in 2026, then apply for the 10-person CONNECT newsroom in 2027.",
       "email": null,
       "contact": null,
       "link": "https://www.nlgja.org/",
@@ -4875,14 +4875,14 @@
       "payType": "Stipend / scholarship",
       "payScore": 2,
       "time": "Several posts/week for staff; flexible for community writers",
-      "window": "Rolling; recruitment spikes June-Aug before NFL season — right now is the window",
+      "window": "Rolling; recruitment spikes June-Aug before NFL season \u2014 right now is the window",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
       "elig": "None; site active in 2026 with a full masthead (EIC Kyle Posey)",
-      "desc": "One of SB Nation's highest-traffic NFL communities — bylines here get seen. The about-us page lists the full staff; pitch the EIC on X/email with 2-3 sample pieces or offer training-camp/social-video help, where her Final Cut skills differentiate her from the usual applicant pool.",
+      "desc": "One of SB Nation's highest-traffic NFL communities \u2014 bylines here get seen. The about-us page lists the full staff; pitch the EIC on X/email with 2-3 sample pieces or offer training-camp/social-video help, where her Final Cut skills differentiate her from the usual applicant pool.",
       "email": null,
       "contact": "Kyle Posey, Editor-in-Chief",
       "link": "https://www.ninersnation.com/about-us",
@@ -5042,8 +5042,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "Current college students able to receive academic credit — explicitly sophomore-friendly",
-      "desc": "Real press-box reps for a college student: pitching stories, press kits, and simple video/photo editing. Recent cycle closed but it reposts every semester — Berkeley students can arrange credit via Media Studies internship units (aligns with her major).",
+      "elig": "Current college students able to receive academic credit \u2014 explicitly sophomore-friendly",
+      "desc": "Real press-box reps for a college student: pitching stories, press kits, and simple video/photo editing. Recent cycle closed but it reposts every semester \u2014 Berkeley students can arrange credit via Media Studies internship units (aligns with her major).",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/soccer-jobs/usl-soccer-jobs/sacramento-republic-fc/college-internship-communications-2141629",
@@ -5123,7 +5123,7 @@
         "rolling"
       ],
       "elig": "Any student; student conference registration tier available",
-      "desc": "Important correction: ONA's famous Student Newsroom program ran 2003-2023 and is discontinued — the remaining student pathway (HBCU Digital Media Fellowship) doesn't apply to Berkeley. Still worth a cheap membership for the digital-journalism training and job board, since her analytics/video profile is exactly ONA's lane.",
+      "desc": "Important correction: ONA's famous Student Newsroom program ran 2003-2023 and is discontinued \u2014 the remaining student pathway (HBCU Digital Media Fellowship) doesn't apply to Berkeley. Still worth a cheap membership for the digital-journalism training and job board, since her analytics/video profile is exactly ONA's lane.",
       "email": "registration@journalists.org",
       "contact": null,
       "link": "https://www.journalists.org/",
@@ -5163,8 +5163,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Female students or young professionals pursuing baseball analytics/data science careers — her social-analytics skills and athlete background make a credible application even without a stats major",
-      "desc": "A women-specific on-ramp into sports analytics named for one of the most visible women in baseball media — small applicant pool, real network value. Pairs the women-in-sports-media angle with a differentiating data credential.",
+      "elig": "Female students or young professionals pursuing baseball analytics/data science careers \u2014 her social-analytics skills and athlete background make a credible application even without a stats major",
+      "desc": "A women-specific on-ramp into sports analytics named for one of the most visible women in baseball media \u2014 small applicant pool, real network value. Pairs the women-in-sports-media angle with a differentiating data credential.",
       "email": "scarter@sabr.org",
       "contact": "Scott Carter, SABR (scholarship contact)",
       "link": "https://sabr.org/scholarships",
@@ -5187,7 +5187,7 @@
       "id": 129,
       "rank": 129,
       "name": "Contributor / fanpost-to-staff pipeline",
-      "org": "Golden State of Mind (SB Nation / Vox Media — Warriors)",
+      "org": "Golden State of Mind (SB Nation / Vox Media \u2014 Warriors)",
       "cat": "Bay Area & digital outlets",
       "role": "contributor",
       "loc": "Remote (Bay Area events optional)",
@@ -5199,14 +5199,14 @@
       "payType": "Stipend / scholarship",
       "payScore": 2,
       "time": "~1-3 posts/week when on staff",
-      "window": "Rolling — staff openings announced via site posts and the editors' X accounts, typically before each NBA season (Sept-Oct)",
+      "window": "Rolling \u2014 staff openings announced via site posts and the editors' X accounts, typically before each NBA season (Sept-Oct)",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
-      "elig": "None — quality of writing and Warriors knowledge; active site in 2026",
-      "desc": "The classic on-ramp: post strong FanPosts/comments, then answer the pre-season recruitment thread or DM the EIC with clips — several current NBA writers started exactly here. GSOM also runs a podcast and YouTube channel, a fit for her production skills.",
+      "elig": "None \u2014 quality of writing and Warriors knowledge; active site in 2026",
+      "desc": "The classic on-ramp: post strong FanPosts/comments, then answer the pre-season recruitment thread or DM the EIC with clips \u2014 several current NBA writers started exactly here. GSOM also runs a podcast and YouTube channel, a fit for her production skills.",
       "email": null,
       "contact": "Brady Klopfer, Editor-in-Chief (per GSOM masthead)",
       "link": "https://www.goldenstateofmind.com/masthead",
@@ -5285,8 +5285,8 @@
       "buckets": [
         "future"
       ],
-      "elig": "Rising college seniors or current grad students ONLY — Olivia is not eligible until the summer-2028 cycle (apply fall 2027)",
-      "desc": "The league office also runs WNBA-side placements through the same careers portal, with content/social departments among the tracks. Flagged for the timeline: not a 2027 option, but the single best fall-2027 application on this list — team-side experience in 2026-27 is exactly what makes that application competitive.",
+      "elig": "Rising college seniors or current grad students ONLY \u2014 Olivia is not eligible until the summer-2028 cycle (apply fall 2027)",
+      "desc": "The league office also runs WNBA-side placements through the same careers portal, with content/social departments among the tracks. Flagged for the timeline: not a 2027 option, but the single best fall-2027 application on this list \u2014 team-side experience in 2026-27 is exactly what makes that application competitive.",
       "email": null,
       "contact": null,
       "link": "https://careers.nba.com/early-career-programs/",
@@ -5393,18 +5393,18 @@
       "regions": [
         "Remote"
       ],
-      "pay": "Traffic-based remuneration with no ceiling — honestly small for most writers",
+      "pay": "Traffic-based remuneration with no ceiling \u2014 honestly small for most writers",
       "payType": "Freelance / per piece",
       "payScore": 4,
       "time": "One article/week commitment",
-      "window": "Rolling — every vertical keeps a live Write For Us page (basketball, college football, NFL, etc., all active 2026)",
+      "window": "Rolling \u2014 every vertical keeps a live Write For Us page (basketball, college football, NFL, etc., all active 2026)",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
       "elig": "None; submit a 500-1,000 word sample analysis piece",
-      "desc": "Near-guaranteed acceptance for a competent writer and they promote from within to editor roles — useful as a volume clip source while she chases bigger bylines. A strong 700-word Cal volleyball or Warriors analysis piece is the whole application.",
+      "desc": "Near-guaranteed acceptance for a competent writer and they promote from within to editor roles \u2014 useful as a volume clip source while she chases bigger bylines. A strong 700-word Cal volleyball or Warriors analysis piece is the whole application.",
       "email": null,
       "contact": null,
       "link": "https://lastwordonsports.com/basketball/write-for-us/",
@@ -5439,7 +5439,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Article/shoot assignments per semester; some roles require a portfolio",
-      "window": "Verified Aug 26, 2026: confirmed the application process is a short-response Google Form per department (writers, photographers, etc.), rolling/open every semester rather than a single hard deadline; contact berkeleybside@gmail.com reconfirmed. Fall 2026 semester has now started (Aug 26) — apply now via the Join Our Team page.",
+      "window": "Verified Aug 26, 2026: confirmed the application process is a short-response Google Form per department (writers, photographers, etc.), rolling/open every semester rather than a single hard deadline; contact berkeleybside@gmail.com reconfirmed. Fall 2026 semester has now started (Aug 26) \u2014 apply now via the Join Our Team page.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -5529,8 +5529,8 @@
       "buckets": [
         "spring-2027"
       ],
-      "elig": "Current college students — no junior/senior requirement; explicitly recruits undergrads for semester terms",
-      "desc": "The most sophomore-accessible way to get 'ESPN' on a resume — part-time, semester-based, and open to underclassmen — but every market is far from Berkeley, so it realistically fits a summer or an away semester. Content, marketing, and event tracks match her skill set.",
+      "elig": "Current college students \u2014 no junior/senior requirement; explicitly recruits undergrads for semester terms",
+      "desc": "The most sophomore-accessible way to get 'ESPN' on a resume \u2014 part-time, semester-based, and open to underclassmen \u2014 but every market is far from Berkeley, so it realistically fits a summer or an away semester. Content, marketing, and event tracks match her skill set.",
       "email": null,
       "contact": null,
       "link": "https://www.goodkarmabrands.com/careers",
@@ -5559,7 +5559,7 @@
         "New York City",
         "Other US"
       ],
-      "pay": "$1,000/month stipend (40 hrs/week) — well below big-media hourly pay",
+      "pay": "$1,000/month stipend (40 hrs/week) \u2014 well below big-media hourly pay",
       "payType": "Stipend / scholarship",
       "payScore": 5,
       "time": "Full-time, 10 weeks (2026: late May-late Aug); also fall/spring terms",
@@ -5569,8 +5569,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "18+, enrolled in college OR graduated within the last year — sophomores eligible",
-      "desc": "Sophomore-eligible and genuinely hands-on (studio production, live broadcasts, social) — the ItGirl/Chicks women's-vertical intern track is a notable fit. Budget reality: $1k/month in NYC/Chicago means housing math matters; watch Barstool's careers listings via Built In or LinkedIn.",
+      "elig": "18+, enrolled in college OR graduated within the last year \u2014 sophomores eligible",
+      "desc": "Sophomore-eligible and genuinely hands-on (studio production, live broadcasts, social) \u2014 the ItGirl/Chicks women's-vertical intern track is a notable fit. Budget reality: $1k/month in NYC/Chicago means housing math matters; watch Barstool's careers listings via Built In or LinkedIn.",
       "email": null,
       "contact": null,
       "link": "https://builtin.com/job/mostly-sports-production-intern/8784768",
@@ -5610,8 +5610,8 @@
       "buckets": [
         "future"
       ],
-      "elig": "Open to college students AND post-grads — no senior-only restriction; departments include Broadcast, Marketing, Strategy, Sporting",
-      "desc": "Fast-growing league with a Broadcast department track — strong women's-sports and media fit, and 'college students' eligibility makes summer 2027 realistic. Linked posting is the 2025 edition (program is annual); watch nwslsoccer.isolvedhire.com and mention Bay FC market knowledge.",
+      "elig": "Open to college students AND post-grads \u2014 no senior-only restriction; departments include Broadcast, Marketing, Strategy, Sporting",
+      "desc": "Fast-growing league with a Broadcast department track \u2014 strong women's-sports and media fit, and 'college students' eligibility makes summer 2027 realistic. Linked posting is the 2025 edition (program is annual); watch nwslsoccer.isolvedhire.com and mention Bay FC market knowledge.",
       "email": null,
       "contact": null,
       "link": "https://nwslsoccer.isolvedhire.com/jobs/1448861.html",
@@ -5728,7 +5728,7 @@
         "watch"
       ],
       "elig": "Independent college student media organizations apply as a team",
-      "desc": "Not an individual internship — the play is to get The Daily Californian to apply, which would give Olivia Poynter-led training and a funded reporting project as a staffer. Poynter's other student offerings (webinars, self-directed courses) are open to individuals year-round and are cheap resume fuel.",
+      "desc": "Not an individual internship \u2014 the play is to get The Daily Californian to apply, which would give Olivia Poynter-led training and a funded reporting project as a staffer. Poynter's other student offerings (webinars, self-directed courses) are open to individuals year-round and are cheap resume fuel.",
       "email": null,
       "contact": null,
       "link": "https://www.poynter.org/the-poynter-college-media-project/",
@@ -5805,8 +5805,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Diversity program: sophomore-level+ undergrads and grad students, 3.0 GPA, AND must identify as Black/African American, American Indian/Alaska Native, Asian, Latino/Hispanic, or Native Hawaiian/Pacific Islander — verify fit; general NASCAR Next internships have no identity requirement",
-      "desc": "Sophomore-eligible on class year, but the Diversity program has a specific identity requirement — only pursue if she qualifies; otherwise the general NASCAR internships on the same careers page (incl. content/marketing roles) are the route. NASCAR Productions in Charlotte does serious video work.",
+      "elig": "Diversity program: sophomore-level+ undergrads and grad students, 3.0 GPA, AND must identify as Black/African American, American Indian/Alaska Native, Asian, Latino/Hispanic, or Native Hawaiian/Pacific Islander \u2014 verify fit; general NASCAR Next internships have no identity requirement",
+      "desc": "Sophomore-eligible on class year, but the Diversity program has a specific identity requirement \u2014 only pursue if she qualifies; otherwise the general NASCAR internships on the same careers page (incl. content/marketing roles) are the route. NASCAR Productions in Charlotte does serious video work.",
       "email": null,
       "contact": null,
       "link": "https://careers.nascar.com/nascar-internships/",
@@ -5845,7 +5845,7 @@
         "rolling"
       ],
       "elig": "Undergraduate rising juniors and seniors",
-      "desc": "Rising juniors are eligible — that's Olivia for summer 2027 if her standing is counted post-sophomore year, making this one of the more accessible NYC magazine programs. Individual titles also post one-off paid editorial internships (Good Housekeeping, Women's Health) outside the formal program.",
+      "desc": "Rising juniors are eligible \u2014 that's Olivia for summer 2027 if her standing is counted post-sophomore year, making this one of the more accessible NYC magazine programs. Individual titles also post one-off paid editorial internships (Good Housekeeping, Women's Health) outside the formal program.",
       "email": null,
       "contact": null,
       "link": "https://www.hearst.com/careers",
@@ -5884,7 +5884,7 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Reserved for current UC Berkeley Graduate School of Journalism students — undergrads not eligible",
+      "elig": "Reserved for current UC Berkeley Graduate School of Journalism students \u2014 undergrads not eligible",
       "desc": "Included for completeness: SFGATE's dedicated internship is a UC Berkeley pipeline but at the graduate J-school level. Undergrads should route Hearst Bay Area ambitions through the Chronicle internships instead.",
       "email": null,
       "contact": null,
@@ -5922,8 +5922,8 @@
       "buckets": [
         "watch"
       ],
-      "elig": "Children of FWAA members AND student FWAA members — so joining FWAA as a student member creates eligibility; realistically member-family-weighted",
-      "desc": "Marginal as a scholarship bet, but FWAA student membership itself is cheap credibility if she covers Cal football for the Daily Cal — and college football is the biggest beat in sports media. Include only if she takes the football beat.",
+      "elig": "Children of FWAA members AND student FWAA members \u2014 so joining FWAA as a student member creates eligibility; realistically member-family-weighted",
+      "desc": "Marginal as a scholarship bet, but FWAA student membership itself is cheap credibility if she covers Cal football for the Daily Cal \u2014 and college football is the biggest beat in sports media. Include only if she takes the football beat.",
       "email": "schmad09@gmail.com",
       "contact": "Alan Schmadtke, FWAA scholarship contact",
       "link": "https://www.sportswriters.net/fwaa/awards/volney-meece-scholarship",
@@ -6001,7 +6001,7 @@
       "buckets": [
         "future"
       ],
-      "elig": "Rising college seniors, recent grads, or graduate students — Olivia eligible for the summer-2028 cycle, not 2027",
+      "elig": "Rising college seniors, recent grads, or graduate students \u2014 Olivia eligible for the summer-2028 cycle, not 2027",
       "desc": "Departments explicitly include Content and Social Media. Flagged for timing: a fall-2027 application; Giants team-side work now is the feeder. Apply via MLB's careers portal when the posting goes live each fall.",
       "email": null,
       "contact": null,
@@ -6032,14 +6032,14 @@
       "payType": "Freelance / per piece",
       "payScore": 4,
       "time": "Per-piece",
-      "window": "Rolling; no formal application posted — writers join via cold pitch",
+      "window": "Rolling; no formal application posted \u2014 writers join via cold pitch",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "rolling"
       ],
       "elig": "None; stats literacy valued",
-      "desc": "Active newsletter whose freelancers (Calvin Wetzel, Chelsea Leite, Jacob Mox) overlap with The IX and FanSided — one pitch can serve all three. No published 'write for us' page, so the move is a data-driven Valkyries or Pac-12-successor women's hoops pitch via their Substack/X.",
+      "desc": "Active newsletter whose freelancers (Calvin Wetzel, Chelsea Leite, Jacob Mox) overlap with The IX and FanSided \u2014 one pitch can serve all three. No published 'write for us' page, so the move is a data-driven Valkyries or Pac-12-successor women's hoops pitch via their Substack/X.",
       "email": null,
       "contact": null,
       "link": "https://herhoopstats.substack.com/about",
@@ -6080,7 +6080,7 @@
         "rolling"
       ],
       "elig": "None; they solicit athlete story submissions via the contact page",
-      "desc": "A NorCal print magazine byline is a nice differentiator, and their contributor pool includes regular preps writers they survey annually. Email via the contact page (addresses are bot-cloaked on the page) proposing volleyball features — a former SportStars-coverage-area athlete turned coach writes their exact kind of story.",
+      "desc": "A NorCal print magazine byline is a nice differentiator, and their contributor pool includes regular preps writers they survey annually. Email via the contact page (addresses are bot-cloaked on the page) proposing volleyball features \u2014 a former SportStars-coverage-area athlete turned coach writes their exact kind of story.",
       "email": null,
       "contact": null,
       "link": "https://sportstarsmag.com/contact-us/",
@@ -6119,8 +6119,8 @@
       "buckets": [
         "future"
       ],
-      "elig": "POSTGRAD ONLY: recent bachelor's/master's grads, 3.0+ GPA; program targets women and people of color — Olivia qualifies on gender after graduating in 2028",
-      "desc": "Not a current option — logged as a high-value post-2028 target (UC Berkeley's own career boards promote it). Business-side placements suit her marketing/analytics profile.",
+      "elig": "POSTGRAD ONLY: recent bachelor's/master's grads, 3.0+ GPA; program targets women and people of color \u2014 Olivia qualifies on gender after graduating in 2028",
+      "desc": "Not a current option \u2014 logged as a high-value post-2028 target (UC Berkeley's own career boards promote it). Business-side placements suit her marketing/analytics profile.",
       "email": null,
       "contact": null,
       "link": "https://www.mlb.com/careers/diversity-fellowship",
@@ -6156,8 +6156,8 @@
       "buckets": [
         "future"
       ],
-      "elig": "Early-career journalists — effectively post-graduation",
-      "desc": "Post-grad only, so purely a 2028 target — but worth knowing now because fellows are chosen on clips and demonstrated hustle built during college. The Atlantic has no regular undergraduate internship.",
+      "elig": "Early-career journalists \u2014 effectively post-graduation",
+      "desc": "Post-grad only, so purely a 2028 target \u2014 but worth knowing now because fellows are chosen on clips and demonstrated hustle built during college. The Atlantic has no regular undergraduate internship.",
       "email": null,
       "contact": null,
       "link": "https://www.theatlantic.com/jobs/",
@@ -6188,14 +6188,14 @@
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "Varies; big event-media needs around Girls Junior National Championships (summer) and national team events",
-      "window": "Postings intermittent on the careers page — no standing annual program verified; check quarterly",
+      "window": "Postings intermittent on the careers page \u2014 no standing annual program verified; check quarterly",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "watch"
       ],
       "elig": "Varies; event/media support roles are student-accessible",
-      "desc": "Her single biggest credibility edge — a former competitive player and current club coach applying to the NGB's comms/marketing roles is a standout story. Careers page had ~3 openings at last check; also worth a targeted note to their communications department when any media role posts, referencing her club-volleyball network.",
+      "desc": "Her single biggest credibility edge \u2014 a former competitive player and current club coach applying to the NGB's comms/marketing roles is a standout story. Careers page had ~3 openings at last check; also worth a targeted note to their communications department when any media role posts, referencing her club-volleyball network.",
       "email": null,
       "contact": null,
       "link": "https://usavolleyball.org/about/careers/",
@@ -6238,8 +6238,8 @@
         "future",
         "rolling"
       ],
-      "elig": "Summer 2026 cycle required students who will be SENIORS or Master's students the following fall — sophomores/juniors not eligible unless the policy changes",
-      "desc": "Verified robust 2026 program (production, editorial research, HQ streaming PA, comms/marketing) but the rising-senior requirement makes Summer 2027 a long shot for her — this is really her Summer 2028 target, so calendar it now. Alternate door: the CBS Sports/AAJA Sports Task Force internship, which runs on separate eligibility via aaja.org.",
+      "elig": "Summer 2026 cycle required students who will be SENIORS or Master's students the following fall \u2014 sophomores/juniors not eligible unless the policy changes",
+      "desc": "Verified robust 2026 program (production, editorial research, HQ streaming PA, comms/marketing) but the rising-senior requirement makes Summer 2027 a long shot for her \u2014 this is really her Summer 2028 target, so calendar it now. Alternate door: the CBS Sports/AAJA Sports Task Force internship, which runs on separate eligibility via aaja.org.",
       "email": null,
       "contact": null,
       "link": "https://careers.paramount.com",
@@ -6277,8 +6277,8 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "None — writing sample driven; site active in 2026",
-      "desc": "Produced Grant Brisbee (now The Athletic) — proof this route creates careers. Watch the site and its X account for 'we're hiring a writer' posts (they publish them openly) and build a comment/FanPost presence first; masthead editor Marc Delucchi also writes for GSOM, so one relationship opens two doors.",
+      "elig": "None \u2014 writing sample driven; site active in 2026",
+      "desc": "Produced Grant Brisbee (now The Athletic) \u2014 proof this route creates careers. Watch the site and its X account for 'we're hiring a writer' posts (they publish them openly) and build a comment/FanPost presence first; masthead editor Marc Delucchi also writes for GSOM, so one relationship opens two doors.",
       "email": null,
       "contact": null,
       "link": "https://www.mccoveychronicles.com/masthead",
@@ -6357,8 +6357,8 @@
       "buckets": [
         "nov-dec-2026"
       ],
-      "elig": "Student journalists at member outlets — the Daily Californian's membership is her ticket",
-      "desc": "1,000 student journalists, critiques, and national contests (ACP Pacemakers) — and the spring ACP convention is in La Jolla, an easy in-state trip. Sports sessions and on-site contests are a low-stakes way to collect awards early.",
+      "elig": "Student journalists at member outlets \u2014 the Daily Californian's membership is her ticket",
+      "desc": "1,000 student journalists, critiques, and national contests (ACP Pacemakers) \u2014 and the spring ACP convention is in La Jolla, an easy in-state trip. Sports sessions and on-site contests are a low-stakes way to collect awards early.",
       "email": null,
       "contact": null,
       "link": "https://collegemediaconvention.org/",
@@ -6398,7 +6398,7 @@
         "watch"
       ],
       "elig": "Varies by posting",
-      "desc": "DAZN's US footprint is growing fast (July 2026: YES Network and MSG Networks moving streaming to DAZN), which should create US content/social roles; Team Whistle (acquired 2023) still operates as its social-content arm — verified active, but intern openings are sporadic. Set an alert on their NY careers page.",
+      "desc": "DAZN's US footprint is growing fast (July 2026: YES Network and MSG Networks moving streaming to DAZN), which should create US content/social roles; Team Whistle (acquired 2023) still operates as its social-content arm \u2014 verified active, but intern openings are sporadic. Set an alert on their NY careers page.",
       "email": null,
       "contact": null,
       "link": "https://careers.dazn.com/new-york",
@@ -6437,7 +6437,7 @@
         "watch"
       ],
       "elig": "Varies; social-first content roles often prize portfolio over class year",
-      "desc": "Verified active and growing in 2026; Overtime historically hires interns in social, production, and league content, and also sources freelance shooters who DM game highlights to @overtime on Instagram — a zero-barrier way to get on their radar with her phone/FCP skills. Check Wellfound + LinkedIn for postings; her Overtime Select (girls' hoops) analog is girls' volleyball content.",
+      "desc": "Verified active and growing in 2026; Overtime historically hires interns in social, production, and league content, and also sources freelance shooters who DM game highlights to @overtime on Instagram \u2014 a zero-barrier way to get on their radar with her phone/FCP skills. Check Wellfound + LinkedIn for postings; her Overtime Select (girls' hoops) analog is girls' volleyball content.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/sports-technology-jobs/Overtime-overtime-elite-jobs/overtime",
@@ -6457,7 +6457,7 @@
     {
       "id": 161,
       "rank": 161,
-      "name": "PR and Communications Intern (gameday) — example of WNBA team internships",
+      "name": "PR and Communications Intern (gameday) \u2014 example of WNBA team internships",
       "org": "Los Angeles Sparks (WNBA)",
       "cat": "Teams & leagues",
       "role": "internship",
@@ -6471,14 +6471,14 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "All 22+ home games (~6 hrs each) + ~2 hrs practice days + ~1 hr remote weekly, May-Sept",
-      "window": "Annual with the WNBA season; 2026 deadline was April 3, 2026 — expect spring 2027 posting",
+      "window": "Annual with the WNBA season; 2026 deadline was April 3, 2026 \u2014 expect spring 2027 posting",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "watch"
       ],
       "elig": "EXPLICITLY open to rising sophomores and up (enrolled undergrads or grad students; proof of credit eligibility required)",
-      "desc": "One of the few pro-team comms internships that names rising sophomores as eligible — credential distribution, press conferences, quote transcription. Only works if she's in LA for summer 2027; otherwise it's the template for what to ask the Valkyries about locally.",
+      "desc": "One of the few pro-team comms internships that names rising sophomores as eligible \u2014 credential distribution, press conferences, quote transcription. Only works if she's in LA for summer 2027; otherwise it's the template for what to ask the Valkyries about locally.",
       "email": null,
       "contact": null,
       "link": "https://www.sportsjobs.online/jobs/11761-pr-and-communications-intern",
@@ -6517,8 +6517,8 @@
       "buckets": [
         "future"
       ],
-      "elig": "POSTGRAD ONLY: bachelor's/grad degree from an NCAA member school required — Olivia eligible for the class starting June 2028",
-      "desc": "45 positions across 12 departments including Championships & Alliances (which runs championship media). Not current — flagged as the post-graduation 2028 pathway; applications for her eligible class would open August 2028 (or August 2027 if she accelerates graduation).",
+      "elig": "POSTGRAD ONLY: bachelor's/grad degree from an NCAA member school required \u2014 Olivia eligible for the class starting June 2028",
+      "desc": "45 positions across 12 departments including Championships & Alliances (which runs championship media). Not current \u2014 flagged as the post-graduation 2028 pathway; applications for her eligible class would open August 2028 (or August 2027 if she accelerates graduation).",
       "email": null,
       "contact": null,
       "link": "https://www.ncaa.org/what-we-do/programs/postgraduate-internships/",
@@ -6574,8 +6574,8 @@
     {
       "id": 164,
       "rank": 164,
-      "name": "Condé Nast US Summer Internship Program",
-      "org": "Condé Nast (Vogue, GQ, The New Yorker, Wired, Vanity Fair, etc.)",
+      "name": "Cond\u00e9 Nast US Summer Internship Program",
+      "org": "Cond\u00e9 Nast (Vogue, GQ, The New Yorker, Wired, Vanity Fair, etc.)",
       "cat": "General journalism",
       "role": "internship",
       "loc": "New York, NY (One World Trade, hybrid ~4 days onsite)",
@@ -6625,14 +6625,14 @@
       "payType": "Salaried",
       "payScore": 10,
       "time": "2 years full-time",
-      "window": "Annual; 2026 cohort apps ran February-early March 2026 — expect ~February 2027 and ~February 2028 windows",
+      "window": "Annual; 2026 cohort apps ran February-early March 2026 \u2014 expect ~February 2027 and ~February 2028 windows",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
         "future"
       ],
       "elig": "Post-graduation early-career journalists (grads of 2-year, 4-year or grad programs, or 3+ years newsroom experience); not open to current undergrads",
-      "desc": "Administered on her own campus but strictly a post-grad job placement — the ideal spring-2028 application as she graduates. Being at Berkeley is an advantage: she can meet the program staff and current fellows years before applying.",
+      "desc": "Administered on her own campus but strictly a post-grad job placement \u2014 the ideal spring-2028 application as she graduates. Being at Berkeley is an advantage: she can meet the program staff and current fellows years before applying.",
       "email": null,
       "contact": null,
       "link": "https://fellowships.journalism.berkeley.edu/cafellows/",
@@ -6670,7 +6670,7 @@
         "rolling"
       ],
       "elig": "Varies by posting",
-      "desc": "Honest status check: since Minute Media took over SI's publishing (2024), there is no verified standalone 'SI internship program' — opportunities surface as individual Minute Media intern/contributor postings, and FanSided's contributor network is a realistic byline route for a sophomore. Watch minutemedia.com careers rather than legacy SI pages.",
+      "desc": "Honest status check: since Minute Media took over SI's publishing (2024), there is no verified standalone 'SI internship program' \u2014 opportunities surface as individual Minute Media intern/contributor postings, and FanSided's contributor network is a realistic byline route for a sophomore. Watch minutemedia.com careers rather than legacy SI pages.",
       "email": null,
       "contact": null,
       "link": "https://www.minutemedia.com/",
@@ -6710,7 +6710,7 @@
         "watch"
       ],
       "elig": "Varies",
-      "desc": "Newsletter/social brand with a published hiring email (rare — use it) and a job board that doubles as a discovery tool for women's-sports internships across the industry. Their voice-y, analytics-driven social content is exactly the writing style she should have samples of.",
+      "desc": "Newsletter/social brand with a published hiring email (rare \u2014 use it) and a job board that doubles as a discovery tool for women's-sports internships across the industry. Their voice-y, analytics-driven social content is exactly the writing style she should have samples of.",
       "email": "hiring@thegistsports.com",
       "contact": null,
       "link": "https://jobs.thegistsports.com",
@@ -6751,7 +6751,7 @@
         "future"
       ],
       "elig": "Same as CBS News: rising seniors or master's students",
-      "desc": "The local CBS route — script prep, interviews, video logging/editing — but the senior-year rule applies. Note SFSU's Dave McElhatton Memorial Scholarship funds a KPIX internship, a model to watch for via NorCal NATAS (emmysf.tv) student listings.",
+      "desc": "The local CBS route \u2014 script prep, interviews, video logging/editing \u2014 but the senior-year rule applies. Note SFSU's Dave McElhatton Memorial Scholarship funds a KPIX internship, a model to watch for via NorCal NATAS (emmysf.tv) student listings.",
       "email": null,
       "contact": null,
       "link": "https://careers.paramount.com/",
@@ -6830,7 +6830,7 @@
         "rolling"
       ],
       "elig": "Open to students, but the 6-month full-time commitment conflicts with Berkeley semesters; realistically a gap-semester or post-grad option",
-      "desc": "Billie Jean King's foundation — a marquee women's sports name, and the digital/brand content roles match her video and social skills. Feasibility is low for a sophomore because of the 6-month full-time NYC commitment; better to bookmark for later or watch for shorter project roles.",
+      "desc": "Billie Jean King's foundation \u2014 a marquee women's sports name, and the digital/brand content roles match her video and social skills. Feasibility is low for a sophomore because of the 6-month full-time NYC commitment; better to bookmark for later or watch for shorter project roles.",
       "email": null,
       "contact": null,
       "link": "https://www.womenssportsfoundation.org/careers/",
@@ -6868,7 +6868,7 @@
       "buckets": [
         "rolling"
       ],
-      "elig": "Built for high school students — a college sophomore is outside the core program, so she'd need to ask about writer/mentor or freelance roles",
+      "elig": "Built for high school students \u2014 a college sophomore is outside the core program, so she'd need to ask about writer/mentor or freelance roles",
       "desc": "Honest caveat: contributors are mostly HS students, but Prep2Prep's content runs in the Mercury News/East Bay Times through its BANG partnership, and a college journalist who coaches club volleyball is a natural mentor/senior-writer inquiry. Worst case, the info@ email is a warm referral into BANG's preps desk.",
       "email": "info@prep2prep.com",
       "contact": null,
@@ -6911,7 +6911,7 @@
         "watch"
       ],
       "elig": "Varies",
-      "desc": "Small athlete-founded shop, so direct intern seats are rare — but the interest form is zero-cost, and their job board surfaced verified women's-sports internships (KC Current UX intern, X Games XPLORE program, Gainbridge Super League marketing/social intern) worth mining every few weeks.",
+      "desc": "Small athlete-founded shop, so direct intern seats are rare \u2014 but the interest form is zero-cost, and their job board surfaced verified women's-sports internships (KC Current UX intern, X Games XPLORE program, Gainbridge Super League marketing/social intern) worth mining every few weeks.",
       "email": null,
       "contact": null,
       "link": "https://www.togethxr.com/pages/careers-interest-form",
@@ -6951,7 +6951,7 @@
         "watch"
       ],
       "elig": "College students able to receive academic credit",
-      "desc": "Included as proof that MLV teams hire student content interns — Orlando's is credit-only and location-locked, so it's a template, not her target; the same role at MLV NorCal or via remote arrangement is the ask. Every MLV franchise careers page (provolleyball.com/employment-opportunities) is worth a monthly check.",
+      "desc": "Included as proof that MLV teams hire student content interns \u2014 Orlando's is credit-only and location-locked, so it's a template, not her target; the same role at MLV NorCal or via remote arrangement is the ask. Every MLV franchise careers page (provolleyball.com/employment-opportunities) is worth a monthly check.",
       "email": null,
       "contact": null,
       "link": "https://www.teamworkonline.com/other-sports-jobs/mlv-jobs/mlv-orlando-jobs/social-media-content-creation-intern-2177578",
