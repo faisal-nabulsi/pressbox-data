@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-28",
+    "updated": "2026-08-30",
     "count": 173,
-    "note": "Daily refresh Aug 28, 2026: verified ~20 targets (URAP Aug 31 deadline, IRE AccessFest26 Sept 13, NLGJA convention Sept 10-13/CONNECT 2027 opens March 2027, NBCU, ESPN Digital Video/Social interns, MLV NorCal, Daily Cal, SF Standard, Mission Local, Sacramento Kings, KRON4, FanSided, FloSports) against primary/corroborating sources - all confirmed accurate, no data changes needed there. Updated the Cal Women's Volleyball student manager row: Gael Bear Classic opener has arrived, so cleared the soft advisory deadline and moved it from closing-soon to open-now/rolling for in-season recruiting. Recomputed scores and re-ranked."
+    "note": "Daily refresh Aug 30, 2026: verified imminent deadlines (URAP Aug 31, IRE AccessFest26 Sept 13, NLGJA convention Sept 10-13) and watch-list rows entering their expected posting window (ESPN Summer Internship Program, ESPN NEXT, LOVB, NBC Bay Area next cycle, ACC Network Extra/Strawberry Creek Studios) - all confirmed unchanged except ESPN Summer Internship Program and ESPN NEXT, where secondary-source trackers now give sharper projected windows (spring 2027 apps expected to close ~mid-Oct 2026, summer 2027 ~early Dec 2026); updated those two rows' notes accordingly. Recomputed scores and re-ranked."
   },
   "rows": [
     {
@@ -1169,7 +1169,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "Full-time ~10 weeks (Summer 2026 ran June 1-Aug 7)",
-      "window": "Verified Aug 7, 2026: still no Summer 2027 requisitions posted on Disney Careers. Expect a Sept-Nov 2026 posting wave; set an alert now.",
+      "window": "Verified Aug 30, 2026: still zero open ESPN Summer Internship Program requisitions on Disney Careers. ESPN posts three cohort windows a year (spring/summer/fall); per secondary-source internship trackers (not yet confirmed on ESPN's own postings), the Spring 2027 window is expected to open ~September and close around mid-October 2026, with a separate Summer 2027 window expected to close around early December 2026. Applying to the spring window would be the faster path in - watch jobs.disneycareers.com starting September.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -3433,7 +3433,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Full-time; Summer 2026 cohort ran June 1-Aug 7",
-      "window": "Annual summer cohort; 2027 posting expected fall 2026 on Disney Careers",
+      "window": "Verified Aug 30, 2026: 2027 ESPN NEXT cohort not yet posted on Disney Careers. Per secondary-source internship trackers (not yet confirmed on ESPN's own postings), expect a Spring 2027 window to open ~September and close around mid-October 2026, and a Summer 2027 window to close around early December 2026 - watch jobs.disneycareers.com starting September.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
