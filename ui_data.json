@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-30",
+    "updated": "2026-08-31",
     "count": 173,
-    "note": "Daily refresh Aug 30, 2026: verified imminent deadlines (URAP Aug 31, IRE AccessFest26 Sept 13, NLGJA convention Sept 10-13) and watch-list rows entering their expected posting window (ESPN Summer Internship Program, ESPN NEXT, LOVB, NBC Bay Area next cycle, ACC Network Extra/Strawberry Creek Studios) - all confirmed unchanged except ESPN Summer Internship Program and ESPN NEXT, where secondary-source trackers now give sharper projected windows (spring 2027 apps expected to close ~mid-Oct 2026, summer 2027 ~early Dec 2026); updated those two rows' notes accordingly. Recomputed scores and re-ranked."
+    "note": "Daily refresh Aug 31, 2026: verified URAP deadline (confirmed still Aug 31 4pm, unchanged) and IRE AccessFest26 fellowship deadline (confirmed Sept 13, unchanged); checked ESPN Spring 2027 window and Cal Athletics Strawberry Creek Studios/Gameday Production Academy student postings (still not live, unchanged); found and added the new KALX Fall Recruitment Info Session date (Sept 18, 2026) to both KALX rows, moving them to closing-soon. Recomputed scores and re-ranked."
   },
   "rows": [
     {
@@ -1292,11 +1292,12 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Minimum 12 hours/month for KALX volunteers; sports adds game broadcasts and the weekly Cal sports talk show (Wednesdays 9:30pm in school year)",
-      "window": "Verified Aug 6, 2026: fall orientation dates not yet posted (semester starts Aug 26). Submit the General Interest Form now - volunteers are contacted with fall dates.",
-      "deadline": null,
-      "deadlineLabel": null,
+      "window": "Verified Aug 31, 2026: KALX's Fall Recruitment Info Session is now posted for Sept 18, 2026 (on-campus, UC students only; email the station if you can't attend). Submit the General Interest Form now and attend the session to get routed to the sports department.",
+      "deadline": "2026-09-18",
+      "deadlineLabel": "Fall Recruitment Info Session Sept 18",
       "buckets": [
-        "watch"
+        "closing-soon",
+        "fall-2026"
       ],
       "elig": "Must be 18+; open to all UC Berkeley students, no experience needed",
       "desc": "KALX broadcasts live Cal football and baseball play-by-play and runs the only talk show devoted exclusively to Cal sports - one of very few places a sophomore can get real on-air sports reps. Join via the General Interest Form, put in the general volunteer hours, then ask the sports director about the talk show and broadcast crew (a case for adding volleyball coverage is worth pitching).",
@@ -2517,11 +2518,12 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "12 hours/month minimum; news produces daily half-hour programs and morning casts; free ProTools audio training via Production dept",
-      "window": "Same fall/spring/summer recruitment cycle; fall 2026 intake at semester start",
-      "deadline": null,
-      "deadlineLabel": null,
+      "window": "Verified Aug 31, 2026: same station-wide Fall Recruitment Info Session now posted for Sept 18, 2026 covers News department intake too (on-campus, UC students only). Submit the General Interest Form now and ask for the news department at the session.",
+      "deadline": "2026-09-18",
+      "deadlineLabel": "Fall Recruitment Info Session Sept 18",
       "buckets": [
-        "watch"
+        "closing-soon",
+        "fall-2026"
       ],
       "elig": "18+; open to all students",
       "desc": "Berkeley's Discovery Hub notes KALX offers undergrads internships in news broadcasting and public affairs production with mentorship from the general manager - solid broadcast-journalism fundamentals that transfer straight to sports audio/podcasting. Low barrier, guaranteed hands-on reps.",
@@ -2538,7 +2540,8 @@
       },
       "tags": [
         "on-campus",
-        "sophomore-ok"
+        "sophomore-ok",
+        "verified"
       ]
     },
     {
