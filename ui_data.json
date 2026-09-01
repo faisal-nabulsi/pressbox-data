@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-31",
+    "updated": "2026-09-01",
     "count": 173,
-    "note": "Daily refresh Aug 31, 2026: verified URAP deadline (confirmed still Aug 31 4pm, unchanged) and IRE AccessFest26 fellowship deadline (confirmed Sept 13, unchanged); checked ESPN Spring 2027 window and Cal Athletics Strawberry Creek Studios/Gameday Production Academy student postings (still not live, unchanged); found and added the new KALX Fall Recruitment Info Session date (Sept 18, 2026) to both KALX rows, moving them to closing-soon. Recomputed scores and re-ranked."
+    "note": "Daily refresh Sep 1, 2026: confirmed URAP fall 2026 cycle closed on schedule (deadline was Aug 31, 4pm) and re-bucketed it to spring-2027/watch with an expected late-January deadline; re-verified IRE AccessFest26 (Sept 13), NLGJA CONNECT (2027 apps open spring 2027), ESPN Summer Internship Program, and LOVB seasonal roles (all unchanged). Recomputed scores and re-ranked."
   },
   "rows": [
     {
@@ -2102,50 +2102,6 @@
     {
       "id": 52,
       "rank": 52,
-      "name": "URAP research apprenticeship with Journalism/Investigative Reporting Program faculty",
-      "org": "UC Berkeley Office of Undergraduate Research (URAP)",
-      "cat": "Cal campus / athletics",
-      "role": "for-credit",
-      "loc": "Berkeley, CA",
-      "remote": "hybrid",
-      "regions": [
-        "Berkeley / on campus",
-        "Remote-friendly (hybrid)"
-      ],
-      "pay": "Unpaid; 1 unit of credit per 3 hours/week of research (max 4 units/term)",
-      "payType": "Unpaid / for credit",
-      "payScore": 2,
-      "time": "Typically 6-12 hours/week for a semester",
-      "window": "Verified Aug 22, 2026: fall 2026 URAP application window opened Aug 21 as scheduled; project listings (research.berkeley.edu/urap and urapprojects.berkeley.edu) are now viewable. Deadline remains Aug 31, 4pm - browse Journalism/IRP and Media Studies-adjacent projects now.",
-      "deadline": "2026-08-31",
-      "deadlineLabel": "Fall application deadline Aug 31, 4pm (window opens Aug 21)",
-      "buckets": [
-        "closing-soon",
-        "fall-2026"
-      ],
-      "elig": "All matriculated UC Berkeley undergrads including sophomores",
-      "desc": "URAP is the standard route for undergrads to work with Graduate School of Journalism faculty, including research support tied to the Investigative Reporting Program (led by 4x Pulitzer winner David Barstow) - browse the project list when it posts in August and write project-specific applications. Media Studies/Sociology faculty also post media-research projects that fit her majors.",
-      "email": "urap@berkeley.edu",
-      "contact": null,
-      "link": "https://research.berkeley.edu/urap/",
-      "s": {
-        "prestige": 7,
-        "fit": 7,
-        "pay": 2,
-        "loc": 10,
-        "timing": 8,
-        "overall": 68.0
-      },
-      "tags": [
-        "has-contact",
-        "on-campus",
-        "sophomore-ok",
-        "verified"
-      ]
-    },
-    {
-      "id": 53,
-      "rank": 53,
       "name": "PBS News Hour Internships (WETA)",
       "org": "PBS News Hour / WETA",
       "cat": "General journalism",
@@ -2184,8 +2140,8 @@
       ]
     },
     {
-      "id": 54,
-      "rank": 54,
+      "id": 53,
+      "rank": 53,
       "name": "ESPN / AAJA Sports Task Force Production Internship",
       "org": "ESPN + Asian American Journalists Association Sports Task Force",
       "cat": "National sports media",
@@ -2224,8 +2180,8 @@
       ]
     },
     {
-      "id": 55,
-      "rank": 55,
+      "id": 54,
+      "rank": 54,
       "name": "NBCUniversal Summer Internship Program (NBC Sports / Peacock Sports tracks)",
       "org": "NBCUniversal",
       "cat": "National sports media",
@@ -2264,8 +2220,8 @@
       ]
     },
     {
-      "id": 56,
-      "rank": 56,
+      "id": 55,
+      "rank": 55,
       "name": "The Athletic - Leon H. Carter Internship Program",
       "org": "The Athletic (The New York Times Company)",
       "cat": "National sports media",
@@ -2304,8 +2260,8 @@
       ]
     },
     {
-      "id": 57,
-      "rank": 57,
+      "id": 56,
+      "rank": 56,
       "name": "Social Media Intern",
       "org": "Sacramento Kings (NBA)",
       "cat": "Teams & leagues",
@@ -2341,8 +2297,8 @@
       "tags": []
     },
     {
-      "id": 58,
-      "rank": 58,
+      "id": 57,
+      "rank": 57,
       "name": "WSJ Summer Internship Program",
       "org": "The Wall Street Journal (Dow Jones)",
       "cat": "General journalism",
@@ -2382,8 +2338,8 @@
       "tags": []
     },
     {
-      "id": 59,
-      "rank": 59,
+      "id": 58,
+      "rank": 58,
       "name": "NABJ Student Multimedia Project (2027)",
       "org": "National Association of Black Journalists (NABJ)",
       "cat": "Programs & fellowships",
@@ -2422,8 +2378,8 @@
       ]
     },
     {
-      "id": 60,
-      "rank": 60,
+      "id": 59,
+      "rank": 59,
       "name": "Freelance high school sports stringer / photographer",
       "org": "MaxPreps (CBS Sports)",
       "cat": "Bay Area & digital outlets",
@@ -2464,8 +2420,8 @@
       ]
     },
     {
-      "id": 61,
-      "rank": 61,
+      "id": 60,
+      "rank": 60,
       "name": "Cal Football creative / recruiting content student team",
       "org": "Cal Athletics - Football Creative Video",
       "cat": "Cal campus / athletics",
@@ -2503,8 +2459,8 @@
       ]
     },
     {
-      "id": 62,
-      "rank": 62,
+      "id": 61,
+      "rank": 61,
       "name": "KALX News department volunteer / news-production internship",
       "org": "KALX 90.7 FM Berkeley",
       "cat": "Cal campus / athletics",
@@ -2545,8 +2501,8 @@
       ]
     },
     {
-      "id": 63,
-      "rank": 63,
+      "id": 62,
+      "rank": 62,
       "name": "Bleacher Report / House of Highlights Social & Production Internships",
       "org": "Warner Bros. Discovery - Bleacher Report / House of Highlights",
       "cat": "National sports media",
@@ -2586,8 +2542,8 @@
       ]
     },
     {
-      "id": 64,
-      "rank": 64,
+      "id": 63,
+      "rank": 63,
       "name": "The Ringer Summer Internships (Production; Editorial)",
       "org": "The Ringer / Spotify",
       "cat": "National sports media",
@@ -2625,8 +2581,8 @@
       ]
     },
     {
-      "id": 65,
-      "rank": 65,
+      "id": 64,
+      "rank": 64,
       "name": "US Open Media Operations Assistant (seasonal)",
       "org": "USTA / US Open",
       "cat": "Teams & leagues",
@@ -2665,8 +2621,8 @@
       ]
     },
     {
-      "id": 66,
-      "rank": 66,
+      "id": 65,
+      "rank": 65,
       "name": "AP Global News Internship",
       "org": "Associated Press",
       "cat": "General journalism",
@@ -2702,8 +2658,8 @@
       "tags": []
     },
     {
-      "id": 67,
-      "rank": 67,
+      "id": 66,
+      "rank": 66,
       "name": "SPJ student membership + SPJ Northern California chapter",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -2742,8 +2698,8 @@
       ]
     },
     {
-      "id": 68,
-      "rank": 68,
+      "id": 67,
+      "rank": 67,
       "name": "KNBR 680/104.5 The Sports Leader \u2014 Programming Internship",
       "org": "Cumulus Media San Francisco (KNBR/KSFO/KGO)",
       "cat": "Bay Area & digital outlets",
@@ -2781,8 +2737,8 @@
       ]
     },
     {
-      "id": 69,
-      "rank": 69,
+      "id": 68,
+      "rank": 68,
       "name": "Emerging Reporters Program",
       "org": "ProPublica",
       "cat": "General journalism",
@@ -2821,8 +2777,8 @@
       ]
     },
     {
-      "id": 70,
-      "rank": 70,
+      "id": 69,
+      "rank": 69,
       "name": "NHL Summer Internship Program",
       "org": "National Hockey League (League Office)",
       "cat": "Teams & leagues",
@@ -2858,8 +2814,8 @@
       "tags": []
     },
     {
-      "id": 71,
-      "rank": 71,
+      "id": 70,
+      "rank": 70,
       "name": "PGA TOUR Summer Internship Program 2027",
       "org": "PGA TOUR",
       "cat": "Teams & leagues",
@@ -2897,8 +2853,8 @@
       ]
     },
     {
-      "id": 72,
-      "rank": 72,
+      "id": 71,
+      "rank": 71,
       "name": "AWSM student membership + annual convention",
       "org": "Association for Women in Sports Media (AWSM)",
       "cat": "Programs & fellowships",
@@ -2940,8 +2896,8 @@
       ]
     },
     {
-      "id": 73,
-      "rank": 73,
+      "id": 72,
+      "rank": 72,
       "name": "Athletic Communications / media relations student assistant (incl. gameday stats support)",
       "org": "Cal Athletics - Athletic Communications",
       "cat": "Cal campus / athletics",
@@ -2981,8 +2937,8 @@
       ]
     },
     {
-      "id": 74,
-      "rank": 74,
+      "id": 73,
+      "rank": 73,
       "name": "Front Office Sports - Social Media Intern (and recurring FOS internships)",
       "org": "Front Office Sports (backed by RedBird IMI)",
       "cat": "National sports media",
@@ -3021,8 +2977,8 @@
       ]
     },
     {
-      "id": 75,
-      "rank": 75,
+      "id": 74,
+      "rank": 74,
       "name": "Sports Journalism Institute (SJI)",
       "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
       "cat": "National sports media",
@@ -3060,8 +3016,8 @@
       ]
     },
     {
-      "id": 76,
-      "rank": 76,
+      "id": 75,
+      "rank": 75,
       "name": "Seasonal Social Media Specialist / team & league internships",
       "org": "League One Volleyball (LOVB Pro)",
       "cat": "Teams & leagues",
@@ -3104,8 +3060,8 @@
       ]
     },
     {
-      "id": 77,
-      "rank": 77,
+      "id": 76,
+      "rank": 76,
       "name": "VolleyballMag - freelance contributor route",
       "org": "VolleyballMag.com",
       "cat": "National sports media",
@@ -3145,8 +3101,8 @@
       ]
     },
     {
-      "id": 78,
-      "rank": 78,
+      "id": 77,
+      "rank": 77,
       "name": "Internships / matchday content roles",
       "org": "Bay FC (NWSL)",
       "cat": "Teams & leagues",
@@ -3186,8 +3142,8 @@
       ]
     },
     {
-      "id": 79,
-      "rank": 79,
+      "id": 78,
+      "rank": 78,
       "name": "USTA Undergraduate Summer Internship (e.g., Digital Strategy & Partnerships)",
       "org": "USTA (United States Tennis Association)",
       "cat": "Teams & leagues",
@@ -3224,8 +3180,8 @@
       "tags": []
     },
     {
-      "id": 80,
-      "rank": 80,
+      "id": 79,
+      "rank": 79,
       "name": "Summer Internships (News Reporting, Social Media, Photo)",
       "org": "The San Francisco Standard",
       "cat": "General journalism",
@@ -3261,8 +3217,8 @@
       "tags": []
     },
     {
-      "id": 81,
-      "rank": 81,
+      "id": 80,
+      "rank": 80,
       "name": "IRE student membership + conference fellowships (incl. AccessFest26)",
       "org": "Investigative Reporters & Editors (IRE)",
       "cat": "Programs & fellowships",
@@ -3302,8 +3258,8 @@
       ]
     },
     {
-      "id": 82,
-      "rank": 82,
+      "id": 81,
+      "rank": 81,
       "name": "Editorial/content internships and contributor pitches",
       "org": "Just Women's Sports",
       "cat": "Bay Area & digital outlets",
@@ -3343,8 +3299,8 @@
       ]
     },
     {
-      "id": 83,
-      "rank": 83,
+      "id": 82,
+      "rank": 82,
       "name": "ABC7/KGO-TV College Student Internship Program",
       "org": "KGO-TV ABC7 (Disney/ABC Owned Television Stations)",
       "cat": "General journalism",
@@ -3378,6 +3334,50 @@
         "overall": 65.5
       },
       "tags": []
+    },
+    {
+      "id": 83,
+      "rank": 83,
+      "name": "URAP research apprenticeship with Journalism/Investigative Reporting Program faculty",
+      "org": "UC Berkeley Office of Undergraduate Research (URAP)",
+      "cat": "Cal campus / athletics",
+      "role": "for-credit",
+      "loc": "Berkeley, CA",
+      "remote": "hybrid",
+      "regions": [
+        "Berkeley / on campus",
+        "Remote-friendly (hybrid)"
+      ],
+      "pay": "Unpaid; 1 unit of credit per 3 hours/week of research (max 4 units/term)",
+      "payType": "Unpaid / for credit",
+      "payScore": 2,
+      "time": "Typically 6-12 hours/week for a semester",
+      "window": "Verified Sep 1, 2026: fall 2026 URAP application window closed as scheduled Aug 31, 4pm. Spring 2027 cycle not yet announced; URAP's own FAQ says spring applications are typically due late January, with project listings posted a few weeks prior \u2014 check research.berkeley.edu/urap in early January.",
+      "deadline": "2027-01-25",
+      "deadlineLabel": "Spring 2027 deadline expected late January (not yet announced)",
+      "buckets": [
+        "spring-2027",
+        "watch"
+      ],
+      "elig": "All matriculated UC Berkeley undergrads including sophomores",
+      "desc": "URAP is the standard route for undergrads to work with Graduate School of Journalism faculty, including research support tied to the Investigative Reporting Program (led by 4x Pulitzer winner David Barstow) - browse the project list when it posts in August and write project-specific applications. Media Studies/Sociology faculty also post media-research projects that fit her majors.",
+      "email": "urap@berkeley.edu",
+      "contact": null,
+      "link": "https://research.berkeley.edu/urap/",
+      "s": {
+        "prestige": 7,
+        "fit": 7,
+        "pay": 2,
+        "loc": 10,
+        "timing": 5,
+        "overall": 65.0
+      },
+      "tags": [
+        "has-contact",
+        "on-campus",
+        "sophomore-ok",
+        "verified"
+      ]
     },
     {
       "id": 84,
