@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-09-02",
-    "count": 173,
-    "note": "Daily refresh Sep 2, 2026: fixed missing closing-soon bucket on IRE AccessFest26 (due Sept 13) and NLGJA CONNECT/convention (Sept 10-13) rows, both inside the 30-day window; re-verified those two plus MLV NorCal internship and FloSports fall internships (all unchanged). Recomputed scores and re-ranked."
+    "updated": "2026-09-06",
+    "count": 174,
+    "note": "Daily refresh Sep 6, 2026: verified ~19 orgs against primary/secondary sources (KALX, IRE, NLGJA, NBCU Local Bay Area, ESPN x4, MLV NorCal, Daily Cal, SF Standard, Mission Local, Cal Athletics, Sacramento Kings, KRON4, FanSided, WISE, FloSports, Berkeley B-Side, NYT, NFL, LOVB). Added ESPN Programming Intern (Remote, Fall 2026) as its own row; refined NLGJA CONNECT 2027 timing to ~March 2027; corrected NFL Summer Internship expected posting month (Sept -> ~Dec 2026); noted LOVB postings have reopened (no content role yet); refined ESPN Summer Internship Program and NYT Summer Internship timing notes. Recomputed scores and re-ranked."
   },
   "rows": [
     {
@@ -1169,7 +1169,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "Full-time ~10 weeks (Summer 2026 ran June 1-Aug 7)",
-      "window": "Verified Aug 30, 2026: still zero open ESPN Summer Internship Program requisitions on Disney Careers. ESPN posts three cohort windows a year (spring/summer/fall); per secondary-source internship trackers (not yet confirmed on ESPN's own postings), the Spring 2027 window is expected to open ~September and close around mid-October 2026, with a separate Summer 2027 window expected to close around early December 2026. Applying to the spring window would be the faster path in - watch jobs.disneycareers.com starting September.",
+      "window": "Verified Sep 6, 2026: still no directly confirmed live Spring 2027 requisition on jobs.disneycareers.com/espn as of this check; secondary trackers (Extern.com, opportunitiesforyouth.org) continue to estimate the Spring 2027 window opens ~September and closes ~mid-October 2026, so it may open any day now - worth a manual check weekly through October. Separate Summer 2027 window still expected to close ~early December 2026.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -1279,6 +1279,48 @@
     {
       "id": 32,
       "rank": 32,
+      "name": "ESPN Programming Intern (Remote, Fall 2026)",
+      "org": "ESPN / The Walt Disney Company",
+      "cat": "National sports media",
+      "role": "internship",
+      "loc": "Remote (posted out of Bristol, CT)",
+      "remote": "yes",
+      "regions": [
+        "Other US",
+        "Remote"
+      ],
+      "pay": "Paid hourly (rate not stated in posting)",
+      "payType": "Paid (hourly / unspecified)",
+      "payScore": 7,
+      "time": "Part/full-time for the semester (Fall 2026, ~Sept-Dec 2026)",
+      "window": "Verified Sep 6, 2026: 'ESPN Programming Intern, Remote, Fall 2026' reconfirmed live on Disney Careers - Programming department (content acquisition/scheduling across pro and collegiate sports and digital media). First identified Aug 26, 2026 while verifying the separate espnW-lineage women's-sports watch row (see that row for the distinction); this general Programming track has no women's-sports-specific language.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "open-now",
+        "fall-2026"
+      ],
+      "elig": "Enrolled college students taking at least one class at time of application",
+      "desc": "A live remote ESPN internship compatible with a full course load, in the same Fall 2026 posting wave as the Digital Video Newsroom and Social Intern roles. Scope is general content scheduling/acquisition rather than hands-on video or social work, so it's a weaker skills match than the Social or Digital Video roles - but still an ESPN credential worth a shot given the low cost of applying.",
+      "email": null,
+      "contact": null,
+      "link": "https://jobs.disneycareers.com/job/bristol/espn-programming-intern-remote-fall-2026/391/96853307440",
+      "s": {
+        "prestige": 9,
+        "fit": 3,
+        "pay": 7,
+        "loc": 9,
+        "timing": 8,
+        "overall": 71.0
+      },
+      "tags": [
+        "sophomore-ok",
+        "verified"
+      ]
+    },
+    {
+      "id": 33,
+      "rank": 33,
       "name": "KALX Sports department volunteer (play-by-play and Cal sports talk)",
       "org": "KALX 90.7 FM Berkeley",
       "cat": "Cal campus / athletics",
@@ -1320,8 +1362,8 @@
       ]
     },
     {
-      "id": 33,
-      "rank": 33,
+      "id": 34,
+      "rank": 34,
       "name": "Game Production Assistant / Marketing & Media Relations Intern (seasonal)",
       "org": "San Jose Giants (High-A affiliate of SF Giants)",
       "cat": "Teams & leagues",
@@ -1359,8 +1401,8 @@
       ]
     },
     {
-      "id": 34,
-      "rank": 34,
+      "id": 35,
+      "rank": 35,
       "name": "Staff Photographer (sports photo)",
       "org": "The Daily Californian",
       "cat": "Cal campus / athletics",
@@ -1402,8 +1444,8 @@
       ]
     },
     {
-      "id": 35,
-      "rank": 35,
+      "id": 36,
+      "rank": 36,
       "name": "Video Producer / Multimedia (and Podcaster)",
       "org": "The Daily Californian",
       "cat": "Cal campus / athletics",
@@ -1446,8 +1488,8 @@
       ]
     },
     {
-      "id": 36,
-      "rank": 36,
+      "id": 37,
+      "rank": 37,
       "name": "Gameday production academy student crew (football and volleyball event production / videoboard)",
       "org": "Cal Athletics - Gameday Entertainment (Strawberry Creek Studios)",
       "cat": "Cal campus / athletics",
@@ -1488,8 +1530,8 @@
       ]
     },
     {
-      "id": 37,
-      "rank": 37,
+      "id": 38,
+      "rank": 38,
       "name": "Media Relations Intern (2027 season)",
       "org": "San Francisco Giants (MLB)",
       "cat": "Teams & leagues",
@@ -1528,8 +1570,8 @@
       ]
     },
     {
-      "id": 38,
-      "rank": 38,
+      "id": 39,
+      "rank": 39,
       "name": "Paid newsroom internship (summer/fall/winter cohorts)",
       "org": "Bay City News / Local News Matters",
       "cat": "Bay Area & digital outlets",
@@ -1568,8 +1610,8 @@
       ]
     },
     {
-      "id": 39,
-      "rank": 39,
+      "id": 40,
+      "rank": 40,
       "name": "NBC Bay Area (KNTV) News & Digital Internships / Telemundo 48 News Internship",
       "org": "NBCUniversal Local (San Jose)",
       "cat": "General journalism",
@@ -1607,8 +1649,8 @@
       ]
     },
     {
-      "id": 40,
-      "rank": 40,
+      "id": 41,
+      "rank": 41,
       "name": "Summer Reporting Internships",
       "org": "Los Angeles Times",
       "cat": "General journalism",
@@ -1647,8 +1689,8 @@
       ]
     },
     {
-      "id": 41,
-      "rank": 41,
+      "id": 42,
+      "rank": 42,
       "name": "CNN Internship Program",
       "org": "CNN (Warner Bros. Discovery)",
       "cat": "General journalism",
@@ -1688,8 +1730,8 @@
       "tags": []
     },
     {
-      "id": 42,
-      "rank": 42,
+      "id": 43,
+      "rank": 43,
       "name": "AAJA student membership + Sports Task Force",
       "org": "Asian American Journalists Association (AAJA)",
       "cat": "Programs & fellowships",
@@ -1767,12 +1809,12 @@
         "sophomore-ok",
         "verified"
       ],
-      "id": 43,
-      "rank": 43
+      "id": 44,
+      "rank": 44
     },
     {
-      "id": 44,
-      "rank": 44,
+      "id": 45,
+      "rank": 45,
       "name": "Newsroom Summer Internship Program",
       "org": "The Washington Post",
       "cat": "General journalism",
@@ -1810,8 +1852,8 @@
       ]
     },
     {
-      "id": 45,
-      "rank": 45,
+      "id": 46,
+      "rank": 46,
       "name": "POLITICO Editorial Internships (HQ, New York, California/Sacramento)",
       "org": "POLITICO",
       "cat": "General journalism",
@@ -1850,8 +1892,8 @@
       "tags": []
     },
     {
-      "id": 46,
-      "rank": 46,
+      "id": 47,
+      "rank": 47,
       "name": "Summer Reporting Internships",
       "org": "Bay Area News Group (The Mercury News, East Bay Times)",
       "cat": "General journalism",
@@ -1892,8 +1934,8 @@
       ]
     },
     {
-      "id": 47,
-      "rank": 47,
+      "id": 48,
+      "rank": 48,
       "name": "Daily Californian Education Foundation scholarships (via Daily Cal sports staff)",
       "org": "The Daily Californian Education Foundation",
       "cat": "Programs & fellowships",
@@ -1932,8 +1974,8 @@
       ]
     },
     {
-      "id": 48,
-      "rank": 48,
+      "id": 49,
+      "rank": 49,
       "name": "Freelance writer — The IX Basketball (formerly The Next), The IX Soccer (with The Equalizer), The IX newsletter",
       "org": "The IX Sports (Howard Megdal's women's sports network)",
       "cat": "Bay Area & digital outlets",
@@ -1973,8 +2015,8 @@
       ]
     },
     {
-      "id": 49,
-      "rank": 49,
+      "id": 50,
+      "rank": 50,
       "name": "Social media / digital ecosystems student assistant",
       "org": "Cal Athletics - Strawberry Creek Studios (Digital Ecosystems)",
       "cat": "Cal campus / athletics",
@@ -2014,8 +2056,8 @@
       ]
     },
     {
-      "id": 50,
-      "rank": 50,
+      "id": 51,
+      "rank": 51,
       "name": "Student manager / practice support - Cal Women's Volleyball",
       "org": "Cal Athletics - Women's Volleyball",
       "cat": "Cal campus / athletics",
@@ -2058,8 +2100,8 @@
       ]
     },
     {
-      "id": 51,
-      "rank": 51,
+      "id": 52,
+      "rank": 52,
       "name": "Undergraduate Journalism Minor (J100 News Reporting, J110 Multimedia)",
       "org": "UC Berkeley Graduate School of Journalism",
       "cat": "Cal campus / athletics",
@@ -2100,8 +2142,8 @@
       ]
     },
     {
-      "id": 52,
-      "rank": 52,
+      "id": 53,
+      "rank": 53,
       "name": "PBS News Hour Internships (WETA)",
       "org": "PBS News Hour / WETA",
       "cat": "General journalism",
@@ -2140,8 +2182,8 @@
       ]
     },
     {
-      "id": 53,
-      "rank": 53,
+      "id": 54,
+      "rank": 54,
       "name": "ESPN / AAJA Sports Task Force Production Internship",
       "org": "ESPN + Asian American Journalists Association Sports Task Force",
       "cat": "National sports media",
@@ -2180,8 +2222,8 @@
       ]
     },
     {
-      "id": 54,
-      "rank": 54,
+      "id": 55,
+      "rank": 55,
       "name": "NBCUniversal Summer Internship Program (NBC Sports / Peacock Sports tracks)",
       "org": "NBCUniversal",
       "cat": "National sports media",
@@ -2220,8 +2262,8 @@
       ]
     },
     {
-      "id": 55,
-      "rank": 55,
+      "id": 56,
+      "rank": 56,
       "name": "The Athletic - Leon H. Carter Internship Program",
       "org": "The Athletic (The New York Times Company)",
       "cat": "National sports media",
@@ -2260,8 +2302,8 @@
       ]
     },
     {
-      "id": 56,
-      "rank": 56,
+      "id": 57,
+      "rank": 57,
       "name": "Social Media Intern",
       "org": "Sacramento Kings (NBA)",
       "cat": "Teams & leagues",
@@ -2297,8 +2339,8 @@
       "tags": []
     },
     {
-      "id": 57,
-      "rank": 57,
+      "id": 58,
+      "rank": 58,
       "name": "WSJ Summer Internship Program",
       "org": "The Wall Street Journal (Dow Jones)",
       "cat": "General journalism",
@@ -2338,8 +2380,8 @@
       "tags": []
     },
     {
-      "id": 58,
-      "rank": 58,
+      "id": 59,
+      "rank": 59,
       "name": "NABJ Student Multimedia Project (2027)",
       "org": "National Association of Black Journalists (NABJ)",
       "cat": "Programs & fellowships",
@@ -2378,8 +2420,8 @@
       ]
     },
     {
-      "id": 59,
-      "rank": 59,
+      "id": 60,
+      "rank": 60,
       "name": "Freelance high school sports stringer / photographer",
       "org": "MaxPreps (CBS Sports)",
       "cat": "Bay Area & digital outlets",
@@ -2420,8 +2462,8 @@
       ]
     },
     {
-      "id": 60,
-      "rank": 60,
+      "id": 61,
+      "rank": 61,
       "name": "Cal Football creative / recruiting content student team",
       "org": "Cal Athletics - Football Creative Video",
       "cat": "Cal campus / athletics",
@@ -2459,8 +2501,8 @@
       ]
     },
     {
-      "id": 61,
-      "rank": 61,
+      "id": 62,
+      "rank": 62,
       "name": "KALX News department volunteer / news-production internship",
       "org": "KALX 90.7 FM Berkeley",
       "cat": "Cal campus / athletics",
@@ -2501,8 +2543,8 @@
       ]
     },
     {
-      "id": 62,
-      "rank": 62,
+      "id": 63,
+      "rank": 63,
       "name": "Bleacher Report / House of Highlights Social & Production Internships",
       "org": "Warner Bros. Discovery - Bleacher Report / House of Highlights",
       "cat": "National sports media",
@@ -2542,8 +2584,8 @@
       ]
     },
     {
-      "id": 63,
-      "rank": 63,
+      "id": 64,
+      "rank": 64,
       "name": "The Ringer Summer Internships (Production; Editorial)",
       "org": "The Ringer / Spotify",
       "cat": "National sports media",
@@ -2581,8 +2623,8 @@
       ]
     },
     {
-      "id": 64,
-      "rank": 64,
+      "id": 65,
+      "rank": 65,
       "name": "US Open Media Operations Assistant (seasonal)",
       "org": "USTA / US Open",
       "cat": "Teams & leagues",
@@ -2621,8 +2663,8 @@
       ]
     },
     {
-      "id": 65,
-      "rank": 65,
+      "id": 66,
+      "rank": 66,
       "name": "AP Global News Internship",
       "org": "Associated Press",
       "cat": "General journalism",
@@ -2658,8 +2700,8 @@
       "tags": []
     },
     {
-      "id": 66,
-      "rank": 66,
+      "id": 67,
+      "rank": 67,
       "name": "SPJ student membership + SPJ Northern California chapter",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -2698,8 +2740,8 @@
       ]
     },
     {
-      "id": 67,
-      "rank": 67,
+      "id": 68,
+      "rank": 68,
       "name": "KNBR 680/104.5 The Sports Leader — Programming Internship",
       "org": "Cumulus Media San Francisco (KNBR/KSFO/KGO)",
       "cat": "Bay Area & digital outlets",
@@ -2737,8 +2779,8 @@
       ]
     },
     {
-      "id": 68,
-      "rank": 68,
+      "id": 69,
+      "rank": 69,
       "name": "Emerging Reporters Program",
       "org": "ProPublica",
       "cat": "General journalism",
@@ -2777,8 +2819,8 @@
       ]
     },
     {
-      "id": 69,
-      "rank": 69,
+      "id": 70,
+      "rank": 70,
       "name": "NHL Summer Internship Program",
       "org": "National Hockey League (League Office)",
       "cat": "Teams & leagues",
@@ -2814,8 +2856,8 @@
       "tags": []
     },
     {
-      "id": 70,
-      "rank": 70,
+      "id": 71,
+      "rank": 71,
       "name": "PGA TOUR Summer Internship Program 2027",
       "org": "PGA TOUR",
       "cat": "Teams & leagues",
@@ -2853,8 +2895,8 @@
       ]
     },
     {
-      "id": 71,
-      "rank": 71,
+      "id": 72,
+      "rank": 72,
       "name": "AWSM student membership + annual convention",
       "org": "Association for Women in Sports Media (AWSM)",
       "cat": "Programs & fellowships",
@@ -2896,8 +2938,8 @@
       ]
     },
     {
-      "id": 72,
-      "rank": 72,
+      "id": 73,
+      "rank": 73,
       "name": "Athletic Communications / media relations student assistant (incl. gameday stats support)",
       "org": "Cal Athletics - Athletic Communications",
       "cat": "Cal campus / athletics",
@@ -2937,8 +2979,8 @@
       ]
     },
     {
-      "id": 73,
-      "rank": 73,
+      "id": 74,
+      "rank": 74,
       "name": "Front Office Sports - Social Media Intern (and recurring FOS internships)",
       "org": "Front Office Sports (backed by RedBird IMI)",
       "cat": "National sports media",
@@ -2977,8 +3019,8 @@
       ]
     },
     {
-      "id": 74,
-      "rank": 74,
+      "id": 75,
+      "rank": 75,
       "name": "Sports Journalism Institute (SJI)",
       "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
       "cat": "National sports media",
@@ -3016,8 +3058,8 @@
       ]
     },
     {
-      "id": 75,
-      "rank": 75,
+      "id": 76,
+      "rank": 76,
       "name": "Seasonal Social Media Specialist / team & league internships",
       "org": "League One Volleyball (LOVB Pro)",
       "cat": "Teams & leagues",
@@ -3033,7 +3075,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Pro season Nov-May (2025-26 seasonal role ran Nov 3-May 3); internships vary",
-      "window": "Verified Aug 6, 2026: lovb.com/jobs currently shows zero openings; last season's Seasonal Social Media Specialist ran Nov-May (Austin). Expect ~Sept-Oct 2026 postings for the 2027 season - sign up for their job alerts now.",
+      "window": "Verified Sep 6, 2026: lovb.com/jobs postings have reappeared for the first time since the Aug 6 check (~10 open roles via Rippling/Glassdoor mirrors: Production Operations Director - Broadcast & Content, Technical Operations Manager, Event Assistant, Personal Trainer, Inside Sales). None found so far are an entry-level/seasonal social-media or content role - keep watching; last year's Seasonal Social Media Specialist posting followed a similar September wave.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -3060,8 +3102,8 @@
       ]
     },
     {
-      "id": 76,
-      "rank": 76,
+      "id": 77,
+      "rank": 77,
       "name": "VolleyballMag - freelance contributor route",
       "org": "VolleyballMag.com",
       "cat": "National sports media",
@@ -3101,8 +3143,8 @@
       ]
     },
     {
-      "id": 77,
-      "rank": 77,
+      "id": 78,
+      "rank": 78,
       "name": "Internships / matchday content roles",
       "org": "Bay FC (NWSL)",
       "cat": "Teams & leagues",
@@ -3142,8 +3184,8 @@
       ]
     },
     {
-      "id": 78,
-      "rank": 78,
+      "id": 79,
+      "rank": 79,
       "name": "USTA Undergraduate Summer Internship (e.g., Digital Strategy & Partnerships)",
       "org": "USTA (United States Tennis Association)",
       "cat": "Teams & leagues",
@@ -3180,8 +3222,8 @@
       "tags": []
     },
     {
-      "id": 79,
-      "rank": 79,
+      "id": 80,
+      "rank": 80,
       "name": "Summer Internships (News Reporting, Social Media, Photo)",
       "org": "The San Francisco Standard",
       "cat": "General journalism",
@@ -3217,8 +3259,8 @@
       "tags": []
     },
     {
-      "id": 80,
-      "rank": 80,
+      "id": 81,
+      "rank": 81,
       "name": "IRE student membership + conference fellowships (incl. AccessFest26)",
       "org": "Investigative Reporters & Editors (IRE)",
       "cat": "Programs & fellowships",
@@ -3259,8 +3301,8 @@
       ]
     },
     {
-      "id": 81,
-      "rank": 81,
+      "id": 82,
+      "rank": 82,
       "name": "Editorial/content internships and contributor pitches",
       "org": "Just Women's Sports",
       "cat": "Bay Area & digital outlets",
@@ -3300,8 +3342,8 @@
       ]
     },
     {
-      "id": 82,
-      "rank": 82,
+      "id": 83,
+      "rank": 83,
       "name": "ABC7/KGO-TV College Student Internship Program",
       "org": "KGO-TV ABC7 (Disney/ABC Owned Television Stations)",
       "cat": "General journalism",
@@ -3337,8 +3379,8 @@
       "tags": []
     },
     {
-      "id": 83,
-      "rank": 83,
+      "id": 84,
+      "rank": 84,
       "name": "URAP research apprenticeship with Journalism/Investigative Reporting Program faculty",
       "org": "UC Berkeley Office of Undergraduate Research (URAP)",
       "cat": "Cal campus / athletics",
@@ -3381,8 +3423,8 @@
       ]
     },
     {
-      "id": 84,
-      "rank": 84,
+      "id": 85,
+      "rank": 85,
       "name": "Warner Bros. Discovery Sports Internships (TNT Sports, sports marketing/social, analytics)",
       "org": "Warner Bros. Discovery / TNT Sports",
       "cat": "National sports media",
@@ -3422,8 +3464,8 @@
       ]
     },
     {
-      "id": 85,
-      "rank": 85,
+      "id": 86,
+      "rank": 86,
       "name": "ESPN NEXT Production Internship",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -3461,8 +3503,8 @@
       ]
     },
     {
-      "id": 86,
-      "rank": 86,
+      "id": 87,
+      "rank": 87,
       "name": "Content Intern (video)",
       "org": "Sacramento Kings (NBA)",
       "cat": "Teams & leagues",
@@ -3500,8 +3542,8 @@
       ]
     },
     {
-      "id": 87,
-      "rank": 87,
+      "id": 88,
+      "rank": 88,
       "name": "NFL Summer Internship Program",
       "org": "National Football League",
       "cat": "Teams & leagues",
@@ -3516,7 +3558,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "10-12 weeks, ~40 hrs/week, summer",
-      "window": "Applications post each fall (September) for the following summer",
+      "window": "Verified Sep 6, 2026: applications have not opened yet. Correcting the prior assumption - per Extern.com's tracked history, the 2026 cycle actually posted ~Dec 9, 2025 and closed Dec 22, 2025, not September. Re-labeling the expected window ~early December 2026 for the following summer's cohort rather than this month.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -3538,8 +3580,8 @@
       "tags": []
     },
     {
-      "id": 88,
-      "rank": 88,
+      "id": 89,
+      "rank": 89,
       "name": "Poynter self-paced courses + ACES-Poynter editing certificate",
       "org": "Poynter Institute",
       "cat": "Programs & fellowships",
@@ -3578,8 +3620,8 @@
       ]
     },
     {
-      "id": 89,
-      "rank": 89,
+      "id": 90,
+      "rank": 90,
       "name": "Content Marketing / media internships",
       "org": "Oakland Roots & Soul SC (USL)",
       "cat": "Teams & leagues",
@@ -3618,8 +3660,8 @@
       ]
     },
     {
-      "id": 90,
-      "rank": 90,
+      "id": 91,
+      "rank": 91,
       "name": "Hearst Journalism Fellowship",
       "org": "Hearst Newspapers (SF Chronicle, Houston Chronicle, San Antonio Express-News, Times Union, CT publications)",
       "cat": "General journalism",
@@ -3655,8 +3697,8 @@
       "tags": []
     },
     {
-      "id": 91,
-      "rank": 91,
+      "id": 92,
+      "rank": 92,
       "name": "KRON4 internships / production assistant entry roles",
       "org": "KRON4 (Nexstar Media Group)",
       "cat": "Bay Area & digital outlets",
@@ -3694,8 +3736,8 @@
       ]
     },
     {
-      "id": 92,
-      "rank": 92,
+      "id": 93,
+      "rank": 93,
       "name": "Fans for Life Internship Program (Communications, Digital, 49ers Studios content)",
       "org": "San Francisco 49ers (NFL)",
       "cat": "Teams & leagues",
@@ -3733,8 +3775,8 @@
       ]
     },
     {
-      "id": 93,
-      "rank": 93,
+      "id": 94,
+      "rank": 94,
       "name": "SPJ Mark of Excellence Awards (2027 cycle, for 2026 work)",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -3773,8 +3815,8 @@
       ]
     },
     {
-      "id": 94,
-      "rank": 94,
+      "id": 95,
+      "rank": 95,
       "name": "USBWA Full Court Press seminar + Larry Donald Scholarship (Final Four 2027)",
       "org": "U.S. Basketball Writers Association (USBWA)",
       "cat": "Programs & fellowships",
@@ -3814,8 +3856,8 @@
       ]
     },
     {
-      "id": 95,
-      "rank": 95,
+      "id": 96,
+      "rank": 96,
       "name": "CBS News & Stations Internship — KPIX (Summer 2027 cycle)",
       "org": "KPIX CBS News Bay Area / Paramount",
       "cat": "Bay Area & digital outlets",
@@ -3851,8 +3893,8 @@
       "tags": []
     },
     {
-      "id": 96,
-      "rank": 96,
+      "id": 97,
+      "rank": 97,
       "name": "Summer Internship Program",
       "org": "The New York Times",
       "cat": "General journalism",
@@ -3866,7 +3908,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "10 weeks full-time, early June-mid August",
-      "window": "Summer 2027; applications typically open September-October 2026",
+      "window": "Verified Sep 6, 2026: Summer 2027 Internship Program applications not yet open. One secondary source (Extern.com) estimates the window opens ~mid-to-late October 2026 for about a one-week application period - labeled 'expected', not confirmed, pending a nytco.com posting.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -3888,8 +3930,8 @@
       "tags": []
     },
     {
-      "id": 97,
-      "rank": 97,
+      "id": 98,
+      "rank": 98,
       "name": "Vox Media Summer Internship Program",
       "org": "Vox Media (Vox, The Verge, Eater, New York Magazine, Vulture, The Cut, SB Nation network)",
       "cat": "General journalism",
@@ -3926,8 +3968,8 @@
       "tags": []
     },
     {
-      "id": 98,
-      "rank": 98,
+      "id": 99,
+      "rank": 99,
       "name": "Contributor — Cal Athletics coverage",
       "org": "Write for California (successor to SB Nation's California Golden Blogs)",
       "cat": "Bay Area & digital outlets",
@@ -3968,8 +4010,8 @@
       ]
     },
     {
-      "id": 99,
-      "rank": 99,
+      "id": 100,
+      "rank": 100,
       "name": "NSMA student membership",
       "org": "National Sports Media Association (NSMA)",
       "cat": "Programs & fellowships",
@@ -4009,8 +4051,8 @@
       ]
     },
     {
-      "id": 100,
-      "rank": 100,
+      "id": 101,
+      "rank": 101,
       "name": "FanSided Contributor (Blue Man Hoop — Warriors, Niner Noise — 49ers, Around the Foghorn — Giants, Golden Gate Sports)",
       "org": "FanSided (Minute Media)",
       "cat": "Bay Area & digital outlets",
@@ -4051,8 +4093,8 @@
       ]
     },
     {
-      "id": 101,
-      "rank": 101,
+      "id": 102,
+      "rank": 102,
       "name": "ESPN Programming Internship - Women's Sports (espnW lineage)",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -4092,8 +4134,8 @@
       ]
     },
     {
-      "id": 102,
-      "rank": 102,
+      "id": 103,
+      "rank": 103,
       "name": "CalTV Sports department member",
       "org": "CalTV (ASUC student-run television)",
       "cat": "Cal campus / athletics",
@@ -4133,8 +4175,8 @@
       ]
     },
     {
-      "id": 103,
-      "rank": 103,
+      "id": 104,
+      "rank": 104,
       "name": "Contributor (Sharks coverage)",
       "org": "Fear the Fin (independent, For Hockey Fans network)",
       "cat": "Bay Area & digital outlets",
@@ -4173,8 +4215,8 @@
       ]
     },
     {
-      "id": 104,
-      "rank": 104,
+      "id": 105,
+      "rank": 105,
       "name": "Investigations Lab student investigator (open-source reporting)",
       "org": "Human Rights Center, UC Berkeley (partners with Berkeley Journalism)",
       "cat": "Cal campus / athletics",
@@ -4214,8 +4256,8 @@
       ]
     },
     {
-      "id": 105,
-      "rank": 105,
+      "id": 106,
+      "rank": 106,
       "name": "FloSports Internships (Content Video Production; Live Production; vertical editorial incl. FloVolleyball coverage)",
       "org": "FloSports",
       "cat": "National sports media",
@@ -4255,8 +4297,8 @@
       ]
     },
     {
-      "id": 106,
-      "rank": 106,
+      "id": 107,
+      "rank": 107,
       "name": "WISE student membership",
       "org": "WISE (Women in Sports and Events)",
       "cat": "Programs & fellowships",
@@ -4299,8 +4341,8 @@
       ]
     },
     {
-      "id": 107,
-      "rank": 107,
+      "id": 108,
+      "rank": 108,
       "name": "Prep sports freelance stringer (high school game coverage)",
       "org": "Bay Area News Group — Mercury News / East Bay Times",
       "cat": "Bay Area & digital outlets",
@@ -4340,8 +4382,8 @@
       ]
     },
     {
-      "id": 108,
-      "rank": 108,
+      "id": 109,
+      "rank": 109,
       "name": "Staff member (writing, photo, video, or marketing)",
       "org": "Caliber Magazine",
       "cat": "Cal campus / athletics",
@@ -4381,8 +4423,8 @@
       ]
     },
     {
-      "id": 109,
-      "rank": 109,
+      "id": 110,
+      "rank": 110,
       "name": "Sportico / Penske Media Corporation internships",
       "org": "Sportico (Penske Media Corporation)",
       "cat": "National sports media",
@@ -4422,8 +4464,8 @@
       ]
     },
     {
-      "id": 110,
-      "rank": 110,
+      "id": 111,
+      "rank": 111,
       "name": "NFL Films Internship (production/post-production)",
       "org": "NFL Films",
       "cat": "Teams & leagues",
@@ -4459,8 +4501,8 @@
       "tags": []
     },
     {
-      "id": 111,
-      "rank": 111,
+      "id": 112,
+      "rank": 112,
       "name": "USOPC internships (Team USA)",
       "org": "U.S. Olympic & Paralympic Committee",
       "cat": "Teams & leagues",
@@ -4498,8 +4540,8 @@
       ]
     },
     {
-      "id": 112,
-      "rank": 112,
+      "id": 113,
+      "rank": 113,
       "name": "NCAA Championships media coordination volunteer (incl. D1 Women's Volleyball Championship)",
       "org": "NCAA Championships (host sites)",
       "cat": "Teams & leagues",
@@ -4539,8 +4581,8 @@
       ]
     },
     {
-      "id": 113,
-      "rank": 113,
+      "id": 114,
+      "rank": 114,
       "name": "AAJA VOICES fellowship (2027 cohort)",
       "org": "Asian American Journalists Association (AAJA)",
       "cat": "Programs & fellowships",
@@ -4583,8 +4625,8 @@
       ]
     },
     {
-      "id": 114,
-      "rank": 114,
+      "id": 115,
+      "rank": 115,
       "name": "SABR Analytics Conference student scholarships (Yoseloff, 2027)",
       "org": "Society for American Baseball Research (SABR)",
       "cat": "Programs & fellowships",
@@ -4624,8 +4666,8 @@
       ]
     },
     {
-      "id": 115,
-      "rank": 115,
+      "id": 116,
+      "rank": 116,
       "name": "NAHJ Student Project (2027)",
       "org": "National Association of Hispanic Journalists (NAHJ)",
       "cat": "Programs & fellowships",
@@ -4700,12 +4742,12 @@
       "tags": [
         "verified"
       ],
-      "id": 116,
-      "rank": 116
+      "id": 117,
+      "rank": 117
     },
     {
-      "id": 117,
-      "rank": 117,
+      "id": 118,
+      "rank": 118,
       "name": "Audience Development / Social Media Fall Internship (covers FloVolleyball content)",
       "org": "FloSports",
       "cat": "Bay Area & digital outlets",
@@ -4747,8 +4789,8 @@
       ]
     },
     {
-      "id": 118,
-      "rank": 118,
+      "id": 119,
+      "rank": 119,
       "name": "The New York Times Fellowship",
       "org": "The New York Times",
       "cat": "National sports media",
@@ -4784,8 +4826,8 @@
       "tags": []
     },
     {
-      "id": 119,
-      "rank": 119,
+      "id": 120,
+      "rank": 120,
       "name": "SPJ regional conference (Region 11) + JournCamp training",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -4824,8 +4866,8 @@
       ]
     },
     {
-      "id": 120,
-      "rank": 120,
+      "id": 121,
+      "rank": 121,
       "name": "NLGJA CONNECT Student Journalism Training Project (2027) + student membership",
       "org": "NLGJA: The Association of LGBTQ+ Journalists",
       "cat": "Programs & fellowships",
@@ -4840,7 +4882,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 1,
       "time": "Convention week",
-      "window": "Verified Sep 2, 2026: convention dates and SF venue (Hyatt Regency, 35th annual, Sept 10-13, 2026) reconfirmed via nlgja.org and event schedule. 2026 CONNECT cohort already selected, 2027 applications expected spring 2027. Attending the convention as a local student is feasible this fall.",
+      "window": "Verified Sep 6, 2026: convention dates and SF venue (Hyatt Regency, 35th annual, Sept 10-13, 2026) reconfirmed via nlgja.org/2026convention/ and nlgja26.sched.com. 2026 CONNECT cohort already selected; per nlgja.org/connect-a-student-journalism-training-project/, the 2027 application window is expected to open ~March 2027, not spring generally. Attending the convention as a local student is feasible this fall.",
       "deadline": "2026-09-10",
       "deadlineLabel": "NLGJA National Convention (SF) Sept 10-13, 2026",
       "buckets": [
@@ -4865,8 +4907,8 @@
       ]
     },
     {
-      "id": 121,
-      "rank": 121,
+      "id": 122,
+      "rank": 122,
       "name": "Contributor (49ers coverage)",
       "org": "Niners Nation (SB Nation / Vox Media)",
       "cat": "Bay Area & digital outlets",
@@ -4939,12 +4981,12 @@
       "tags": [
         "verified"
       ],
-      "id": 122,
-      "rank": 122
+      "id": 123,
+      "rank": 123
     },
     {
-      "id": 123,
-      "rank": 123,
+      "id": 124,
+      "rank": 124,
       "name": "Staff writer (sports/society and culture angles)",
       "org": "Berkeley Political Review",
       "cat": "Cal campus / athletics",
@@ -4985,8 +5027,8 @@
       ]
     },
     {
-      "id": 124,
-      "rank": 124,
+      "id": 125,
+      "rank": 125,
       "name": "Data Journalism team writer/podcaster",
       "org": "Sports Analytics Group at Berkeley (SAGB)",
       "cat": "Cal campus / athletics",
@@ -5026,8 +5068,8 @@
       ]
     },
     {
-      "id": 125,
-      "rank": 125,
+      "id": 126,
+      "rank": 126,
       "name": "College Internship - Communications",
       "org": "Sacramento Republic FC (USL Championship)",
       "cat": "Teams & leagues",
@@ -5065,8 +5107,8 @@
       ]
     },
     {
-      "id": 126,
-      "rank": 126,
+      "id": 127,
+      "rank": 127,
       "name": "Reuters News Internship Program",
       "org": "Reuters (Thomson Reuters)",
       "cat": "General journalism",
@@ -5103,8 +5145,8 @@
       "tags": []
     },
     {
-      "id": 127,
-      "rank": 127,
+      "id": 128,
+      "rank": 128,
       "name": "ONA student membership + ONA27 conference",
       "org": "Online News Association (ONA)",
       "cat": "Programs & fellowships",
@@ -5146,8 +5188,8 @@
       ]
     },
     {
-      "id": 128,
-      "rank": 128,
+      "id": 129,
+      "rank": 129,
       "name": "Sarah Langs Women in Baseball Analytics Scholarship",
       "org": "Society for American Baseball Research (SABR)",
       "cat": "Programs & fellowships",
@@ -5189,8 +5231,8 @@
       ]
     },
     {
-      "id": 129,
-      "rank": 129,
+      "id": 130,
+      "rank": 130,
       "name": "Contributor / fanpost-to-staff pipeline",
       "org": "Golden State of Mind (SB Nation / Vox Media — Warriors)",
       "cat": "Bay Area & digital outlets",
@@ -5228,8 +5270,8 @@
       ]
     },
     {
-      "id": 130,
-      "rank": 130,
+      "id": 131,
+      "rank": 131,
       "name": "The Sporting News internships (Social Media Intern; Content Producer Internship)",
       "org": "The Sporting News",
       "cat": "National sports media",
@@ -5268,8 +5310,8 @@
       ]
     },
     {
-      "id": 131,
-      "rank": 131,
+      "id": 132,
+      "rank": 132,
       "name": "NBA Summer Internship Program",
       "org": "NBA League Office",
       "cat": "Teams & leagues",
@@ -5308,8 +5350,8 @@
       ]
     },
     {
-      "id": 132,
-      "rank": 132,
+      "id": 133,
+      "rank": 133,
       "name": "ABC News Internships",
       "org": "ABC News (The Walt Disney Company)",
       "cat": "General journalism",
@@ -5346,8 +5388,8 @@
       "tags": []
     },
     {
-      "id": 133,
-      "rank": 133,
+      "id": 134,
+      "rank": 134,
       "name": "TIME Editorial/Newsroom Roles (occasional internships)",
       "org": "TIME",
       "cat": "General journalism",
@@ -5387,8 +5429,8 @@
       ]
     },
     {
-      "id": 134,
-      "rank": 134,
+      "id": 135,
+      "rank": 135,
       "name": "Contributor (volleyball, women's sports, NBA/college verticals)",
       "org": "Last Word On Sports network",
       "cat": "Bay Area & digital outlets",
@@ -5428,8 +5470,8 @@
       ]
     },
     {
-      "id": 135,
-      "rank": 135,
+      "id": 136,
+      "rank": 136,
       "name": "Journalist / photojournalist / producer",
       "org": "The Berkeley B-Side (student music magazine)",
       "cat": "Cal campus / athletics",
@@ -5470,8 +5512,8 @@
       ]
     },
     {
-      "id": 136,
-      "rank": 136,
+      "id": 137,
+      "rank": 137,
       "name": "RecWell student staff (marketing/media roles when posted; IM sports jobs always available)",
       "org": "UC Berkeley Recreation & Wellbeing (RecWell)",
       "cat": "Cal campus / athletics",
@@ -5511,8 +5553,8 @@
       ]
     },
     {
-      "id": 137,
-      "rank": 137,
+      "id": 138,
+      "rank": 138,
       "name": "Good Karma Brands x ESPN semester internships (ESPN local stations)",
       "org": "Good Karma Brands (operates ESPN New York, ESPN Cleveland, ESPN Madison, ESPN Milwaukee, ESPN West Palm and others)",
       "cat": "National sports media",
@@ -5552,8 +5594,8 @@
       ]
     },
     {
-      "id": 138,
-      "rank": 138,
+      "id": 139,
+      "rank": 139,
       "name": "Barstool Sports Internship Program",
       "org": "Barstool Sports",
       "cat": "National sports media",
@@ -5594,8 +5636,8 @@
       ]
     },
     {
-      "id": 139,
-      "rank": 139,
+      "id": 140,
+      "rank": 140,
       "name": "NWSL League Office Summer Internship Program",
       "org": "National Women's Soccer League",
       "cat": "Teams & leagues",
@@ -5633,8 +5675,8 @@
       ]
     },
     {
-      "id": 140,
-      "rank": 140,
+      "id": 141,
+      "rank": 141,
       "name": "NBC Sports Academic Year Internships (Editorial Rotation; Operations & Production)",
       "org": "NBCUniversal / NBC Sports",
       "cat": "National sports media",
@@ -5673,8 +5715,8 @@
       ]
     },
     {
-      "id": 141,
-      "rank": 141,
+      "id": 142,
+      "rank": 142,
       "name": "Axios Internships",
       "org": "Axios",
       "cat": "General journalism",
@@ -5711,8 +5753,8 @@
       "tags": []
     },
     {
-      "id": 142,
-      "rank": 142,
+      "id": 143,
+      "rank": 143,
       "name": "Poynter College Media Project",
       "org": "The Poynter Institute",
       "cat": "General journalism",
@@ -5750,8 +5792,8 @@
       ]
     },
     {
-      "id": 143,
-      "rank": 143,
+      "id": 144,
+      "rank": 144,
       "name": "College Internship - Broadcast Production",
       "org": "Sacramento Republic FC (USL Championship)",
       "cat": "Teams & leagues",
@@ -5789,8 +5831,8 @@
       ]
     },
     {
-      "id": 144,
-      "rank": 144,
+      "id": 145,
+      "rank": 145,
       "name": "NASCAR Diversity Internship Program / NASCAR internships",
       "org": "NASCAR",
       "cat": "Teams & leagues",
@@ -5828,8 +5870,8 @@
       ]
     },
     {
-      "id": 145,
-      "rank": 145,
+      "id": 146,
+      "rank": 146,
       "name": "Hearst Magazines Summer Internship Program",
       "org": "Hearst Magazines (Cosmopolitan, Esquire, ELLE, Good Housekeeping, Women's Health, etc.)",
       "cat": "General journalism",
@@ -5867,8 +5909,8 @@
       ]
     },
     {
-      "id": 146,
-      "rank": 146,
+      "id": 147,
+      "rank": 147,
       "name": "SFGATE Summer Internship",
       "org": "SFGATE (Hearst)",
       "cat": "General journalism",
@@ -5905,8 +5947,8 @@
       "tags": []
     },
     {
-      "id": 147,
-      "rank": 147,
+      "id": 148,
+      "rank": 148,
       "name": "FWAA student membership + Volney Meece Scholarship",
       "org": "Football Writers Association of America (FWAA)",
       "cat": "Programs & fellowships",
@@ -5945,8 +5987,8 @@
       ]
     },
     {
-      "id": 148,
-      "rank": 148,
+      "id": 149,
+      "rank": 149,
       "name": "The New York Times Corps",
       "org": "The New York Times",
       "cat": "General journalism",
@@ -5985,8 +6027,8 @@
       ]
     },
     {
-      "id": 149,
-      "rank": 149,
+      "id": 150,
+      "rank": 150,
       "name": "MLB Summer Internship Program (Business & Content)",
       "org": "Major League Baseball (Commissioner's Office)",
       "cat": "Teams & leagues",
@@ -6022,8 +6064,8 @@
       "tags": []
     },
     {
-      "id": 150,
-      "rank": 150,
+      "id": 151,
+      "rank": 151,
       "name": "Freelance women's basketball contributor",
       "org": "Her Hoop Stats",
       "cat": "Bay Area & digital outlets",
@@ -6062,8 +6104,8 @@
       ]
     },
     {
-      "id": 151,
-      "rank": 151,
+      "id": 152,
+      "rank": 152,
       "name": "NorCal contributor / story submissions",
       "org": "SportStars Magazine",
       "cat": "Bay Area & digital outlets",
@@ -6103,8 +6145,8 @@
       ]
     },
     {
-      "id": 152,
-      "rank": 152,
+      "id": 153,
+      "rank": 153,
       "name": "MLB Diversity Fellowship",
       "org": "Major League Baseball",
       "cat": "Teams & leagues",
@@ -6140,8 +6182,8 @@
       "tags": []
     },
     {
-      "id": 153,
-      "rank": 153,
+      "id": 154,
+      "rank": 154,
       "name": "The Atlantic Editorial Fellowship",
       "org": "The Atlantic",
       "cat": "General journalism",
@@ -6177,8 +6219,8 @@
       "tags": []
     },
     {
-      "id": 154,
-      "rank": 154,
+      "id": 155,
+      "rank": 155,
       "name": "USA Volleyball internships / event media roles",
       "org": "USA Volleyball (National Governing Body)",
       "cat": "Teams & leagues",
@@ -6219,8 +6261,8 @@
       ]
     },
     {
-      "id": 155,
-      "rank": 155,
+      "id": 156,
+      "rank": 156,
       "name": "CBS Sports Summer Internship Program (production, CBS Sports HQ, digital, communications/marketing)",
       "org": "Paramount / CBS Sports",
       "cat": "National sports media",
@@ -6261,8 +6303,8 @@
       ]
     },
     {
-      "id": 156,
-      "rank": 156,
+      "id": 157,
+      "rank": 157,
       "name": "Contributor (Giants coverage)",
       "org": "McCovey Chronicles (SB Nation / Vox Media)",
       "cat": "Bay Area & digital outlets",
@@ -6300,8 +6342,8 @@
       ]
     },
     {
-      "id": 157,
-      "rank": 157,
+      "id": 158,
+      "rank": 158,
       "name": "Regional Intern / event media support",
       "org": "AVP Pro Beach Volleyball",
       "cat": "Teams & leagues",
@@ -6341,8 +6383,8 @@
       ]
     },
     {
-      "id": 158,
-      "rank": 158,
+      "id": 159,
+      "rank": 159,
       "name": "ACP/CMA Fall National College Media Convention (Kansas City) + Spring 2027 conventions",
       "org": "Associated Collegiate Press + College Media Association",
       "cat": "Programs & fellowships",
@@ -6380,8 +6422,8 @@
       ]
     },
     {
-      "id": 159,
-      "rank": 159,
+      "id": 160,
+      "rank": 160,
       "name": "DAZN (incl. Team Whistle) - US internships/entry roles",
       "org": "DAZN Group",
       "cat": "National sports media",
@@ -6420,8 +6462,8 @@
       ]
     },
     {
-      "id": 160,
-      "rank": 160,
+      "id": 161,
+      "rank": 161,
       "name": "Overtime - internships / entry content roles",
       "org": "Overtime (OTE, OT7, Overtime Select)",
       "cat": "National sports media",
@@ -6460,8 +6502,8 @@
       ]
     },
     {
-      "id": 161,
-      "rank": 161,
+      "id": 162,
+      "rank": 162,
       "name": "PR and Communications Intern (gameday) — example of WNBA team internships",
       "org": "Los Angeles Sparks (WNBA)",
       "cat": "Teams & leagues",
@@ -6501,8 +6543,8 @@
       ]
     },
     {
-      "id": 162,
-      "rank": 162,
+      "id": 163,
+      "rank": 163,
       "name": "NCAA Postgraduate Internship Program",
       "org": "NCAA National Office",
       "cat": "Teams & leagues",
@@ -6538,8 +6580,8 @@
       "tags": []
     },
     {
-      "id": 163,
-      "rank": 163,
+      "id": 164,
+      "rank": 164,
       "name": "CBS News Internships (NYC, DC, LA + stations)",
       "org": "CBS News (Paramount)",
       "cat": "General journalism",
@@ -6577,8 +6619,8 @@
       "tags": []
     },
     {
-      "id": 164,
-      "rank": 164,
+      "id": 165,
+      "rank": 165,
       "name": "Condé Nast US Summer Internship Program",
       "org": "Condé Nast (Vogue, GQ, The New Yorker, Wired, Vanity Fair, etc.)",
       "cat": "General journalism",
@@ -6615,8 +6657,8 @@
       "tags": []
     },
     {
-      "id": 165,
-      "rank": 165,
+      "id": 166,
+      "rank": 166,
       "name": "California Local News Fellowship",
       "org": "UC Berkeley Graduate School of Journalism (state-funded)",
       "cat": "General journalism",
@@ -6652,8 +6694,8 @@
       "tags": []
     },
     {
-      "id": 166,
-      "rank": 166,
+      "id": 167,
+      "rank": 167,
       "name": "Sports Illustrated / Minute Media internships",
       "org": "Minute Media (operates Sports Illustrated under license from Authentic Brands Group; also FanSided, The Players' Tribune, 90min)",
       "cat": "National sports media",
@@ -6692,8 +6734,8 @@
       ]
     },
     {
-      "id": 167,
-      "rank": 167,
+      "id": 168,
+      "rank": 168,
       "name": "The GIST - internships/contract content roles",
       "org": "The GIST (women-founded sports media)",
       "cat": "National sports media",
@@ -6734,8 +6776,8 @@
       ]
     },
     {
-      "id": 168,
-      "rank": 168,
+      "id": 169,
+      "rank": 169,
       "name": "CBS News Intern, KPIX San Francisco",
       "org": "KPIX CBS News Bay Area (Paramount)",
       "cat": "General journalism",
@@ -6771,8 +6813,8 @@
       "tags": []
     },
     {
-      "id": 169,
-      "rank": 169,
+      "id": 170,
+      "rank": 170,
       "name": "Media Studies 199 internship credit (Supervised Independent Study)",
       "org": "UC Berkeley Media Studies Program",
       "cat": "Cal campus / athletics",
@@ -6812,8 +6854,8 @@
       ]
     },
     {
-      "id": 170,
-      "rank": 170,
+      "id": 171,
+      "rank": 171,
       "name": "Women's Sports Foundation internship",
       "org": "Women's Sports Foundation",
       "cat": "Programs & fellowships",
@@ -6852,8 +6894,8 @@
       ]
     },
     {
-      "id": 171,
-      "rank": 171,
+      "id": 172,
+      "rank": 172,
       "name": "Student contributor program (with Bay Area News Group syndication)",
       "org": "Prep2Prep",
       "cat": "Bay Area & digital outlets",
@@ -6893,8 +6935,8 @@
       ]
     },
     {
-      "id": 172,
-      "rank": 172,
+      "id": 173,
+      "rank": 173,
       "name": "Togethxr - careers interest list + job board",
       "org": "Togethxr (women's sports media co-founded by Alex Morgan, Chloe Kim, Simone Manuel, Sue Bird)",
       "cat": "National sports media",
@@ -6934,8 +6976,8 @@
       ]
     },
     {
-      "id": 173,
-      "rank": 173,
+      "id": 174,
+      "rank": 174,
       "name": "Social Media & Content Creation Intern - Orlando Valkyries (MLV)",
       "org": "Major League Volleyball - Orlando Valkyries",
       "cat": "National sports media",
