@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-09-11",
+    "updated": "2026-09-13",
     "count": 174,
-    "note": "Daily refresh Sep 11, 2026: verified 5 targets (KALX x2, IRE AccessFest26, NLGJA convention, ESPN Summer Internship watch) - all reconfirmed accurate, no changes needed. Confirmed LOVB's predicted September posting wave arrived (Seasonal Social Media Specialist now live in Austin, TX) and moved that row to open-now. Fixed NLGJA CONNECT deadline chip, which was showing the convention's start date as a passed deadline mid-convention - now points to the Sept 13 final day. Recomputed scores and re-ranked."
+    "note": "Daily refresh Sep 13, 2026: reconfirmed 10 targets (IRE AccessFest26, NLGJA convention/CONNECT, KALX x2, Mission Local, NBCU PA + Digital/Video Editor, FloSports, Sacramento Kings, AWSM Scholars) - all accurate, no bucket/deadline/score changes."
   },
   "rows": [
     {
@@ -63,7 +63,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "16-24 hrs/week, Sept 21, 2026 - Apr 23, 2027",
-      "window": "Verified Aug 18, 2026: this Academic Year 2026-27 Production Assistant Internship (Sept 21, 2026-Apr 23, 2027) is confirmed LIVE on NBCU's SmartRecruiters ATS - the 'expired' status noted Aug 5 was incorrect or the posting reopened since. Same cycle as the sibling Digital/Video Editor internships (row 5). Apply now.",
+      "window": "Verified Sep 13, 2026: Academic Year 2026-27 Production Assistant Internship (Sept 21, 2026-Apr 23, 2027) reconfirmed live on NBCU's SmartRecruiters ATS. Same cycle as the sibling Digital/Video Editor internships (row 5). Apply now.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -181,7 +181,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "16-24 hrs/week during semester",
-      "window": "Verified Aug 15, 2026: the Fall 2026 Digital/Video Editor internship (deadline Aug 14) has closed. The Academic Year 2026-27 internships (Digital, Programming, Studio Tech; Sept 21, 2026-Apr 23, 2027, SF office) remain listed live on nbcunicareers.com/SmartRecruiters as of Aug 15 with no stated deadline - apply now before it fills.",
+      "window": "Verified Sep 13, 2026: the Academic Year 2026-27 internships (Digital, Programming, Studio Tech; Sept 21, 2026-Apr 23, 2027, SF office) reconfirmed live on nbcunicareers.com/SmartRecruiters with no stated deadline - apply now before it fills.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -429,7 +429,7 @@
       "payType": "Stipend / scholarship",
       "payScore": 6,
       "time": "Fall application; roughly 10-week paid summer internship in sports writing, broadcast production, social media, or media relations (some awardees receive a mentoring track instead)",
-      "window": "Verified Aug 6, 2026: AWSM's site states the 2027 application 'will open in late 2026' (2026 deadline was Dec 21). Package: paid internship placement + $1,000 + convention + 1-yr membership.",
+      "window": "Verified Sep 13, 2026: AWSM's own site still states the 2027 Scholars application 'will open in late 2026' - no live application found yet (2026 cycle deadline was Dec 21). Package unchanged: paid summer internship placement, $1,000-$1,250 scholarship, free convention registration, one-year AWSM membership.",
       "deadline": "2026-12-18",
       "deadlineLabel": "Expected ~mid-late Dec (not yet open)",
       "buckets": [
@@ -1250,7 +1250,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "Full-time, 16 weeks (spring 2027)",
-      "window": "Verified Aug 6, 2026: spring 2027 internship (16 weeks full-time, $1,000/week) confirmed accepting applications; no deadline posted. Questions: meg.shutzer@missionlocal.com, subject 'Internship'.",
+      "window": "Verified Sep 13, 2026: Spring 2027 internship (16 weeks full-time, $1,000/week) reconfirmed accepting applications on missionlocal.org. No deadline posted.",
       "deadline": "2026-12-01",
       "deadlineLabel": "Spring 2027 apps open now",
       "buckets": [
@@ -1334,7 +1334,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "Minimum 12 hours/month for KALX volunteers; sports adds game broadcasts and the weekly Cal sports talk show (Wednesdays 9:30pm in school year)",
-      "window": "Verified Aug 31, 2026: KALX's Fall Recruitment Info Session is now posted for Sept 18, 2026 (on-campus, UC students only; email the station if you can't attend). Submit the General Interest Form now and attend the session to get routed to the sports department.",
+      "window": "Verified Sep 13, 2026: Fall Recruitment Info Session reconfirmed for Sept 18, 2026 (on-campus, UC students only) per kalx.berkeley.edu; email the station (mai@kalx.berkeley.edu) if you can't attend. Submit the General Interest Form now and attend the session to get routed to the sports department.",
       "deadline": "2026-09-18",
       "deadlineLabel": "Fall Recruitment Info Session Sept 18",
       "buckets": [
@@ -2516,7 +2516,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 2,
       "time": "12 hours/month minimum; news produces daily half-hour programs and morning casts; free ProTools audio training via Production dept",
-      "window": "Verified Aug 31, 2026: same station-wide Fall Recruitment Info Session now posted for Sept 18, 2026 covers News department intake too (on-campus, UC students only). Submit the General Interest Form now and ask for the news department at the session.",
+      "window": "Verified Sep 13, 2026: same station-wide Fall Recruitment Info Session reconfirmed for Sept 18, 2026 per kalx.berkeley.edu, covering News department intake too (on-campus, UC students only). Submit the General Interest Form now and ask for the news department at the session.",
       "deadline": "2026-09-18",
       "deadlineLabel": "Fall Recruitment Info Session Sept 18",
       "buckets": [
@@ -3276,7 +3276,7 @@
       "payType": "Freelance / per piece",
       "payScore": 3,
       "time": "Ongoing; conferences 3-4 days",
-      "window": "Verified Sep 2, 2026: AccessFest26 fellowship (virtual conf Oct 8-10) due Sept 13, 2026, 11:59pm ET - complimentary registration + 1-yr IRE membership. Chauncey Bailey + Freelance fellowships (due Sept 1) have closed. NICAR27 confirmed: March 11-14, 2027, Denver (fellowship apps ~late fall). IRE 2027: June 24-27, Phoenix.",
+      "window": "Verified Sep 13, 2026: AccessFest26 fellowship (virtual conf Oct 8-10) reconfirmed via ire.org - due today, Sept 13, 2026, 11:59pm ET - complimentary registration + 1-yr IRE membership. Chauncey Bailey + Freelance fellowships (due Sept 1) have closed. NICAR27 confirmed: March 11-14, 2027, Denver (fellowship apps ~late fall). IRE 2027: June 24-27, Phoenix.",
       "deadline": "2026-09-13",
       "deadlineLabel": "AccessFest26 fellowship due Sept 13",
       "buckets": [
@@ -3519,7 +3519,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "June through end of the NBA season (full 2026-27 cycle for current posting)",
-      "window": "Verified Aug 18, 2026: Content Intern (video) posting confirmed live on TeamWork Online (req 2158176); program runs June 2026-end of 2026-27 season, $17.50/hr, video/content-focused. Recruited annually in spring.",
+      "window": "Verified Sep 13, 2026: Content Intern (video) posting reconfirmed live on TeamWork Online (req 2158176); program runs June 2026-end of 2026-27 season, $17.50/hr plus CA paid sick leave, merch discount, free parking.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -4272,7 +4272,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Semester-length; spring, summer, and fall cohorts all verified in 2025-26",
-      "window": "Verified Aug 15, 2026: FloSports Fall Internship - Live Production (Sept 7-Dec 11, 2026, Austin-based, $20/hr, 20-25 hrs/week) confirmed live on Ashby job board; Content Video Production internships also cycle seasonally (~$18/hr) including FloVolleyball coverage. No explicit application deadline stated - apply promptly given the Sept 7 start.",
+      "window": "Verified Sep 13, 2026: FloSports Fall Internship - Live Production (Sept 7-Dec 11, 2026, Austin-based, $20/hr, 20-25 hrs/week) and Content Video Production (~$18/hr) reconfirmed live on Ashby job board, covering FloVolleyball and other verticals. No explicit application deadline stated - apply promptly.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -4883,7 +4883,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 1,
       "time": "Convention week",
-      "window": "Verified Sep 11, 2026: convention in progress (Sept 10-13, Hyatt Regency SF) - deadline chip corrected to the convention's final day rather than its start date. 2027 CONNECT application window reconfirmed ~March 2027 per nlgja.org/connect-a-student-journalism-training-project/. Contact NLGJA directly to ask about day-of/remaining-days registration.",
+      "window": "Verified Sep 13, 2026: convention concludes today (Sept 10-13, Hyatt Regency SF). 2027 CONNECT application window reconfirmed to open March 2027 per nlgja.org's own CONNECT page. Contact NLGJA directly to ask about day-of/remaining-days registration.",
       "deadline": "2026-09-13",
       "deadlineLabel": "NLGJA National Convention (SF) - runs through Sept 13",
       "buckets": [
