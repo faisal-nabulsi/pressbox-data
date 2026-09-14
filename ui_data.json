@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-09-13",
+    "updated": "2026-09-14",
     "count": 174,
-    "note": "Daily refresh Sep 13, 2026: reconfirmed 10 targets (IRE AccessFest26, NLGJA convention/CONNECT, KALX x2, Mission Local, NBCU PA + Digital/Video Editor, FloSports, Sacramento Kings, AWSM Scholars) - all accurate, no bucket/deadline/score changes."
+    "note": "Daily refresh Sep 14, 2026: closed two passed deadlines - IRE AccessFest26 fellowship (due Sept 13, now closed, re-bucketed to rolling/watch) and NLGJA convention/CONNECT (convention concluded Sept 13, 2027 CONNECT window confirmed for March, re-bucketed to spring-2027/watch). Reconfirmed AWSM Scholars (still 'late 2026', no change) and ESPN NEXT 2027 (still unposted, no change) via primary/secondary sources - no other changes found among open-now/closing-soon rows."
   },
   "rows": [
     {
@@ -3262,48 +3262,6 @@
     {
       "id": 81,
       "rank": 81,
-      "name": "IRE student membership + conference fellowships (incl. AccessFest26)",
-      "org": "Investigative Reporters & Editors (IRE)",
-      "cat": "Programs & fellowships",
-      "role": "membership",
-      "loc": "National; NICAR data-journalism conference each winter/spring, IRE conference each June",
-      "remote": "hybrid",
-      "regions": [
-        "National / varies",
-        "Remote-friendly (hybrid)"
-      ],
-      "pay": "Student membership ~$25/year; conference fellowships cover registration, up to four hotel nights, and up to $500 travel",
-      "payType": "Freelance / per piece",
-      "payScore": 3,
-      "time": "Ongoing; conferences 3-4 days",
-      "window": "Verified Sep 13, 2026: AccessFest26 fellowship (virtual conf Oct 8-10) reconfirmed via ire.org - due today, Sept 13, 2026, 11:59pm ET - complimentary registration + 1-yr IRE membership. Chauncey Bailey + Freelance fellowships (due Sept 1) have closed. NICAR27 confirmed: March 11-14, 2027, Denver (fellowship apps ~late fall). IRE 2027: June 24-27, Phoenix.",
-      "deadline": "2026-09-13",
-      "deadlineLabel": "AccessFest26 fellowship due Sept 13",
-      "buckets": [
-        "fall-2026",
-        "closing-soon"
-      ],
-      "elig": "Students pursuing journalism degrees or substantially engaged in student journalism qualify for membership; multiple fellowship tracks including ones for women and students of color",
-      "desc": "NICAR is the best data-journalism training on earth, and sports analytics + social analytics is a natural fit — a NICAR fellowship as a sophomore would set her apart in sports media applicant pools. The Sept 13, 2026 AccessFest fellowship deadline is the nearest-term item in this entire list.",
-      "email": null,
-      "contact": null,
-      "link": "https://www.ire.org/training/fellowships-and-scholarships/",
-      "s": {
-        "prestige": 7,
-        "fit": 8,
-        "pay": 3,
-        "loc": 6,
-        "timing": 8,
-        "overall": 66.0
-      },
-      "tags": [
-        "sophomore-ok",
-        "verified"
-      ]
-    },
-    {
-      "id": 82,
-      "rank": 82,
       "name": "Editorial/content internships and contributor pitches",
       "org": "Just Women's Sports",
       "cat": "Bay Area & digital outlets",
@@ -3343,8 +3301,8 @@
       ]
     },
     {
-      "id": 83,
-      "rank": 83,
+      "id": 82,
+      "rank": 82,
       "name": "ABC7/KGO-TV College Student Internship Program",
       "org": "KGO-TV ABC7 (Disney/ABC Owned Television Stations)",
       "cat": "General journalism",
@@ -3380,8 +3338,8 @@
       "tags": []
     },
     {
-      "id": 84,
-      "rank": 84,
+      "id": 83,
+      "rank": 83,
       "name": "URAP research apprenticeship with Journalism/Investigative Reporting Program faculty",
       "org": "UC Berkeley Office of Undergraduate Research (URAP)",
       "cat": "Cal campus / athletics",
@@ -3424,8 +3382,8 @@
       ]
     },
     {
-      "id": 85,
-      "rank": 85,
+      "id": 84,
+      "rank": 84,
       "name": "Warner Bros. Discovery Sports Internships (TNT Sports, sports marketing/social, analytics)",
       "org": "Warner Bros. Discovery / TNT Sports",
       "cat": "National sports media",
@@ -3465,8 +3423,8 @@
       ]
     },
     {
-      "id": 86,
-      "rank": 86,
+      "id": 85,
+      "rank": 85,
       "name": "ESPN NEXT Production Internship",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -3504,8 +3462,8 @@
       ]
     },
     {
-      "id": 87,
-      "rank": 87,
+      "id": 86,
+      "rank": 86,
       "name": "Content Intern (video)",
       "org": "Sacramento Kings (NBA)",
       "cat": "Teams & leagues",
@@ -3543,8 +3501,8 @@
       ]
     },
     {
-      "id": 88,
-      "rank": 88,
+      "id": 87,
+      "rank": 87,
       "name": "NFL Summer Internship Program",
       "org": "National Football League",
       "cat": "Teams & leagues",
@@ -3581,8 +3539,8 @@
       "tags": []
     },
     {
-      "id": 89,
-      "rank": 89,
+      "id": 88,
+      "rank": 88,
       "name": "Poynter self-paced courses + ACES-Poynter editing certificate",
       "org": "Poynter Institute",
       "cat": "Programs & fellowships",
@@ -3621,8 +3579,8 @@
       ]
     },
     {
-      "id": 90,
-      "rank": 90,
+      "id": 89,
+      "rank": 89,
       "name": "Content Marketing / media internships",
       "org": "Oakland Roots & Soul SC (USL)",
       "cat": "Teams & leagues",
@@ -3661,8 +3619,8 @@
       ]
     },
     {
-      "id": 91,
-      "rank": 91,
+      "id": 90,
+      "rank": 90,
       "name": "Hearst Journalism Fellowship",
       "org": "Hearst Newspapers (SF Chronicle, Houston Chronicle, San Antonio Express-News, Times Union, CT publications)",
       "cat": "General journalism",
@@ -3698,8 +3656,8 @@
       "tags": []
     },
     {
-      "id": 92,
-      "rank": 92,
+      "id": 91,
+      "rank": 91,
       "name": "KRON4 internships / production assistant entry roles",
       "org": "KRON4 (Nexstar Media Group)",
       "cat": "Bay Area & digital outlets",
@@ -3737,8 +3695,8 @@
       ]
     },
     {
-      "id": 93,
-      "rank": 93,
+      "id": 92,
+      "rank": 92,
       "name": "Fans for Life Internship Program (Communications, Digital, 49ers Studios content)",
       "org": "San Francisco 49ers (NFL)",
       "cat": "Teams & leagues",
@@ -3776,8 +3734,8 @@
       ]
     },
     {
-      "id": 94,
-      "rank": 94,
+      "id": 93,
+      "rank": 93,
       "name": "SPJ Mark of Excellence Awards (2027 cycle, for 2026 work)",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -3816,8 +3774,8 @@
       ]
     },
     {
-      "id": 95,
-      "rank": 95,
+      "id": 94,
+      "rank": 94,
       "name": "USBWA Full Court Press seminar + Larry Donald Scholarship (Final Four 2027)",
       "org": "U.S. Basketball Writers Association (USBWA)",
       "cat": "Programs & fellowships",
@@ -3857,8 +3815,8 @@
       ]
     },
     {
-      "id": 96,
-      "rank": 96,
+      "id": 95,
+      "rank": 95,
       "name": "CBS News & Stations Internship — KPIX (Summer 2027 cycle)",
       "org": "KPIX CBS News Bay Area / Paramount",
       "cat": "Bay Area & digital outlets",
@@ -3894,8 +3852,8 @@
       "tags": []
     },
     {
-      "id": 97,
-      "rank": 97,
+      "id": 96,
+      "rank": 96,
       "name": "Summer Internship Program",
       "org": "The New York Times",
       "cat": "General journalism",
@@ -3931,8 +3889,8 @@
       "tags": []
     },
     {
-      "id": 98,
-      "rank": 98,
+      "id": 97,
+      "rank": 97,
       "name": "Vox Media Summer Internship Program",
       "org": "Vox Media (Vox, The Verge, Eater, New York Magazine, Vulture, The Cut, SB Nation network)",
       "cat": "General journalism",
@@ -3969,8 +3927,8 @@
       "tags": []
     },
     {
-      "id": 99,
-      "rank": 99,
+      "id": 98,
+      "rank": 98,
       "name": "Contributor — Cal Athletics coverage",
       "org": "Write for California (successor to SB Nation's California Golden Blogs)",
       "cat": "Bay Area & digital outlets",
@@ -4006,6 +3964,48 @@
       },
       "tags": [
         "volleyball",
+        "sophomore-ok",
+        "verified"
+      ]
+    },
+    {
+      "id": 99,
+      "rank": 99,
+      "name": "IRE student membership + conference fellowships (incl. AccessFest26)",
+      "org": "Investigative Reporters & Editors (IRE)",
+      "cat": "Programs & fellowships",
+      "role": "membership",
+      "loc": "National; NICAR data-journalism conference each winter/spring, IRE conference each June",
+      "remote": "hybrid",
+      "regions": [
+        "National / varies",
+        "Remote-friendly (hybrid)"
+      ],
+      "pay": "Student membership ~$25/year; conference fellowships cover registration, up to four hotel nights, and up to $500 travel",
+      "payType": "Freelance / per piece",
+      "payScore": 3,
+      "time": "Ongoing; conferences 3-4 days",
+      "window": "Verified Sep 14, 2026: AccessFest26 fellowship deadline (Sept 13, 11:59pm ET) has closed as scheduled - confirmed via ire.org and corroborating listings. IRE student membership remains open/rolling (~$25/yr). NICAR27 confirmed: March 11-14, 2027, Denver (fellowship apps expected ~late fall 2026 - next concrete deadline to watch). IRE 2027 conference: June 24-27, Phoenix.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "rolling",
+        "watch"
+      ],
+      "elig": "Students pursuing journalism degrees or substantially engaged in student journalism qualify for membership; multiple fellowship tracks including ones for women and students of color",
+      "desc": "NICAR is the best data-journalism training on earth, and sports analytics + social analytics is a natural fit - a NICAR fellowship as a sophomore would set her apart in sports media applicant pools. The AccessFest26 fellowship deadline has passed; the NICAR27 fellowship (apps expected late fall 2026) is the next concrete target.",
+      "email": null,
+      "contact": null,
+      "link": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "s": {
+        "prestige": 7,
+        "fit": 8,
+        "pay": 3,
+        "loc": 6,
+        "timing": 5,
+        "overall": 63.0
+      },
+      "tags": [
         "sophomore-ok",
         "verified"
       ]
@@ -4869,47 +4869,6 @@
     {
       "id": 121,
       "rank": 121,
-      "name": "NLGJA CONNECT Student Journalism Training Project (2027) + student membership",
-      "org": "NLGJA: The Association of LGBTQ+ Journalists",
-      "cat": "Programs & fellowships",
-      "role": "program",
-      "loc": "At the national convention (2026 convention is San Francisco, Sept 10-13, 2026; 2027 city TBA)",
-      "remote": "no",
-      "regions": [
-        "National / varies",
-        "San Francisco"
-      ],
-      "pay": "CONNECT covers participation costs for the ~10 selected students; separate low-cost student membership/registration if just attending",
-      "payType": "Unpaid / for credit",
-      "payScore": 1,
-      "time": "Convention week",
-      "window": "Verified Sep 13, 2026: convention concludes today (Sept 10-13, Hyatt Regency SF). 2027 CONNECT application window reconfirmed to open March 2027 per nlgja.org's own CONNECT page. Contact NLGJA directly to ask about day-of/remaining-days registration.",
-      "deadline": "2026-09-13",
-      "deadlineLabel": "NLGJA National Convention (SF) - runs through Sept 13",
-      "buckets": [
-        "fall-2026",
-        "closing-soon"
-      ],
-      "elig": "Undergrad/grad students considering journalism careers; NLGJA membership is open to allies who support the mission — verify current terms",
-      "desc": "The 2026 national convention being in San Francisco is a rare geographic gift — a national journalism convention a BART ride from campus in her first month of sophomore year. Attend cheaply in 2026, then apply for the 10-person CONNECT newsroom in 2027.",
-      "email": null,
-      "contact": null,
-      "link": "https://www.nlgja.org/",
-      "s": {
-        "prestige": 6,
-        "fit": 6,
-        "pay": 1,
-        "loc": 10,
-        "timing": 8,
-        "overall": 60.5
-      },
-      "tags": [
-        "sophomore-ok"
-      ]
-    },
-    {
-      "id": 122,
-      "rank": 122,
       "name": "Contributor (49ers coverage)",
       "org": "Niners Nation (SB Nation / Vox Media)",
       "cat": "Bay Area & digital outlets",
@@ -4982,12 +4941,12 @@
       "tags": [
         "verified"
       ],
-      "id": 123,
-      "rank": 123
+      "id": 122,
+      "rank": 122
     },
     {
-      "id": 124,
-      "rank": 124,
+      "id": 123,
+      "rank": 123,
       "name": "Staff writer (sports/society and culture angles)",
       "org": "Berkeley Political Review",
       "cat": "Cal campus / athletics",
@@ -5028,8 +4987,8 @@
       ]
     },
     {
-      "id": 125,
-      "rank": 125,
+      "id": 124,
+      "rank": 124,
       "name": "Data Journalism team writer/podcaster",
       "org": "Sports Analytics Group at Berkeley (SAGB)",
       "cat": "Cal campus / athletics",
@@ -5069,8 +5028,8 @@
       ]
     },
     {
-      "id": 126,
-      "rank": 126,
+      "id": 125,
+      "rank": 125,
       "name": "College Internship - Communications",
       "org": "Sacramento Republic FC (USL Championship)",
       "cat": "Teams & leagues",
@@ -5108,8 +5067,8 @@
       ]
     },
     {
-      "id": 127,
-      "rank": 127,
+      "id": 126,
+      "rank": 126,
       "name": "Reuters News Internship Program",
       "org": "Reuters (Thomson Reuters)",
       "cat": "General journalism",
@@ -5146,8 +5105,8 @@
       "tags": []
     },
     {
-      "id": 128,
-      "rank": 128,
+      "id": 127,
+      "rank": 127,
       "name": "ONA student membership + ONA27 conference",
       "org": "Online News Association (ONA)",
       "cat": "Programs & fellowships",
@@ -5189,8 +5148,8 @@
       ]
     },
     {
-      "id": 129,
-      "rank": 129,
+      "id": 128,
+      "rank": 128,
       "name": "Sarah Langs Women in Baseball Analytics Scholarship",
       "org": "Society for American Baseball Research (SABR)",
       "cat": "Programs & fellowships",
@@ -5232,8 +5191,8 @@
       ]
     },
     {
-      "id": 130,
-      "rank": 130,
+      "id": 129,
+      "rank": 129,
       "name": "Contributor / fanpost-to-staff pipeline",
       "org": "Golden State of Mind (SB Nation / Vox Media — Warriors)",
       "cat": "Bay Area & digital outlets",
@@ -5271,8 +5230,8 @@
       ]
     },
     {
-      "id": 131,
-      "rank": 131,
+      "id": 130,
+      "rank": 130,
       "name": "The Sporting News internships (Social Media Intern; Content Producer Internship)",
       "org": "The Sporting News",
       "cat": "National sports media",
@@ -5311,8 +5270,8 @@
       ]
     },
     {
-      "id": 132,
-      "rank": 132,
+      "id": 131,
+      "rank": 131,
       "name": "NBA Summer Internship Program",
       "org": "NBA League Office",
       "cat": "Teams & leagues",
@@ -5351,8 +5310,8 @@
       ]
     },
     {
-      "id": 133,
-      "rank": 133,
+      "id": 132,
+      "rank": 132,
       "name": "ABC News Internships",
       "org": "ABC News (The Walt Disney Company)",
       "cat": "General journalism",
@@ -5389,8 +5348,8 @@
       "tags": []
     },
     {
-      "id": 134,
-      "rank": 134,
+      "id": 133,
+      "rank": 133,
       "name": "TIME Editorial/Newsroom Roles (occasional internships)",
       "org": "TIME",
       "cat": "General journalism",
@@ -5430,8 +5389,8 @@
       ]
     },
     {
-      "id": 135,
-      "rank": 135,
+      "id": 134,
+      "rank": 134,
       "name": "Contributor (volleyball, women's sports, NBA/college verticals)",
       "org": "Last Word On Sports network",
       "cat": "Bay Area & digital outlets",
@@ -5471,8 +5430,8 @@
       ]
     },
     {
-      "id": 136,
-      "rank": 136,
+      "id": 135,
+      "rank": 135,
       "name": "Journalist / photojournalist / producer",
       "org": "The Berkeley B-Side (student music magazine)",
       "cat": "Cal campus / athletics",
@@ -5513,8 +5472,8 @@
       ]
     },
     {
-      "id": 137,
-      "rank": 137,
+      "id": 136,
+      "rank": 136,
       "name": "RecWell student staff (marketing/media roles when posted; IM sports jobs always available)",
       "org": "UC Berkeley Recreation & Wellbeing (RecWell)",
       "cat": "Cal campus / athletics",
@@ -5554,8 +5513,8 @@
       ]
     },
     {
-      "id": 138,
-      "rank": 138,
+      "id": 137,
+      "rank": 137,
       "name": "Good Karma Brands x ESPN semester internships (ESPN local stations)",
       "org": "Good Karma Brands (operates ESPN New York, ESPN Cleveland, ESPN Madison, ESPN Milwaukee, ESPN West Palm and others)",
       "cat": "National sports media",
@@ -5595,8 +5554,8 @@
       ]
     },
     {
-      "id": 139,
-      "rank": 139,
+      "id": 138,
+      "rank": 138,
       "name": "Barstool Sports Internship Program",
       "org": "Barstool Sports",
       "cat": "National sports media",
@@ -5637,8 +5596,8 @@
       ]
     },
     {
-      "id": 140,
-      "rank": 140,
+      "id": 139,
+      "rank": 139,
       "name": "NWSL League Office Summer Internship Program",
       "org": "National Women's Soccer League",
       "cat": "Teams & leagues",
@@ -5676,8 +5635,8 @@
       ]
     },
     {
-      "id": 141,
-      "rank": 141,
+      "id": 140,
+      "rank": 140,
       "name": "NBC Sports Academic Year Internships (Editorial Rotation; Operations & Production)",
       "org": "NBCUniversal / NBC Sports",
       "cat": "National sports media",
@@ -5716,8 +5675,8 @@
       ]
     },
     {
-      "id": 142,
-      "rank": 142,
+      "id": 141,
+      "rank": 141,
       "name": "Axios Internships",
       "org": "Axios",
       "cat": "General journalism",
@@ -5754,8 +5713,8 @@
       "tags": []
     },
     {
-      "id": 143,
-      "rank": 143,
+      "id": 142,
+      "rank": 142,
       "name": "Poynter College Media Project",
       "org": "The Poynter Institute",
       "cat": "General journalism",
@@ -5793,8 +5752,8 @@
       ]
     },
     {
-      "id": 144,
-      "rank": 144,
+      "id": 143,
+      "rank": 143,
       "name": "College Internship - Broadcast Production",
       "org": "Sacramento Republic FC (USL Championship)",
       "cat": "Teams & leagues",
@@ -5832,8 +5791,8 @@
       ]
     },
     {
-      "id": 145,
-      "rank": 145,
+      "id": 144,
+      "rank": 144,
       "name": "NASCAR Diversity Internship Program / NASCAR internships",
       "org": "NASCAR",
       "cat": "Teams & leagues",
@@ -5871,8 +5830,8 @@
       ]
     },
     {
-      "id": 146,
-      "rank": 146,
+      "id": 145,
+      "rank": 145,
       "name": "Hearst Magazines Summer Internship Program",
       "org": "Hearst Magazines (Cosmopolitan, Esquire, ELLE, Good Housekeeping, Women's Health, etc.)",
       "cat": "General journalism",
@@ -5910,8 +5869,8 @@
       ]
     },
     {
-      "id": 147,
-      "rank": 147,
+      "id": 146,
+      "rank": 146,
       "name": "SFGATE Summer Internship",
       "org": "SFGATE (Hearst)",
       "cat": "General journalism",
@@ -5948,8 +5907,8 @@
       "tags": []
     },
     {
-      "id": 148,
-      "rank": 148,
+      "id": 147,
+      "rank": 147,
       "name": "FWAA student membership + Volney Meece Scholarship",
       "org": "Football Writers Association of America (FWAA)",
       "cat": "Programs & fellowships",
@@ -5988,8 +5947,8 @@
       ]
     },
     {
-      "id": 149,
-      "rank": 149,
+      "id": 148,
+      "rank": 148,
       "name": "The New York Times Corps",
       "org": "The New York Times",
       "cat": "General journalism",
@@ -6028,8 +5987,8 @@
       ]
     },
     {
-      "id": 150,
-      "rank": 150,
+      "id": 149,
+      "rank": 149,
       "name": "MLB Summer Internship Program (Business & Content)",
       "org": "Major League Baseball (Commissioner's Office)",
       "cat": "Teams & leagues",
@@ -6065,8 +6024,8 @@
       "tags": []
     },
     {
-      "id": 151,
-      "rank": 151,
+      "id": 150,
+      "rank": 150,
       "name": "Freelance women's basketball contributor",
       "org": "Her Hoop Stats",
       "cat": "Bay Area & digital outlets",
@@ -6105,8 +6064,8 @@
       ]
     },
     {
-      "id": 152,
-      "rank": 152,
+      "id": 151,
+      "rank": 151,
       "name": "NorCal contributor / story submissions",
       "org": "SportStars Magazine",
       "cat": "Bay Area & digital outlets",
@@ -6146,8 +6105,8 @@
       ]
     },
     {
-      "id": 153,
-      "rank": 153,
+      "id": 152,
+      "rank": 152,
       "name": "MLB Diversity Fellowship",
       "org": "Major League Baseball",
       "cat": "Teams & leagues",
@@ -6183,8 +6142,8 @@
       "tags": []
     },
     {
-      "id": 154,
-      "rank": 154,
+      "id": 153,
+      "rank": 153,
       "name": "The Atlantic Editorial Fellowship",
       "org": "The Atlantic",
       "cat": "General journalism",
@@ -6220,8 +6179,8 @@
       "tags": []
     },
     {
-      "id": 155,
-      "rank": 155,
+      "id": 154,
+      "rank": 154,
       "name": "USA Volleyball internships / event media roles",
       "org": "USA Volleyball (National Governing Body)",
       "cat": "Teams & leagues",
@@ -6262,8 +6221,8 @@
       ]
     },
     {
-      "id": 156,
-      "rank": 156,
+      "id": 155,
+      "rank": 155,
       "name": "CBS Sports Summer Internship Program (production, CBS Sports HQ, digital, communications/marketing)",
       "org": "Paramount / CBS Sports",
       "cat": "National sports media",
@@ -6304,8 +6263,8 @@
       ]
     },
     {
-      "id": 157,
-      "rank": 157,
+      "id": 156,
+      "rank": 156,
       "name": "Contributor (Giants coverage)",
       "org": "McCovey Chronicles (SB Nation / Vox Media)",
       "cat": "Bay Area & digital outlets",
@@ -6337,6 +6296,47 @@
         "loc": 9,
         "timing": 7,
         "overall": 56.0
+      },
+      "tags": [
+        "sophomore-ok"
+      ]
+    },
+    {
+      "id": 157,
+      "rank": 157,
+      "name": "NLGJA CONNECT Student Journalism Training Project (2027) + student membership",
+      "org": "NLGJA: The Association of LGBTQ+ Journalists",
+      "cat": "Programs & fellowships",
+      "role": "program",
+      "loc": "At the national convention (2026 convention is San Francisco, Sept 10-13, 2026; 2027 city TBA)",
+      "remote": "no",
+      "regions": [
+        "National / varies",
+        "San Francisco"
+      ],
+      "pay": "CONNECT covers participation costs for the ~10 selected students; separate low-cost student membership/registration if just attending",
+      "payType": "Unpaid / for credit",
+      "payScore": 1,
+      "time": "Convention week",
+      "window": "Verified Sep 14, 2026: the 2026 National Convention (San Francisco) concluded Sept 13 as scheduled. 2027 CONNECT application window confirmed to open March 2027 per nlgja.org's own CONNECT page; 2027 convention city TBA.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "spring-2027",
+        "watch"
+      ],
+      "elig": "Undergrad/grad students considering journalism careers; NLGJA membership is open to allies who support the mission — verify current terms",
+      "desc": "The 2026 national convention being in San Francisco was a rare geographic gift - a national journalism convention a BART ride from campus in her first month of sophomore year. That window has closed; apply for the 10-person CONNECT newsroom when the 2027 application opens in March.",
+      "email": null,
+      "contact": null,
+      "link": "https://www.nlgja.org/",
+      "s": {
+        "prestige": 6,
+        "fit": 6,
+        "pay": 1,
+        "loc": 10,
+        "timing": 3,
+        "overall": 55.5
       },
       "tags": [
         "sophomore-ok"
