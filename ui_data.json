@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-09-19",
+    "updated": "2026-09-20",
     "count": 174,
-    "note": "Daily refresh Sep 19, 2026: KALX Sports/News volunteer rows (Sept 18 info session date passed) reconfirmed rolling year-round intake via General Interest Form + email fallback - moved from closing-soon to open-now/rolling, deadline cleared. Re-verified via web search (direct fetches to kalx.berkeley.edu, jobs.sfstandard.com, openings.fansided.com, wiseworks.org, berkeleybside.com, apply.dailycal.org all blocked by proxy egress today): SF Standard, FanSided, WISE SF Bay Area, Berkeley B-Side, and Daily Cal rows show no contradicting info, carried forward unchanged. ESPN Summer Internship Program 2027 (row watch) confirmed still between cohorts, no live requisition, consistent with prior note."
+    "note": "Daily refresh Sep 20, 2026: network egress to all primary sources blocked again today (disneycareers.com, kqed.org, dowjonesnewsfund.org, sportsjournalisminstitute.org, apply.dailycal.org, calbears.com, jobs.sfstandard.com, openings.fansided.com, wiseworks.org, berkeleybside.com) - verified 16 open-now/closing-soon + Nov-watch rows via WebSearch-only secondary sources. Updated DJNF Summer 2027 deadline estimate to ~Nov 11 (was ~Nov 5) per multiple agreeing secondary sources; clarified WISE x Bay FC rumor is likely a mix-up with a WISE x SJ Earthquakes event. ESPN Fall 2026 remote postings (Digital Video Newsroom, Social Intern), ESPN NEXT, ESPN Programming (women's sports), KQED, SJI, Daily Cal (Sports Reporter/Photographer/Video Producer), Cal WVB student manager, SF Standard (both rows), FanSided, and Berkeley B-Side all checked with no confirmed material change (low-confidence single-source signals on possible ESPN Fall closures were not applied, pending primary confirmation)."
   },
   "rows": [
     {
@@ -104,9 +104,9 @@
       "payType": "Stipend / scholarship",
       "payScore": 9,
       "time": "One-week training + 10-12 week summer internship, full-time",
-      "window": "Summer 2027; application opens summer/fall 2026 with deadline in early November 2026 (2026 cycle: apps due Nov 5, test by Nov 9, 2025)",
-      "deadline": "2026-11-05",
-      "deadlineLabel": "Expected deadline ~Nov 5 + news test",
+      "window": "Verified Sep 20, 2026: primary site fetch blocked (network egress); multiple independent secondary sources (university career pages, internship guides) consistently cite a Nov 11, 2026 deadline for the Summer 2027 cycle, with DJNF news-test prep sessions reported Sept 28-29, 2026 - suggesting the application is already open or opening imminently. Revised from the prior ~Nov 5 estimate; confirm exact date on dowjonesnewsfund.org/djnfinternships when direct access is possible.",
+      "deadline": "2026-11-11",
+      "deadlineLabel": "Expected deadline ~Nov 11 + news test",
       "buckets": [
         "nov-dec-2026"
       ],
@@ -4316,7 +4316,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 1,
       "time": "Ongoing; chapter events and webinars as available",
-      "window": "Verified Aug 24, 2026: SF Bay Area chapter remains active (wisesfbayarea@gmail.com), but the previously flagged WISE x Bay FC Sept 20 tie-in could not be confirmed on a second check either - removing the speculative deadline until a chapter event is directly confirmed. $40/yr student tier includes chapter events.",
+      "window": "Verified Sep 20, 2026: primary site fetch blocked (network egress); the previously rumored WISE x Bay FC Sept 20 tie-in still doesn't appear anywhere - search turned up a WISE SF Bay Area x San Jose Earthquakes executive networking event on the chapter calendar instead, suggesting the Bay FC rumor was likely a mix-up. Chapter (wisesfbayarea@gmail.com) still active; $40/yr student tier includes chapter events.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
