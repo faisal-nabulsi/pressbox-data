@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-09-24",
+    "updated": "2026-09-26",
     "count": 174,
-    "note": "Daily refresh Sep 24, 2026: primary sources (disneycareers.com, nbcunicareers.com, etc.) still egress-blocked; verified 24 open-now/closing-soon/deadline-window rows via WebSearch secondary sources. Corrected Washington Post Summer 2027 internship deadline to noon ET Oct 9, 2026 (was ~Oct 15 estimate) per washingtonpost.com and corroborating postings; re-bucketed to closing-soon. Reconfirmed NBCU Local Bay Area (rows 2/5), MLV NorCal (row 9), Sacramento Kings Content Intern (row 86), and FloSports (rows 106/118) postings with no material change beyond prior verifications. Checked Daily Cal, KALX, SF Standard, Cal WVB student manager, LOVB, FanSided, WISE, Berkeley B-Side, POLITICO, Mission Local, and ESPN Fall/Spring internship tracks (rows 6/8/32/29/85/102) - no confirmed material changes; ESPN Spring 2027 window still expected to open any day, per secondary trackers only."
+    "note": "Daily refresh Sep 26, 2026: confirmed 2027 AWSM Scholars applications now open (priority Nov 8 / final Dec 13, was listed as 'not yet open') and moved to open-now; confirmed LA Times Summer 2027 internship applications open now (deadline unchanged, Nov 15); reconfirmed WaPo (Oct 9), DJNF (Nov 11), and ESPN Summer 2027 (not yet posted, expected Nov-Dec) with no other changes; POLITICO, KQED, SJI, NBCU News Group timing estimates unchanged pending primary-source confirmation."
   },
   "rows": [
     {
@@ -333,6 +333,49 @@
     {
       "id": 9,
       "rank": 9,
+      "name": "AWSM Scholarship/Internship Program (2027 Scholars class)",
+      "org": "Association for Women in Sports Media (AWSM)",
+      "cat": "Programs & fellowships",
+      "role": "internship-placement",
+      "loc": "Placements at major sports outlets nationwide (varies by assignment; summer 2027)",
+      "remote": "no",
+      "regions": [
+        "National / varies"
+      ],
+      "pay": "Paid summer internship placement plus $1,000-$1,250 scholarship, free registration for the next AWSM convention, and a one-year AWSM membership",
+      "payType": "Stipend / scholarship",
+      "payScore": 6,
+      "time": "Fall application; roughly 10-week paid summer internship in sports writing, broadcast production, social media, or media relations (some awardees receive a mentoring track instead)",
+      "window": "Verified Sep 26, 2026: 2027 AWSM Scholars applications are now open (awsmonline.org/latest-news/2027-awsm-scholar-applications-are-now-open). Priority deadline Nov 8, 2026, 11:59pm PST; final deadline Dec 13, 2026. Package unchanged: $1,250 scholarship plus paid summer internship placement or mentorship track, convention registration, one-year AWSM membership.",
+      "deadline": "2026-12-13",
+      "deadlineLabel": "Final deadline Dec 13, 2026 (priority Nov 8)",
+      "buckets": [
+        "open-now",
+        "nov-dec-2026"
+      ],
+      "elig": "Female students enrolled full-time in an undergraduate or graduate program pursuing sports writing, editing, broadcasting, or PR. AWSM student membership (~$25-30) required/expected to apply; needs a 500-word personal statement, 3-5 work samples, and 3 references. Sophomores are squarely eligible.",
+      "desc": "The single highest-leverage pipeline for women entering sports media - 200+ women placed in paid internships at major outlets since 1990; winners also get the convention and instant network. Spend fall 2026 building 3-5 strong clips/video samples, then apply the week it opens. Note: awsminternships@gmail.com is outdated - use awsmboard@gmail.com or the co-coordinators' published emails.",
+      "email": "awsmboard@gmail.com",
+      "contact": "Program co-coordinators Kristin Huckshorn & Michele Himmelberg (2026-cycle emails: kristin.huckshorn@gmail.com, mhimmelberg@gmail.com)",
+      "link": "https://www.awsmonline.org/internships-scholarships",
+      "s": {
+        "prestige": 9,
+        "fit": 8,
+        "pay": 6,
+        "loc": 6,
+        "timing": 8,
+        "overall": 77.5
+      },
+      "tags": [
+        "womens-sports",
+        "sophomore-ok",
+        "has-contact",
+        "verified"
+      ]
+    },
+    {
+      "id": 10,
+      "rank": 10,
       "name": "MLV NorCal Internship Program (Major League Volleyball's new Bay Area/Sacramento franchise)",
       "org": "Major League Volleyball - NorCal franchise (league formed by 2025 PVF-MLV merger; 8 teams, play began Jan 2026; NorCal joins 2027)",
       "cat": "National sports media",
@@ -375,8 +418,8 @@
       ]
     },
     {
-      "id": 10,
-      "rank": 10,
+      "id": 11,
+      "rank": 11,
       "name": "Summer 2027 Newsroom Internship \u2014 Sports Reporting Intern",
       "org": "San Francisco Chronicle / SFGate (Hearst)",
       "cat": "Bay Area & digital outlets",
@@ -411,49 +454,6 @@
       },
       "tags": [
         "sophomore-ok"
-      ]
-    },
-    {
-      "id": 11,
-      "rank": 11,
-      "name": "AWSM Scholarship/Internship Program (2027 Scholars class)",
-      "org": "Association for Women in Sports Media (AWSM)",
-      "cat": "Programs & fellowships",
-      "role": "internship-placement",
-      "loc": "Placements at major sports outlets nationwide (varies by assignment; summer 2027)",
-      "remote": "no",
-      "regions": [
-        "National / varies"
-      ],
-      "pay": "Paid summer internship placement plus $1,000-$1,250 scholarship, free registration for the next AWSM convention, and a one-year AWSM membership",
-      "payType": "Stipend / scholarship",
-      "payScore": 6,
-      "time": "Fall application; roughly 10-week paid summer internship in sports writing, broadcast production, social media, or media relations (some awardees receive a mentoring track instead)",
-      "window": "Verified Sep 13, 2026: AWSM's own site still states the 2027 Scholars application 'will open in late 2026' - no live application found yet (2026 cycle deadline was Dec 21). Package unchanged: paid summer internship placement, $1,000-$1,250 scholarship, free convention registration, one-year AWSM membership.",
-      "deadline": "2026-12-18",
-      "deadlineLabel": "Expected ~mid-late Dec (not yet open)",
-      "buckets": [
-        "nov-dec-2026",
-        "rolling"
-      ],
-      "elig": "Female students enrolled full-time in an undergraduate or graduate program pursuing sports writing, editing, broadcasting, or PR. AWSM student membership (~$25-30) required/expected to apply; needs a 500-word personal statement, 3-5 work samples, and 3 references. Sophomores are squarely eligible.",
-      "desc": "The single highest-leverage pipeline for women entering sports media - 200+ women placed in paid internships at major outlets since 1990; winners also get the convention and instant network. Spend fall 2026 building 3-5 strong clips/video samples, then apply the week it opens. Note: awsminternships@gmail.com is outdated - use awsmboard@gmail.com or the co-coordinators' published emails.",
-      "email": "awsmboard@gmail.com",
-      "contact": "Program co-coordinators Kristin Huckshorn & Michele Himmelberg (2026-cycle emails: kristin.huckshorn@gmail.com, mhimmelberg@gmail.com)",
-      "link": "https://www.awsmonline.org/internships-scholarships",
-      "s": {
-        "prestige": 9,
-        "fit": 8,
-        "pay": 6,
-        "loc": 6,
-        "timing": 7,
-        "overall": 76.5
-      },
-      "tags": [
-        "womens-sports",
-        "sophomore-ok",
-        "has-contact",
-        "verified"
       ]
     },
     {
@@ -1491,6 +1491,48 @@
     {
       "id": 37,
       "rank": 37,
+      "name": "Summer Reporting Internships",
+      "org": "Los Angeles Times",
+      "cat": "General journalism",
+      "role": "internship",
+      "loc": "El Segundo/Los Angeles, CA (plus Sacramento bureau)",
+      "remote": "no",
+      "regions": [
+        "Sacramento",
+        "SoCal / LA"
+      ],
+      "pay": "Paid",
+      "payType": "Paid (hourly / unspecified)",
+      "payScore": 7,
+      "time": "10 weeks full-time, June-August (rolling start dates)",
+      "window": "Verified Sep 26, 2026: Summer 2027 Spring/Summer internship applications are confirmed open now via latimes.submittable.com/submit; final deadline remains Nov 15, 2026.",
+      "deadline": "2026-11-15",
+      "deadlineLabel": "Opens Sept 1, final deadline Nov 15",
+      "buckets": [
+        "open-now",
+        "nov-dec-2026"
+      ],
+      "elig": "Actively working toward an undergraduate or graduate degree (no class-year floor stated); reporting roles require a driver's license and car",
+      "desc": "Placements include a dedicated Sports desk plus Photography, Data and Graphics, and Digital/Engagement \u2014 several map directly onto Olivia's video and analytics skills, and there is no junior/senior requirement. Competitive, so strong Daily Cal clips matter; the September 1 open date is only weeks away.",
+      "email": null,
+      "contact": null,
+      "link": "https://latimes.submittable.com/submit",
+      "s": {
+        "prestige": 9,
+        "fit": 4,
+        "pay": 7,
+        "loc": 7,
+        "timing": 8,
+        "overall": 70.5
+      },
+      "tags": [
+        "sophomore-ok",
+        "verified"
+      ]
+    },
+    {
+      "id": 38,
+      "rank": 38,
       "name": "Gameday production academy student crew (football and volleyball event production / videoboard)",
       "org": "Cal Athletics - Gameday Entertainment (Strawberry Creek Studios)",
       "cat": "Cal campus / athletics",
@@ -1531,8 +1573,8 @@
       ]
     },
     {
-      "id": 38,
-      "rank": 38,
+      "id": 39,
+      "rank": 39,
       "name": "Media Relations Intern (2027 season)",
       "org": "San Francisco Giants (MLB)",
       "cat": "Teams & leagues",
@@ -1571,8 +1613,8 @@
       ]
     },
     {
-      "id": 39,
-      "rank": 39,
+      "id": 40,
+      "rank": 40,
       "name": "Paid newsroom internship (summer/fall/winter cohorts)",
       "org": "Bay City News / Local News Matters",
       "cat": "Bay Area & digital outlets",
@@ -1611,8 +1653,8 @@
       ]
     },
     {
-      "id": 40,
-      "rank": 40,
+      "id": 41,
+      "rank": 41,
       "name": "NBC Bay Area (KNTV) News & Digital Internships / Telemundo 48 News Internship",
       "org": "NBCUniversal Local (San Jose)",
       "cat": "General journalism",
@@ -1647,46 +1689,6 @@
       },
       "tags": [
         "verified"
-      ]
-    },
-    {
-      "id": 41,
-      "rank": 41,
-      "name": "Summer Reporting Internships",
-      "org": "Los Angeles Times",
-      "cat": "General journalism",
-      "role": "internship",
-      "loc": "El Segundo/Los Angeles, CA (plus Sacramento bureau)",
-      "remote": "no",
-      "regions": [
-        "Sacramento",
-        "SoCal / LA"
-      ],
-      "pay": "Paid",
-      "payType": "Paid (hourly / unspecified)",
-      "payScore": 7,
-      "time": "10 weeks full-time, June-August (rolling start dates)",
-      "window": "Summer 2027; applications open September 1, 2026, final deadline November 15, 2026",
-      "deadline": "2026-11-15",
-      "deadlineLabel": "Opens Sept 1, final deadline Nov 15",
-      "buckets": [
-        "nov-dec-2026"
-      ],
-      "elig": "Actively working toward an undergraduate or graduate degree (no class-year floor stated); reporting roles require a driver's license and car",
-      "desc": "Placements include a dedicated Sports desk plus Photography, Data and Graphics, and Digital/Engagement \u2014 several map directly onto Olivia's video and analytics skills, and there is no junior/senior requirement. Competitive, so strong Daily Cal clips matter; the September 1 open date is only weeks away.",
-      "email": null,
-      "contact": null,
-      "link": "https://latimes.submittable.com/submit",
-      "s": {
-        "prestige": 9,
-        "fit": 4,
-        "pay": 7,
-        "loc": 7,
-        "timing": 7,
-        "overall": 69.5
-      },
-      "tags": [
-        "sophomore-ok"
       ]
     },
     {
