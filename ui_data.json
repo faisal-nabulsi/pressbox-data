@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-09-27",
+    "updated": "2026-09-28",
     "count": 174,
-    "note": "Daily refresh Sep 27, 2026: reconfirmed MLV NorCal, SF Standard Open Call, FanSided portal, FloSports fall internships, ESPN fall remote intern postings (Digital Video Newsroom, Social, Programming), and Washington Post Oct 9 deadline all still live/unchanged; added CNN tech-track secondary-source timing note (unconfirmed on primary); POLITICO Summer 2027 deadline remains unconfirmed on primary source, left as expected estimate."
+    "note": "Daily refresh Sep 28, 2026: Sacramento Kings Social Media Intern posting confirmed live (moved watch -> open-now); re-verified NBCU Local Bay Area and Mission Local postings unchanged; fixed WISE membership link and noted its active SF Bay Area chapter events page; flagged an unverified remote LOVB Youth Social Media Intern lead for next-pass confirmation. POLITICO, Daily Cal fall recruiting, SJI, KALX, and ESPN Spring 2027 watch remain unconfirmed (primary sources blocked by egress proxy) - no changes made to those pending direct confirmation."
   },
   "rows": [
     {
@@ -63,7 +63,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "16-24 hrs/week, Sept 21, 2026 - Apr 23, 2027",
-      "window": "Verified Sep 13, 2026: Academic Year 2026-27 Production Assistant Internship (Sept 21, 2026-Apr 23, 2027) reconfirmed live on NBCU's SmartRecruiters ATS. Same cycle as the sibling Digital/Video Editor internships (row 5). Apply now.",
+      "window": "Verified Sep 28, 2026: Production Assistant Internship (Academic Year 2026-27, Sept 21, 2026-Apr 23, 2027) reconfirmed live via direct SmartRecruiters primary listing (jobs.smartrecruiters.com/NBCUniversal3). Same cycle as the sibling Digital/Video Editor internships (row 5). Apply now.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -181,7 +181,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "16-24 hrs/week during semester",
-      "window": "Verified Sep 13, 2026: the Academic Year 2026-27 internships (Digital, Programming, Studio Tech; Sept 21, 2026-Apr 23, 2027, SF office) reconfirmed live on nbcunicareers.com/SmartRecruiters with no stated deadline - apply now before it fills.",
+      "window": "Verified Sep 28, 2026: the Academic Year 2026-27 internships (Digital, Programming, Studio Tech; Sept 21, 2026-Apr 23, 2027, SF office) reconfirmed live on nbcunicareers.com/SmartRecruiters with no stated deadline - apply now before it fills.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -1250,7 +1250,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "Full-time, 16 weeks (spring 2027)",
-      "window": "Verified Sep 13, 2026: Spring 2027 internship (16 weeks full-time, $1,000/week) reconfirmed accepting applications on missionlocal.org. No deadline posted.",
+      "window": "Verified Sep 28, 2026: Spring 2027 internship (16 weeks full-time, $1,000/week) reconfirmed live and accepting applications on missionlocal.org/about/internships/. No deadline posted.",
       "deadline": "2026-12-01",
       "deadlineLabel": "Spring 2027 apps open now",
       "buckets": [
@@ -2021,6 +2021,45 @@
     {
       "id": 50,
       "rank": 50,
+      "name": "Social Media Intern",
+      "org": "Sacramento Kings (NBA)",
+      "cat": "Teams & leagues",
+      "role": "internship",
+      "loc": "Sacramento, CA",
+      "remote": "no",
+      "regions": [
+        "Sacramento"
+      ],
+      "pay": "Paid hourly (Kings internships pay ~$17.50/hr)",
+      "payType": "Paid (hourly / unspecified)",
+      "payScore": 7,
+      "time": "Approx. February-August cycle, part/full-time",
+      "window": "Verified Sep 28, 2026: Social Media Intern posting now confirmed live on TeamWork Online (req 2130645), earlier than the previously expected late-fall/winter posting.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "open-now"
+      ],
+      "elig": "Students/recent grads; emphasis on vertical video creation — no junior/senior requirement stated",
+      "desc": "Creates written/audio/video content across Kings platforms with an explicit vertical-video emphasis — exactly her social-analytics + video profile. The Kings post more student-level content/digital internships than any other NorCal pro team; subscribe to alerts on their TeamWork Online page.",
+      "email": null,
+      "contact": null,
+      "link": "https://www.teamworkonline.com/basketball-jobs/sacramento-kings-jobs/sacramento-kings/social-media-intern-2130645",
+      "s": {
+        "prestige": 7,
+        "fit": 6,
+        "pay": 7,
+        "loc": 7,
+        "timing": 8,
+        "overall": 68.5
+      },
+      "tags": [
+        "verified"
+      ]
+    },
+    {
+      "id": 51,
+      "rank": 51,
       "name": "Social media / digital ecosystems student assistant",
       "org": "Cal Athletics - Strawberry Creek Studios (Digital Ecosystems)",
       "cat": "Cal campus / athletics",
@@ -2060,8 +2099,8 @@
       ]
     },
     {
-      "id": 51,
-      "rank": 51,
+      "id": 52,
+      "rank": 52,
       "name": "Student manager / practice support - Cal Women's Volleyball",
       "org": "Cal Athletics - Women's Volleyball",
       "cat": "Cal campus / athletics",
@@ -2104,8 +2143,8 @@
       ]
     },
     {
-      "id": 52,
-      "rank": 52,
+      "id": 53,
+      "rank": 53,
       "name": "Undergraduate Journalism Minor (J100 News Reporting, J110 Multimedia)",
       "org": "UC Berkeley Graduate School of Journalism",
       "cat": "Cal campus / athletics",
@@ -2146,8 +2185,8 @@
       ]
     },
     {
-      "id": 53,
-      "rank": 53,
+      "id": 54,
+      "rank": 54,
       "name": "PBS News Hour Internships (WETA)",
       "org": "PBS News Hour / WETA",
       "cat": "General journalism",
@@ -2186,8 +2225,8 @@
       ]
     },
     {
-      "id": 54,
-      "rank": 54,
+      "id": 55,
+      "rank": 55,
       "name": "ESPN / AAJA Sports Task Force Production Internship",
       "org": "ESPN + Asian American Journalists Association Sports Task Force",
       "cat": "National sports media",
@@ -2226,8 +2265,8 @@
       ]
     },
     {
-      "id": 55,
-      "rank": 55,
+      "id": 56,
+      "rank": 56,
       "name": "NBCUniversal Summer Internship Program (NBC Sports / Peacock Sports tracks)",
       "org": "NBCUniversal",
       "cat": "National sports media",
@@ -2266,8 +2305,8 @@
       ]
     },
     {
-      "id": 56,
-      "rank": 56,
+      "id": 57,
+      "rank": 57,
       "name": "The Athletic - Leon H. Carter Internship Program",
       "org": "The Athletic (The New York Times Company)",
       "cat": "National sports media",
@@ -2304,43 +2343,6 @@
         "volleyball",
         "verified"
       ]
-    },
-    {
-      "id": 57,
-      "rank": 57,
-      "name": "Social Media Intern",
-      "org": "Sacramento Kings (NBA)",
-      "cat": "Teams & leagues",
-      "role": "internship",
-      "loc": "Sacramento, CA",
-      "remote": "no",
-      "regions": [
-        "Sacramento"
-      ],
-      "pay": "Paid hourly (Kings internships pay ~$17.50/hr)",
-      "payType": "Paid (hourly / unspecified)",
-      "payScore": 7,
-      "time": "Approx. February-August cycle, part/full-time",
-      "window": "Recruited annually (2026 cycle ran Feb-Aug 2026); watch TeamWork Online in late fall/winter",
-      "deadline": null,
-      "deadlineLabel": null,
-      "buckets": [
-        "watch"
-      ],
-      "elig": "Students/recent grads; emphasis on vertical video creation — no junior/senior requirement stated",
-      "desc": "Creates written/audio/video content across Kings platforms with an explicit vertical-video emphasis — exactly her social-analytics + video profile. The Kings post more student-level content/digital internships than any other NorCal pro team; subscribe to alerts on their TeamWork Online page.",
-      "email": null,
-      "contact": null,
-      "link": "https://www.teamworkonline.com/basketball-jobs/sacramento-kings-jobs/sacramento-kings",
-      "s": {
-        "prestige": 7,
-        "fit": 6,
-        "pay": 7,
-        "loc": 7,
-        "timing": 7,
-        "overall": 67.5
-      },
-      "tags": []
     },
     {
       "id": 58,
@@ -2801,7 +2803,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Pro season Nov-May (2025-26 seasonal role ran Nov 3-May 3); internships vary",
-      "window": "Verified Sep 11, 2026: the predicted September wave arrived - Seasonal Social Media Specialist (Austin, TX; seasonal W-2) now confirmed posted, cross-listed on two aggregator mirrors of the LOVB Pro job board (StudySmarter/Vaia Talents and Left Lane Job Board); also live now: Social Media Manager - LOVB Miami and Senior Manager, Social Media & Content - LOVB Salt Lake (both full-time, less entry-level fit). Apply via lovb.com/jobs.",
+      "window": "Verified Sep 11, 2026: the predicted September wave arrived - Seasonal Social Media Specialist (Austin, TX; seasonal W-2) now confirmed posted, cross-listed on two aggregator mirrors of the LOVB Pro job board (StudySmarter/Vaia Talents and Left Lane Job Board); also live now: Social Media Manager - LOVB Miami and Senior Manager, Social Media & Content - LOVB Salt Lake (both full-time, less entry-level fit). Apply via lovb.com/jobs. Unverified (single secondary aggregator, not primary-confirmed Sep 28, 2026): a remote-friendly 'Social Media Intern, LOVB Youth' posting also surfaced on lovb.com/jobs - a stronger remote fit than the Austin seasonal role if it checks out; confirm directly on lovb.com/jobs on the next pass.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -4319,7 +4321,7 @@
       "payType": "Unpaid / for credit",
       "payScore": 1,
       "time": "Ongoing; chapter events and webinars as available",
-      "window": "Verified Sep 20, 2026: primary site fetch blocked (network egress); the previously rumored WISE x Bay FC Sept 20 tie-in still doesn't appear anywhere - search turned up a WISE SF Bay Area x San Jose Earthquakes executive networking event on the chapter calendar instead, suggesting the Bay FC rumor was likely a mix-up. Chapter (wisesfbayarea@gmail.com) still active; $40/yr student tier includes chapter events.",
+      "window": "Verified Sep 28, 2026: primary membership page confirmed at its correct path (wiseworks.org/about/membership, corrected from a stale /membership link). SF Bay Area chapter maintains its own active events page (sfbayarea.wiseworks.org/wise-events); chapter contact (wisesfbayarea@gmail.com) still current.",
       "deadline": null,
       "deadlineLabel": null,
       "buckets": [
@@ -4330,7 +4332,7 @@
       "desc": "Good for the business-of-sports network (events, marketing, sponsorship side) that complements journalism — relevant to her marketing/social analytics skills. Worth $40 mainly if a Bay Area chapter is active; WISE Within mentoring only unlocks after she graduates into professional membership.",
       "email": "wisesfbayarea@gmail.com",
       "contact": null,
-      "link": "https://www.wiseworks.org/membership",
+      "link": "https://www.wiseworks.org/about/membership",
       "s": {
         "prestige": 6,
         "fit": 9,
