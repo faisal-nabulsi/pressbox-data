@@ -68,3 +68,13 @@ Then sort rows by overall desc and reassign id/rank = position.
   (Feb 1-15), NHL (Mar 1), Daily Cal recruitment (late Aug + January), LOVB seasonal
   roles (~Sept-Oct), MLV NorCal content roles (2027 launch), Giants Lever board
   (~Dec-Feb), ESPN/AAJA + CBS/AAJA internships (~Dec-Jan, deadline ~Feb 4).
+
+## ESPN speed rule (added Sep 28, 2026 — verified from a proxy-free machine)
+ESPN/Disney internship requisitions close on applicant volume, in DAYS: the Summer
+2026 cycle posted ~Dec 2 and closed Dec 8, 2025 (six days), with 500+ applications
+within hours. The egress proxy blocks jobs.disneycareers.com, so during October–
+December run 2-3 ESPN-specific WebSearches EVERY day (e.g. "ESPN internship summer
+2027 posted", LinkedIn/Extern/Simplify/ZipRecruiter mirrors, "just dropped" posts).
+The moment any ESPN intern requisition is live: set its row to open-now +
+closing-soon with the found date, put the posting link in the row, lead meta.note
+with "URGENT: ESPN posted", and make it the first line of the run summary.
