@@ -78,3 +78,11 @@ December run 2-3 ESPN-specific WebSearches EVERY day (e.g. "ESPN internship summ
 The moment any ESPN intern requisition is live: set its row to open-now +
 closing-soon with the found date, put the posting link in the row, lead meta.note
 with "URGENT: ESPN posted", and make it the first line of the run summary.
+
+## Olivia's class standing (CONFIRMED Sep 29, 2026)
+CalCentral shows Olivia at JUNIOR level by units, and her expected graduation is
+2028. Score `fit` on that basis. Programs requiring junior standing are open NOW.
+She is a rising senior in summer 2027, so "rising senior" / "senior in the fall after
+the internship" programs (CBS, NBA, MLB, Conde Nast, MLS) apply to the summer 2027
+cycle. Programs requiring a completed degree are still future-only. Do not write
+"if her standing is junior" hedges anymore; the question is settled.

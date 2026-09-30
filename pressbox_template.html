@@ -177,7 +177,7 @@ footer p{margin:4px 0;max-width:90ch}
 <header class="hd">
   <div class="brand">
     <h1><span class="box">Press</span>Box</h1>
-    <p>Olivia's sports-media &amp; journalism opportunity tracker — <b id="totalCount"></b> vetted internships, programs, student jobs, and bylines, ranked for a Cal sophomore.</p>
+    <p>Olivia's sports-media &amp; journalism opportunity tracker — <b id="totalCount"></b> vetted internships, programs, student jobs, and bylines, ranked for Olivia (Cal junior standing, Class of 2028).</p>
   </div>
   <div class="meta-line">Data updated <b id="updated"></b><br>deadlines marked “expected” are projected from last cycle</div>
 </header>
@@ -203,7 +203,7 @@ footer p{margin:4px 0;max-width:90ch}
     <select id="sort">
       <option value="overall">Overall score</option>
       <option value="prestige">Prestige</option>
-      <option value="fit">Sophomore fit</option>
+      <option value="fit">Eligibility fit</option>
       <option value="pay">Pay score</option>
       <option value="loc">Location score</option>
       <option value="timing">Timing score</option>
@@ -241,7 +241,7 @@ footer p{margin:4px 0;max-width:90ch}
     <div id="list"></div>
     <div class="empty" id="empty" style="display:none"><b>Nothing matches those filters.</b><br>Try removing one — or <button class="btn" id="clearAll2" style="margin-top:8px">reset everything</button></div>
     <footer>
-      <p><b>How the score works:</b> Overall /100 is a weighted blend of five components each scored 1–10, normalized so 100 is always the max. Default weights — Prestige ×3.5, Sophomore fit ×2.5, Pay ×1.5, Location ×1.5, Timing ×1 — reflect that brand-name experience compounds, and that a program she can't enter until senior year is worth less right now. Disagree? Drag the sliders under <b>Score weights</b> in the filters and the whole ranking recalculates; your weights are remembered on this device.</p>
+      <p><b>How the score works:</b> Overall /100 is a weighted blend of five components each scored 1–10, normalized so 100 is always the max. Default weights — Prestige ×3.5, Eligibility fit ×2.5, Pay ×1.5, Location ×1.5, Timing ×1 — reflect that brand-name experience compounds, and that a program she can't enter until senior year is worth less right now. Disagree? Drag the sliders under <b>Score weights</b> in the filters and the whole ranking recalculates; your weights are remembered on this device.</p>
       <p><b>Honesty notes:</b> contact emails are only shown where the organization publishes them. Deadlines labeled “expected” are projected from the previous cycle — verify before relying on them. Eligibility rules change yearly; re-read each posting.</p>
       <p id="autoNote">Compiled by Claude research agents, Aug 5–6 2026.</p>
     </footer>
@@ -280,7 +280,7 @@ const TIMING = [
   ['future','Future (junior year & beyond)'],
 ];
 const QUICK = [
-  ['sophomore-ok','Sophomore-friendly'],
+  ['sophomore-ok','Eligible now'],
   ['volleyball','Volleyball angle 🏐'],
   ['womens-sports','Women\u2019s sports media'],
   ['on-campus','On campus at Cal'],
@@ -295,7 +295,7 @@ const state = { q:'', cat:new Set(), region:new Set(), remote:new Set(), pay:new
 /* ---------- adjustable score weights ---------- */
 const W_DEFAULT = { prestige:3.5, fit:2.5, pay:1.5, loc:1.5, timing:1 };
 const W_META = [
-  ['prestige','Prestige','--s1'], ['fit','Sophomore fit','--s2'], ['pay','Pay','--s3'],
+  ['prestige','Prestige','--s1'], ['fit','Eligibility fit','--s2'], ['pay','Pay','--s3'],
   ['loc','Location','--s4'], ['timing','Timing','--s5'],
 ];
 let W = {...W_DEFAULT};
