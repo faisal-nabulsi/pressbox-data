@@ -86,3 +86,11 @@ She is a rising senior in summer 2027, so "rising senior" / "senior in the fall 
 the internship" programs (CBS, NBA, MLB, Conde Nast, MLS) apply to the summer 2027
 cycle. Programs requiring a completed degree are still future-only. Do not write
 "if her standing is junior" hedges anymore; the question is settled.
+
+## FOX timing rule (added Oct 10, 2026)
+FOX posts its summer internship program in LATE SEPTEMBER (Summer 2027 went live Sep 28,
+2026, deadline Jan 10, 2027), not in winter. The FOX row sat at "rolling" and was never
+re-checked, so it missed this for 12 days. From Sep 15 each year, check
+foxcareers.com/Search/SearchResults?jobFunction=Internships weekly until the summer
+postings appear. General rule: any row whose window says postings arrive "in winter"
+or "typically" must be checked against the live board at least monthly.
