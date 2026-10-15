@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-13",
+    "updated": "2026-10-15",
     "count": 177,
-    "note": "Oct 13: KQED Jan-June 2027 cohort posted (Forum/Newscast intern, deadline Oct 30) - moved to open-now/closing-soon; added new WSJ Sports Reporting Internship (Summer 2027, deadline Oct 31) as a distinct sports-specific track from the general WSJ program; confirmed general WSJ Summer Internship Program Oct 31 deadline is live. ESPN main/AAJA cycles still unposted (speed rule), SJI/POLITICO/SF Chronicle 2027 postings not yet confirmed live, no other status changes."
+    "note": "Oct 15: ESPN Social Intern (Remote, Spring 2027) still live past its soft Oct 15 close projection - cleared the placeholder deadline, kept open-now/closing-soon per the ESPN speed rule. Flagged a risk on SF Chronicle Summer 2027 Sports Reporting Intern: sibling Audience/Data Chronicle roles for Summer 2027 now show an Oct 10 deadline (unconfirmed, single source) that may already apply to the sports slot too. POLITICO Summer 2027 editorial internship still unconfirmed as posted despite today's Oct 15 projected deadline. KQED, WSJ (both tracks), NABJ-WSJ, AWSM, FOX, DJNF, ESPN Marketing, and the ACP/CMA convention dates all reconfirmed unchanged. ESPN main/AAJA + CBS/AAJA cycles still unposted."
   },
   "rows": [
     {
@@ -223,9 +223,9 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "Part/full-time, Jan-May 2027 (approx.)",
-      "window": "Verified Oct 10, 2026: OPEN, posted Oct 5, 2026 (Disney req 10160472). No deadline listed; Disney closes postings on application volume, and last year's spring cohort closed ~Oct 15. Jan-May 2027, remote, $23.00/hr, 40 hrs/week including nights and weekends. Submit a cover letter naming top areas (ESPN NEXT Show Social, ESPN Social Media, or Digital Video Social Content) and a portfolio of edits as links. Disney expects to reach out Oct-Nov.",
-      "deadline": "2026-10-15",
-      "deadlineLabel": "Open now - may close any day",
+      "window": "Verified Oct 10, 2026: OPEN, posted Oct 5, 2026 (Disney req 10160472). No deadline listed, and Disney closes postings on application volume. Jan-May 2027, remote, $23.00/hr, 40 hrs/week including nights and weekends. Submit a cover letter naming top areas (ESPN NEXT Show Social, ESPN Social Media, or Digital Video Social Content) and a portfolio of edits as links. Disney expects to reach out Oct-Nov. Verified Oct 15, 2026 (daily ESPN speed-rule check): still live on Disney Careers, same req 10160472, still no stated deadline - last year's spring cohort closing ~Oct 15 did not repeat this cycle, so the soft Oct 15 projection is cleared; still treat as closing-on-volume at any time.",
+      "deadline": null,
+      "deadlineLabel": "Open now - may close any day (no stated deadline)",
       "buckets": [
         "open-now",
         "closing-soon",
@@ -563,7 +563,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Full-time, 12 weeks in summer",
-      "window": "Summer 2026 applications opened Oct 2025 and closed in fall; summer 2027 cycle should open ~Oct 2026 \u2014 mark the calendar now",
+      "window": "Summer 2026 applications opened Oct 2025 and closed in fall; summer 2027 cycle should open ~Oct 2026 - mark the calendar now. Verified Oct 15, 2026: the same Hearst/Chronicle Oracle candidate portal is now posting Summer 2027 roles - an Audience Intern and a Data Reporting Intern, both $20.50/hr, both with an Oct 10, 2026 deadline (per a single secondary mirror, remotefront.com - not independently confirmed, so treat as unverified). No Sports Reporting Intern Summer 2027 listing found yet under this search. Risk: if Sports Reporting shares the same application batch/deadline as Audience/Data, that window may already be closing or closed. Check eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_8007 directly and re-verify within the next few days.",
       "deadline": "2026-10-31",
       "deadlineLabel": "Apps open ~October",
       "buckets": [
@@ -2415,7 +2415,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 9,
       "time": "~10-12 weeks per semester/summer cohort",
-      "window": "Summer 2027 deadline expected mid-October 2026 (recent cycles: last day to apply Oct 15, rolling decisions)",
+      "window": "Summer 2027 deadline expected mid-October 2026 (recent cycles: last day to apply Oct 15, rolling decisions). Verified Oct 15, 2026: no live Summer 2027 editorial internship posting found on politico.com/careers or on secondary mirrors (Harvard CS, IJNet, UF job board all still show the Summer 2026 cycle, which closed Oct 15, 2025). The Oct 15, 2026 deadline above is an unconfirmed pattern-based projection, not a live posting - recheck politico.com/careers in early November 2026.",
       "deadline": "2026-10-15",
       "deadlineLabel": "Summer 2027 deadline ~Oct 15",
       "buckets": [
