@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-15",
+    "updated": "2026-10-16",
     "count": 177,
-    "note": "Oct 15: ESPN Social Intern (Remote, Spring 2027) still live past its soft Oct 15 close projection - cleared the placeholder deadline, kept open-now/closing-soon per the ESPN speed rule. Flagged a risk on SF Chronicle Summer 2027 Sports Reporting Intern: sibling Audience/Data Chronicle roles for Summer 2027 now show an Oct 10 deadline (unconfirmed, single source) that may already apply to the sports slot too. POLITICO Summer 2027 editorial internship still unconfirmed as posted despite today's Oct 15 projected deadline. KQED, WSJ (both tracks), NABJ-WSJ, AWSM, FOX, DJNF, ESPN Marketing, and the ACP/CMA convention dates all reconfirmed unchanged. ESPN main/AAJA + CBS/AAJA cycles still unposted."
+    "note": "Oct 16: POLITICO Summer 2027 editorial internship still unposted past its projected Oct 15 deadline for the second day running - cleared the placeholder deadline, moved to watch, recheck early November. SF Chronicle Sports Reporting Intern Summer 2027 risk (possible shared Oct 10 deadline with sibling Audience/Data roles) still unresolved - no sports-specific posting found. ESPN main/AAJA + CBS/AAJA cycles, DJNF, SJI, AWSM, FOX, KQED, WSJ (both tracks), NABJ-WSJ, NBCU, and FloSports Fall internship all reconfirmed unchanged from yesterday."
   },
   "rows": [
     {
@@ -2400,46 +2400,6 @@
     {
       "id": 59,
       "rank": 59,
-      "name": "POLITICO Editorial Internships (HQ, New York, California/Sacramento)",
-      "org": "POLITICO",
-      "cat": "General journalism",
-      "role": "internship",
-      "loc": "Arlington, VA; New York, NY; Sacramento, CA",
-      "remote": "no",
-      "regions": [
-        "New York City",
-        "Other US",
-        "Sacramento"
-      ],
-      "pay": "$23/hr, 40 hrs/week",
-      "payType": "Paid hourly $19+",
-      "payScore": 9,
-      "time": "~10-12 weeks per semester/summer cohort",
-      "window": "Summer 2027 deadline expected mid-October 2026 (recent cycles: last day to apply Oct 15, rolling decisions). Verified Oct 15, 2026: no live Summer 2027 editorial internship posting found on politico.com/careers or on secondary mirrors (Harvard CS, IJNet, UF job board all still show the Summer 2026 cycle, which closed Oct 15, 2025). The Oct 15, 2026 deadline above is an unconfirmed pattern-based projection, not a live posting - recheck politico.com/careers in early November 2026.",
-      "deadline": "2026-10-15",
-      "deadlineLabel": "Summer 2027 deadline ~Oct 15",
-      "buckets": [
-        "fall-2026",
-        "rolling"
-      ],
-      "elig": "Students and recent grads; requires 3-5 clips and a letter of recommendation",
-      "desc": "The Sacramento (POLITICO California) internship is an underrated in-state option covering the Capitol. No formal class-year bar, but the clips + recommendation requirement means she should bank Daily Cal clips this fall before the October deadline.",
-      "email": null,
-      "contact": null,
-      "link": "https://www.politico.com/careers",
-      "s": {
-        "prestige": 8,
-        "fit": 4,
-        "pay": 9,
-        "loc": 7,
-        "timing": 7,
-        "overall": 69.0
-      },
-      "tags": []
-    },
-    {
-      "id": 60,
-      "rank": 60,
       "name": "Emerging Reporters Program",
       "org": "ProPublica",
       "cat": "General journalism",
@@ -2478,8 +2438,8 @@
       ]
     },
     {
-      "id": 61,
-      "rank": 61,
+      "id": 60,
+      "rank": 60,
       "name": "MLB Summer Internship Program (Business & Content)",
       "org": "Major League Baseball (Commissioner's Office)",
       "cat": "Teams & leagues",
@@ -2518,8 +2478,8 @@
       ]
     },
     {
-      "id": 62,
-      "rank": 62,
+      "id": 61,
+      "rank": 61,
       "name": "Summer Reporting Internships",
       "org": "Los Angeles Times",
       "cat": "General journalism",
@@ -2559,8 +2519,8 @@
       ]
     },
     {
-      "id": 63,
-      "rank": 63,
+      "id": 62,
+      "rank": 62,
       "name": "Summer Reporting Internships",
       "org": "Bay Area News Group (The Mercury News, East Bay Times)",
       "cat": "General journalism",
@@ -2601,8 +2561,8 @@
       ]
     },
     {
-      "id": 64,
-      "rank": 64,
+      "id": 63,
+      "rank": 63,
       "name": "Daily Californian Education Foundation scholarships (via Daily Cal sports staff)",
       "org": "The Daily Californian Education Foundation",
       "cat": "Programs & fellowships",
@@ -2641,8 +2601,8 @@
       ]
     },
     {
-      "id": 65,
-      "rank": 65,
+      "id": 64,
+      "rank": 64,
       "name": "Freelance writer \u2014 The IX Basketball (formerly The Next), The IX Soccer (with The Equalizer), The IX newsletter",
       "org": "The IX Sports (Howard Megdal's women's sports network)",
       "cat": "Bay Area & digital outlets",
@@ -2682,8 +2642,8 @@
       ]
     },
     {
-      "id": 66,
-      "rank": 66,
+      "id": 65,
+      "rank": 65,
       "name": "Social Media Intern",
       "org": "Sacramento Kings (NBA)",
       "cat": "Teams & leagues",
@@ -2721,8 +2681,8 @@
       ]
     },
     {
-      "id": 67,
-      "rank": 67,
+      "id": 66,
+      "rank": 66,
       "name": "Summer Internship Program",
       "org": "The New York Times",
       "cat": "General journalism",
@@ -2761,8 +2721,8 @@
       ]
     },
     {
-      "id": 68,
-      "rank": 68,
+      "id": 67,
+      "rank": 67,
       "name": "Social media / digital ecosystems student assistant",
       "org": "Cal Athletics - Strawberry Creek Studios (Digital Ecosystems)",
       "cat": "Cal campus / athletics",
@@ -2802,8 +2762,8 @@
       ]
     },
     {
-      "id": 69,
-      "rank": 69,
+      "id": 68,
+      "rank": 68,
       "name": "Student manager / practice support - Cal Women's Volleyball",
       "org": "Cal Athletics - Women's Volleyball",
       "cat": "Cal campus / athletics",
@@ -2846,8 +2806,8 @@
       ]
     },
     {
-      "id": 70,
-      "rank": 70,
+      "id": 69,
+      "rank": 69,
       "name": "Undergraduate Journalism Minor (J100 News Reporting, J110 Multimedia)",
       "org": "UC Berkeley Graduate School of Journalism",
       "cat": "Cal campus / athletics",
@@ -2888,8 +2848,8 @@
       ]
     },
     {
-      "id": 71,
-      "rank": 71,
+      "id": 70,
+      "rank": 70,
       "name": "PBS News Hour Internships (WETA)",
       "org": "PBS News Hour / WETA",
       "cat": "General journalism",
@@ -2928,8 +2888,8 @@
       ]
     },
     {
-      "id": 72,
-      "rank": 72,
+      "id": 71,
+      "rank": 71,
       "name": "NBCUniversal Summer Internship Program (NBC Sports / Peacock Sports tracks)",
       "org": "NBCUniversal",
       "cat": "National sports media",
@@ -2968,8 +2928,8 @@
       ]
     },
     {
-      "id": 73,
-      "rank": 73,
+      "id": 72,
+      "rank": 72,
       "name": "NABJ Student Multimedia Project (2027)",
       "org": "National Association of Black Journalists (NABJ)",
       "cat": "Programs & fellowships",
@@ -3008,8 +2968,8 @@
       ]
     },
     {
-      "id": 74,
-      "rank": 74,
+      "id": 73,
+      "rank": 73,
       "name": "Freelance high school sports stringer / photographer",
       "org": "MaxPreps (CBS Sports)",
       "cat": "Bay Area & digital outlets",
@@ -3050,8 +3010,8 @@
       ]
     },
     {
-      "id": 75,
-      "rank": 75,
+      "id": 74,
+      "rank": 74,
       "name": "Warner Bros. Discovery Sports Internships (TNT Sports, sports marketing/social, analytics)",
       "org": "Warner Bros. Discovery / TNT Sports",
       "cat": "National sports media",
@@ -3092,8 +3052,8 @@
       ]
     },
     {
-      "id": 76,
-      "rank": 76,
+      "id": 75,
+      "rank": 75,
       "name": "Reuters News Internship Program",
       "org": "Reuters (Thomson Reuters)",
       "cat": "General journalism",
@@ -3133,8 +3093,8 @@
       ]
     },
     {
-      "id": 77,
-      "rank": 77,
+      "id": 76,
+      "rank": 76,
       "name": "CBS Sports Summer Internship Program (production, CBS Sports HQ, digital, communications/marketing)",
       "org": "Paramount / CBS Sports",
       "cat": "National sports media",
@@ -3175,8 +3135,8 @@
       ]
     },
     {
-      "id": 78,
-      "rank": 78,
+      "id": 77,
+      "rank": 77,
       "name": "Cal Football creative / recruiting content student team",
       "org": "Cal Athletics - Football Creative Video",
       "cat": "Cal campus / athletics",
@@ -3214,8 +3174,8 @@
       ]
     },
     {
-      "id": 79,
-      "rank": 79,
+      "id": 78,
+      "rank": 78,
       "name": "KALX News department volunteer / news-production internship",
       "org": "KALX 90.7 FM Berkeley",
       "cat": "Cal campus / athletics",
@@ -3257,8 +3217,8 @@
       ]
     },
     {
-      "id": 80,
-      "rank": 80,
+      "id": 79,
+      "rank": 79,
       "name": "The Ringer Summer Internships (Production; Editorial)",
       "org": "The Ringer / Spotify",
       "cat": "National sports media",
@@ -3296,8 +3256,8 @@
       ]
     },
     {
-      "id": 81,
-      "rank": 81,
+      "id": 80,
+      "rank": 80,
       "name": "US Open Media Operations Assistant (seasonal)",
       "org": "USTA / US Open",
       "cat": "Teams & leagues",
@@ -3336,8 +3296,8 @@
       ]
     },
     {
-      "id": 82,
-      "rank": 82,
+      "id": 81,
+      "rank": 81,
       "name": "SPJ student membership + SPJ Northern California chapter",
       "org": "Society of Professional Journalists (SPJ)",
       "cat": "Programs & fellowships",
@@ -3376,8 +3336,8 @@
       ]
     },
     {
-      "id": 83,
-      "rank": 83,
+      "id": 82,
+      "rank": 82,
       "name": "KNBR 680/104.5 The Sports Leader \u2014 Programming Internship",
       "org": "Cumulus Media San Francisco (KNBR/KSFO/KGO)",
       "cat": "Bay Area & digital outlets",
@@ -3415,8 +3375,8 @@
       ]
     },
     {
-      "id": 84,
-      "rank": 84,
+      "id": 83,
+      "rank": 83,
       "name": "Seasonal Social Media Specialist / team & league internships",
       "org": "League One Volleyball (LOVB Pro)",
       "cat": "Teams & leagues",
@@ -3460,8 +3420,8 @@
       ]
     },
     {
-      "id": 85,
-      "rank": 85,
+      "id": 84,
+      "rank": 84,
       "name": "NHL Summer Internship Program",
       "org": "National Hockey League (League Office)",
       "cat": "Teams & leagues",
@@ -3497,8 +3457,8 @@
       "tags": []
     },
     {
-      "id": 86,
-      "rank": 86,
+      "id": 85,
+      "rank": 85,
       "name": "PGA TOUR Summer Internship Program 2027",
       "org": "PGA TOUR",
       "cat": "Teams & leagues",
@@ -3534,6 +3494,45 @@
       "tags": [
         "sophomore-ok"
       ]
+    },
+    {
+      "id": 86,
+      "rank": 86,
+      "name": "POLITICO Editorial Internships (HQ, New York, California/Sacramento)",
+      "org": "POLITICO",
+      "cat": "General journalism",
+      "role": "internship",
+      "loc": "Arlington, VA; New York, NY; Sacramento, CA",
+      "remote": "no",
+      "regions": [
+        "New York City",
+        "Other US",
+        "Sacramento"
+      ],
+      "pay": "$23/hr, 40 hrs/week",
+      "payType": "Paid hourly $19+",
+      "payScore": 9,
+      "time": "~10-12 weeks per semester/summer cohort",
+      "window": "Summer 2026 cycle closed Oct 15, 2025. Verified Oct 16, 2026: the projected Oct 15, 2026 deadline for Summer 2027 did not correspond to a live posting (checked Oct 15 and again Oct 16; politico.com/careers and secondary mirrors - Harvard CS, IJNet, UF job board - still only show the closed Summer 2026 cycle). Treat Summer 2027 as not yet posted; recheck politico.com/careers in early November 2026.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "watch"
+      ],
+      "elig": "Students and recent grads; requires 3-5 clips and a letter of recommendation",
+      "desc": "The Sacramento (POLITICO California) internship is an underrated in-state option covering the Capitol. No formal class-year bar, but the clips + recommendation requirement means she should bank Daily Cal clips this fall before the October deadline.",
+      "email": null,
+      "contact": null,
+      "link": "https://www.politico.com/careers",
+      "s": {
+        "prestige": 8,
+        "fit": 4,
+        "pay": 9,
+        "loc": 7,
+        "timing": 4,
+        "overall": 66.0
+      },
+      "tags": []
     },
     {
       "id": 87,
