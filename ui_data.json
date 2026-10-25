@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-21",
+    "updated": "2026-10-25",
     "count": 179,
-    "note": "Oct 21: ESPN speed-rule check found a new Spring 2027 Programming Intern posting (Bristol, CT, job 101572679008, same Oct 5 wave as Social/Marketing/Production rows) - added as new row. FloSports Audience Development/Social Media fall roles closed as scheduled (Oct 20 deadline passed) - re-bucketed to watch. WSJ/NABJ-WSJ/KQED/AWSM/SJI/DJNF/ACP-CMA deadlines reconfirmed unchanged. Main ESPN summer/NEXT/Programming-Womens 2027 cycles still unposted."
+    "note": "Oct 25: SJI class-of-2027 application confirmed OPEN (primary apply page + SJI's own Sept 28 social post) - deadline is Nov 6, not the previously projected Nov 3; re-bucketed to open-now/closing-soon and timing score bumped. Re-verified WSJ Sports Reporting/Summer Program (Oct 31), KQED Jan-June 2027 cohort (Oct 30), NABJ-WSJ (Oct 30), DJNF (Nov 11), AWSM Scholars (~Nov 8), ACP/CMA Kansas City convention (Nov 4-7), LA Times (still no open call), and Mission Local (still open, rolling) - all unchanged. ESPN speed-rule check: main ESPN summer/NEXT/Programming-Women's 2027 cycles still unposted; existing Spring 2027 Social/Marketing/Production/Programming reqs still live, no new ESPN postings found."
   },
   "rows": [
     {
@@ -3422,6 +3422,46 @@
     {
       "id": 84,
       "rank": 84,
+      "name": "Sports Journalism Institute (SJI)",
+      "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
+      "cat": "National sports media",
+      "role": "entry program",
+      "loc": "Classroom boot camp at Poynter (St. Petersburg, FL) + placed 8-week paid newsroom internship",
+      "remote": "no",
+      "regions": [
+        "Other US"
+      ],
+      "pay": "Paid internship placement + $500 scholarship on completion for students returning to college",
+      "payType": "Stipend / scholarship",
+      "payScore": 6,
+      "time": "9 weeks, June-August",
+      "window": "Verified Oct 25, 2026: Class of 2027 application is now OPEN on the official apply page (sportsjournalisminstitute.org/program/apply), confirmed via that primary page plus SJI's own Sept 28, 2026 social post (@SJI_Update) announcing the same opening. Deadline is Nov 6, 2026 (not the previously projected Nov 3 - last cycle's Nov 3, 2025 deadline was for the class of 2026). Boot camp runs late May/June 2027 at Poynter; applicants need the items on the Application Checklist available on the same page.",
+      "deadline": "2026-11-06",
+      "deadlineLabel": "SJI apply by Nov 6",
+      "buckets": [
+        "open-now",
+        "closing-soon"
+      ],
+      "elig": "College students at accredited 4-year schools, cumulative GPA 2.5+; mission focus on racial and gender diversity in sports departments; sophomores can apply though juniors/seniors are typical",
+      "desc": "The most respected pipeline program in sports journalism \u2014 alumni at ESPN, The Athletic, NYT \u2014 and it PLACES you in a paid newsroom internship, solving the sophomore chicken-and-egg problem. November deadline means she should spend fall 2026 stacking clips and recommenders.",
+      "email": null,
+      "contact": null,
+      "link": "http://sportsjournalisminstitute.org/application/",
+      "s": {
+        "prestige": 9,
+        "fit": 5,
+        "pay": 6,
+        "loc": 4,
+        "timing": 8,
+        "overall": 67.0
+      },
+      "tags": [
+        "verified"
+      ]
+    },
+    {
+      "id": 85,
+      "rank": 85,
       "name": "NHL Summer Internship Program",
       "org": "National Hockey League (League Office)",
       "cat": "Teams & leagues",
@@ -3457,8 +3497,8 @@
       "tags": []
     },
     {
-      "id": 85,
-      "rank": 85,
+      "id": 86,
+      "rank": 86,
       "name": "PGA TOUR Summer Internship Program 2027",
       "org": "PGA TOUR",
       "cat": "Teams & leagues",
@@ -3496,8 +3536,8 @@
       ]
     },
     {
-      "id": 86,
-      "rank": 86,
+      "id": 87,
+      "rank": 87,
       "name": "ESPN Production Intern (Charlotte, Spring 2027)",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -3536,8 +3576,8 @@
       ]
     },
     {
-      "id": 87,
-      "rank": 87,
+      "id": 88,
+      "rank": 88,
       "name": "POLITICO Editorial Internships (HQ, New York, California/Sacramento)",
       "org": "POLITICO",
       "cat": "General journalism",
@@ -3575,8 +3615,8 @@
       "tags": []
     },
     {
-      "id": 88,
-      "rank": 88,
+      "id": 89,
+      "rank": 89,
       "name": "AWSM student membership + annual convention",
       "org": "Association for Women in Sports Media (AWSM)",
       "cat": "Programs & fellowships",
@@ -3618,8 +3658,8 @@
       ]
     },
     {
-      "id": 89,
-      "rank": 89,
+      "id": 90,
+      "rank": 90,
       "name": "Athletic Communications / media relations student assistant (incl. gameday stats support)",
       "org": "Cal Athletics - Athletic Communications",
       "cat": "Cal campus / athletics",
@@ -3659,8 +3699,8 @@
       ]
     },
     {
-      "id": 90,
-      "rank": 90,
+      "id": 91,
+      "rank": 91,
       "name": "Front Office Sports - Social Media Intern (and recurring FOS internships)",
       "org": "Front Office Sports (backed by RedBird IMI)",
       "cat": "National sports media",
@@ -3691,45 +3731,6 @@
         "fit": 6,
         "pay": 7,
         "loc": 6,
-        "timing": 7,
-        "overall": 66.0
-      },
-      "tags": [
-        "verified"
-      ]
-    },
-    {
-      "id": 91,
-      "rank": 91,
-      "name": "Sports Journalism Institute (SJI)",
-      "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
-      "cat": "National sports media",
-      "role": "entry program",
-      "loc": "Classroom boot camp at Poynter (St. Petersburg, FL) + placed 8-week paid newsroom internship",
-      "remote": "no",
-      "regions": [
-        "Other US"
-      ],
-      "pay": "Paid internship placement + $500 scholarship on completion for students returning to college",
-      "payType": "Stipend / scholarship",
-      "payScore": 6,
-      "time": "9 weeks, June-August",
-      "window": "VERIFIED Aug 5, 2026: class of 2027 application not yet posted. Prior cycle opened mid-October with a Nov 3 deadline - check sportsjournalisminstitute.org/program/apply from early October 2026.",
-      "deadline": "2026-11-03",
-      "deadlineLabel": "Expected deadline ~Nov 3",
-      "buckets": [
-        "nov-dec-2026"
-      ],
-      "elig": "College students at accredited 4-year schools, cumulative GPA 2.5+; mission focus on racial and gender diversity in sports departments; sophomores can apply though juniors/seniors are typical",
-      "desc": "The most respected pipeline program in sports journalism \u2014 alumni at ESPN, The Athletic, NYT \u2014 and it PLACES you in a paid newsroom internship, solving the sophomore chicken-and-egg problem. November deadline means she should spend fall 2026 stacking clips and recommenders.",
-      "email": null,
-      "contact": null,
-      "link": "http://sportsjournalisminstitute.org/application/",
-      "s": {
-        "prestige": 9,
-        "fit": 5,
-        "pay": 6,
-        "loc": 4,
         "timing": 7,
         "overall": 66.0
       },
