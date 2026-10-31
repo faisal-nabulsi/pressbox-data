@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-25",
+    "updated": "2026-10-31",
     "count": 179,
-    "note": "Oct 25: SJI class-of-2027 application confirmed OPEN (primary apply page + SJI's own Sept 28 social post) - deadline is Nov 6, not the previously projected Nov 3; re-bucketed to open-now/closing-soon and timing score bumped. Re-verified WSJ Sports Reporting/Summer Program (Oct 31), KQED Jan-June 2027 cohort (Oct 30), NABJ-WSJ (Oct 30), DJNF (Nov 11), AWSM Scholars (~Nov 8), ACP/CMA Kansas City convention (Nov 4-7), LA Times (still no open call), and Mission Local (still open, rolling) - all unchanged. ESPN speed-rule check: main ESPN summer/NEXT/Programming-Women's 2027 cycles still unposted; existing Spring 2027 Social/Marketing/Production/Programming reqs still live, no new ESPN postings found."
+    "note": "Oct 31: KQED Jan-June 2027 cohort (Forum/Newscast) and NABJ-WSJ 2027 cycle both confirmed closed Oct 30 as scheduled - re-bucketed off open-now/closing-soon (KQED to watch, next wave ~Nov/May; NABJ-WSJ to future, next cycle ~Aug 2027). ESPN speed-rule daily check: main summer/NEXT/Programming-Women's 2027 cycles still unposted, Spring 2027 wave (Social/Marketing/Production/Programming) still live unchanged. WSJ Sports Reporting + WSJ Summer Program deadlines are today (Oct 31) - no contrary info found, left open pending tomorrow's close-out check. DJNF (Nov 11, official site), AWSM Scholars (Nov 8, prior primary-source verification stands - today's searches only surfaced a stale prior-year page, not a primary contradiction), SJI (Nov 6), LA Times (still no open call) reconfirmed unchanged."
   },
   "rows": [
     {
@@ -49,49 +49,6 @@
     {
       "id": 2,
       "rank": 2,
-      "name": "KQED Internship Program",
-      "org": "KQED (Bay Area NPR/PBS member station)",
-      "cat": "General journalism",
-      "role": "internship",
-      "loc": "San Francisco, CA",
-      "remote": "hybrid",
-      "regions": [
-        "Remote-friendly (hybrid)",
-        "San Francisco"
-      ],
-      "pay": "~SF minimum wage (recent postings $19.61/hr)",
-      "payType": "Paid hourly $19+",
-      "payScore": 8,
-      "time": "~16 hrs/week for six months; cohorts Jan-mid June and mid June-Dec",
-      "window": "Verified Oct 13, 2026: Jan-June 2027 cohort now posted - Forum Intern and Newscast Intern roles live on kqed.applytojob.com, confirmed via two agreeing secondary mirrors (Employbl, Vaia/Jobgether) of the ApplyToJob postings (egress proxy still blocks a direct kqed.org/applytojob.com read). Jan 19-June 25, 2027, 16 hrs/week, $19.61/hr. Apply to each role separately; cover letter must name the specific internship and, for Newscast, the Bay Area beat/issues of interest. Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in this wave - check back for those.",
-      "deadline": "2026-10-30",
-      "deadlineLabel": "Apply by Oct 30 (Forum/Newscast)",
-      "buckets": [
-        "open-now",
-        "closing-soon",
-        "nov-dec-2026"
-      ],
-      "elig": "Open to anyone with a passion for public media \u2014 no student-status or class-year requirement; sophomores fully eligible",
-      "desc": "Probably the single best-fit realistic opportunity on this list: paid, part-time enough to run alongside Berkeley classes, sophomore-friendly, and roles include Visual Journalism (shooting/editing video), Bay Curious, Forum and Audience Intelligence (data/analytics). Set a reminder for the October-November posting window at kqed.applytojob.com.",
-      "email": null,
-      "contact": null,
-      "link": "https://www.kqed.org/careers/internships",
-      "s": {
-        "prestige": 7,
-        "fit": 9,
-        "pay": 8,
-        "loc": 10,
-        "timing": 10,
-        "overall": 84.0
-      },
-      "tags": [
-        "sophomore-ok",
-        "verified"
-      ]
-    },
-    {
-      "id": 3,
-      "rank": 3,
       "name": "NBCU Local Bay Area \u2014 Production Assistant Internship (NBC Sports Bay Area/California content group), Academic Year 2026-27",
       "org": "NBCUniversal (NBC Sports Bay Area / NBC Sports California)",
       "cat": "Bay Area & digital outlets",
@@ -131,8 +88,8 @@
       ]
     },
     {
-      "id": 4,
-      "rank": 4,
+      "id": 3,
+      "rank": 3,
       "name": "Dow Jones News Fund Summer Internships (Digital Media, Data, Business Reporting, Audience Engagement, Editing)",
       "org": "Dow Jones News Fund",
       "cat": "General journalism",
@@ -170,8 +127,8 @@
       ]
     },
     {
-      "id": 5,
-      "rank": 5,
+      "id": 4,
+      "rank": 4,
       "name": "KGO-TV (ABC7) Sports Intern",
       "org": "ABC7 San Francisco / The Walt Disney Company",
       "cat": "Bay Area & digital outlets",
@@ -205,6 +162,48 @@
         "overall": 80.5
       },
       "tags": []
+    },
+    {
+      "id": 5,
+      "rank": 5,
+      "name": "KQED Internship Program",
+      "org": "KQED (Bay Area NPR/PBS member station)",
+      "cat": "General journalism",
+      "role": "internship",
+      "loc": "San Francisco, CA",
+      "remote": "hybrid",
+      "regions": [
+        "Remote-friendly (hybrid)",
+        "San Francisco"
+      ],
+      "pay": "~SF minimum wage (recent postings $19.61/hr)",
+      "payType": "Paid hourly $19+",
+      "payScore": 8,
+      "time": "~16 hrs/week for six months; cohorts Jan-mid June and mid June-Dec",
+      "window": "Verified Oct 13, 2026: Jan-June 2027 cohort now posted - Forum Intern and Newscast Intern roles live on kqed.applytojob.com, confirmed via two agreeing secondary mirrors (Employbl, Vaia/Jobgether) of the ApplyToJob postings (egress proxy still blocks a direct kqed.org/applytojob.com read). Jan 19-June 25, 2027, 16 hrs/week, $19.61/hr. Apply to each role separately; cover letter must name the specific internship and, for Newscast, the Bay Area beat/issues of interest. Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in this wave - check back for those. Verified Oct 31, 2026: Forum Intern / Newscast Intern application window closed Oct 30 as scheduled (reconfirmed via additional secondary aggregator listings - TealHQ, InternDock; egress proxy still blocks a direct kqed.org read). Per UPDATER.md, KQED runs a second cohort wave around Nov; watch for a new posting (Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in any wave) before the next likely wave ~May 2027.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "watch",
+        "nov-dec-2026"
+      ],
+      "elig": "Open to anyone with a passion for public media \u2014 no student-status or class-year requirement; sophomores fully eligible",
+      "desc": "Probably the single best-fit realistic opportunity on this list: paid, part-time enough to run alongside Berkeley classes, sophomore-friendly, and roles include Visual Journalism (shooting/editing video), Bay Curious, Forum and Audience Intelligence (data/analytics). Set a reminder for the October-November posting window at kqed.applytojob.com.",
+      "email": null,
+      "contact": null,
+      "link": "https://www.kqed.org/careers/internships",
+      "s": {
+        "prestige": 7,
+        "fit": 9,
+        "pay": 8,
+        "loc": 10,
+        "timing": 6,
+        "overall": 80.0
+      },
+      "tags": [
+        "sophomore-ok",
+        "verified"
+      ]
     },
     {
       "id": 6,
@@ -650,7 +649,7 @@
       "payType": "Paid hourly $19+",
       "payScore": 8,
       "time": "Full-time ~10 weeks (Summer 2026 ran June 1-Aug 7)",
-      "window": "Verified Oct 19, 2026: still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing) live on Disney Careers; only UK placement-year roles found (not applicable). APPLICATION SPEED WARNING: ESPN summer postings close in DAYS, not weeks: the Summer 2026 cycle posted ~Dec 2 and closed Dec 8, 2025 (six days), with 500+ applications within hours of posting. Summer 2027 postings expected to open ~November 2026 and close early December. Materials must be 100% ready BEFORE the posting appears; set a Disney Careers job alert (jobs.disneycareers.com/espn, filter Internships/Programs) for same-day notice.",
+      "window": "Verified Oct 19, 2026: still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing) live on Disney Careers; only UK placement-year roles found (not applicable). APPLICATION SPEED WARNING: ESPN summer postings close in DAYS, not weeks: the Summer 2026 cycle posted ~Dec 2 and closed Dec 8, 2025 (six days), with 500+ applications within hours of posting. Summer 2027 postings expected to open ~November 2026 and close early December. Materials must be 100% ready BEFORE the posting appears; set a Disney Careers job alert (jobs.disneycareers.com/espn, filter Internships/Programs) for same-day notice. Verified Oct 31, 2026 (daily ESPN speed-rule check): still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing/programming) live on Disney Careers; only the already-tracked Spring 2027 wave (rows for Social/Marketing/Production/Programming) and unrelated UK/London roles found.",
       "deadline": "2026-12-04",
       "deadlineLabel": "Expected: posts ~Nov, closes ~6 days later",
       "buckets": [
@@ -925,50 +924,8 @@
       ]
     },
     {
-      "name": "NABJ-Wall Street Journal Internship (2027)",
-      "org": "National Association of Black Journalists (NABJ) + The Wall Street Journal",
-      "cat": "General journalism",
-      "role": "internship",
-      "loc": "New York, Chicago, Detroit, Houston, Los Angeles, San Francisco, or Washington, DC",
-      "remote": "no",
-      "regions": [
-        "New York City",
-        "San Francisco",
-        "SoCal / LA",
-        "Other US"
-      ],
-      "pay": "$28.57/hr, 10 weeks",
-      "payType": "Paid hourly $19+",
-      "payScore": 9,
-      "time": "10 weeks, full-time, June-August 2027",
-      "window": "Verified Oct 11, 2026: deadline reconfirmed as Fri Oct 30, 2026, 11:59pm PT via two agreeing secondary sources (Opportunity Desk, Fastweb), consistent with the Oct 2 verification. Program: $28.57/hr, 10 weeks, June-Aug 2027, in-person at one of NY/Chicago/Detroit/Houston/LA/SF/DC. Still need NABJ student membership + a published clip before applying.",
-      "deadline": "2026-10-30",
-      "deadlineLabel": "Deadline Oct 30 (NABJ members)",
-      "buckets": [
-        "open-now",
-        "closing-soon",
-        "fall-2026"
-      ],
-      "elig": "NABJ student members in good standing, enrolled undergrad (sophomore/junior) or grad student not yet graduated; GPA 3.0+; needs one prior reporting internship OR strong campus/freelance clips. Olivia's junior standing qualifies (confirmed Sep 29, 2026); she'd need to join NABJ and have a Daily Cal clip ready before Oct 30.",
-      "desc": "A second, earlier-deadline path into the same elite WSJ newsrooms as the flagship WSJ Summer Internship (incl. San Francisco), run through NABJ's mentorship pipeline. New row added Oct 2, 2026 after it surfaced during routine verification; worth pursuing in parallel with the general WSJ application once she has a campus clip and NABJ membership.",
-      "email": null,
-      "contact": null,
-      "link": "https://nabjonline.org/student-services/internships/",
-      "s": {
-        "prestige": 8,
-        "fit": 5,
-        "pay": 9,
-        "loc": 9,
-        "timing": 7,
-        "overall": 74.5
-      },
-      "tags": [],
       "id": 23,
-      "rank": 23
-    },
-    {
-      "id": 24,
-      "rank": 24,
+      "rank": 23,
       "name": "Golden State Summer Internship Program 2027",
       "org": "Golden State Warriors (NBA)",
       "cat": "Teams & leagues",
@@ -1006,8 +963,8 @@
       ]
     },
     {
-      "id": 25,
-      "rank": 25,
+      "id": 24,
+      "rank": 24,
       "name": "Yahoo Sports Summer Internship",
       "org": "Yahoo (Yahoo Sports)",
       "cat": "National sports media",
@@ -1046,8 +1003,8 @@
       ]
     },
     {
-      "id": 26,
-      "rank": 26,
+      "id": 25,
+      "rank": 25,
       "name": "White House Correspondents' Association Scholarships",
       "org": "WHCA",
       "cat": "General journalism",
@@ -1087,8 +1044,8 @@
       ]
     },
     {
-      "id": 27,
-      "rank": 27,
+      "id": 26,
+      "rank": 26,
       "name": "Athletes Unlimited Internship Program (Social Media Intern; Digital Fan Engagement Intern)",
       "org": "Athletes Unlimited (runs AU Pro Volleyball, softball, basketball)",
       "cat": "National sports media",
@@ -1128,8 +1085,8 @@
       ]
     },
     {
-      "id": 28,
-      "rank": 28,
+      "id": 27,
+      "rank": 27,
       "name": "Summer Internship Program (Content & Programming / Communications tracks)",
       "org": "Golden State Valkyries (WNBA)",
       "cat": "Teams & leagues",
@@ -1168,8 +1125,8 @@
       ]
     },
     {
-      "id": 29,
-      "rank": 29,
+      "id": 28,
+      "rank": 28,
       "name": "ABC7/KGO-TV College Student Internship Program",
       "org": "KGO-TV ABC7 (Disney/ABC Owned Television Stations)",
       "cat": "General journalism",
@@ -1208,8 +1165,8 @@
       ]
     },
     {
-      "id": 30,
-      "rank": 30,
+      "id": 29,
+      "rank": 29,
       "name": "NFL Summer Internship Program",
       "org": "National Football League",
       "cat": "Teams & leagues",
@@ -1249,8 +1206,8 @@
       ]
     },
     {
-      "id": 31,
-      "rank": 31,
+      "id": 30,
+      "rank": 30,
       "name": "CBS News & Stations Internship \u2014 KPIX (Summer 2027 cycle)",
       "org": "KPIX CBS News Bay Area / Paramount",
       "cat": "Bay Area & digital outlets",
@@ -1325,12 +1282,12 @@
       "tags": [
         "verified"
       ],
-      "id": 32,
-      "rank": 32
+      "id": 31,
+      "rank": 31
     },
     {
-      "id": 33,
-      "rank": 33,
+      "id": 32,
+      "rank": 32,
       "name": "Summer 2027 Newsroom Internship \u2014 Sports Reporting Intern",
       "org": "San Francisco Chronicle / SFGate (Hearst)",
       "cat": "Bay Area & digital outlets",
@@ -1368,8 +1325,8 @@
       ]
     },
     {
-      "id": 34,
-      "rank": 34,
+      "id": 33,
+      "rank": 33,
       "name": "Content Studio / Creative Services student intern (video, photo, graphics)",
       "org": "Cal Athletics - Strawberry Creek Studios",
       "cat": "Cal campus / athletics",
@@ -1409,8 +1366,8 @@
       ]
     },
     {
-      "id": 35,
-      "rank": 35,
+      "id": 34,
+      "rank": 34,
       "name": "APSE Garry D. Howard student scholarships + student chapters",
       "org": "Associated Press Sports Editors (APSE)",
       "cat": "Programs & fellowships",
@@ -1489,12 +1446,12 @@
         "verified",
         "womens-sports"
       ],
-      "id": 36,
-      "rank": 36
+      "id": 35,
+      "rank": 35
     },
     {
-      "id": 37,
-      "rank": 37,
+      "id": 36,
+      "rank": 36,
       "name": "ESPN / AAJA Sports Task Force Production Internship",
       "org": "ESPN + Asian American Journalists Association Sports Task Force",
       "cat": "National sports media",
@@ -1534,8 +1491,8 @@
       ]
     },
     {
-      "id": 38,
-      "rank": 38,
+      "id": 37,
+      "rank": 37,
       "name": "The Athletic - Leon H. Carter Internship Program",
       "org": "The Athletic (The New York Times Company)",
       "cat": "National sports media",
@@ -1575,8 +1532,8 @@
       ]
     },
     {
-      "id": 39,
-      "rank": 39,
+      "id": 38,
+      "rank": 38,
       "name": "Sharks Sports & Entertainment internships and part-time media roles",
       "org": "San Jose Sharks / San Jose Barracuda / SAP Center",
       "cat": "Teams & leagues",
@@ -1614,8 +1571,8 @@
       ]
     },
     {
-      "id": 40,
-      "rank": 40,
+      "id": 39,
+      "rank": 39,
       "name": "NBCUniversal News Group Internships (NBC News, NBC Owned Stations, Peacock/digital news)",
       "org": "NBCUniversal",
       "cat": "General journalism",
@@ -1654,8 +1611,8 @@
       ]
     },
     {
-      "id": 41,
-      "rank": 41,
+      "id": 40,
+      "rank": 40,
       "name": "KTVU Fox 2 internships (FOX Internship Program)",
       "org": "KTVU / FOX Corporation",
       "cat": "Bay Area & digital outlets",
@@ -1694,8 +1651,8 @@
       ]
     },
     {
-      "id": 42,
-      "rank": 42,
+      "id": 41,
+      "rank": 41,
       "name": "Quakes University internship program",
       "org": "San Jose Earthquakes (MLS)",
       "cat": "Teams & leagues",
@@ -1733,8 +1690,8 @@
       ]
     },
     {
-      "id": 43,
-      "rank": 43,
+      "id": 42,
+      "rank": 42,
       "name": "Spring 2027 Newsroom Internship",
       "org": "Mission Local",
       "cat": "General journalism",
@@ -1775,8 +1732,8 @@
       ]
     },
     {
-      "id": 44,
-      "rank": 44,
+      "id": 43,
+      "rank": 43,
       "name": "ESPN Programming Intern (Remote, Fall 2026)",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -1816,8 +1773,8 @@
       ]
     },
     {
-      "id": 45,
-      "rank": 45,
+      "id": 44,
+      "rank": 44,
       "name": "NBA Summer Internship Program",
       "org": "NBA League Office",
       "cat": "Teams & leagues",
@@ -1858,8 +1815,8 @@
       ]
     },
     {
-      "id": 46,
-      "rank": 46,
+      "id": 45,
+      "rank": 45,
       "name": "KALX Sports department volunteer (play-by-play and Cal sports talk)",
       "org": "KALX 90.7 FM Berkeley",
       "cat": "Cal campus / athletics",
@@ -1902,8 +1859,8 @@
       ]
     },
     {
-      "id": 47,
-      "rank": 47,
+      "id": 46,
+      "rank": 46,
       "name": "Game Production Assistant / Marketing & Media Relations Intern (seasonal)",
       "org": "San Jose Giants (High-A affiliate of SF Giants)",
       "cat": "Teams & leagues",
@@ -1941,8 +1898,8 @@
       ]
     },
     {
-      "id": 48,
-      "rank": 48,
+      "id": 47,
+      "rank": 47,
       "name": "Staff Photographer (sports photo)",
       "org": "The Daily Californian",
       "cat": "Cal campus / athletics",
@@ -1984,8 +1941,8 @@
       ]
     },
     {
-      "id": 49,
-      "rank": 49,
+      "id": 48,
+      "rank": 48,
       "name": "Video Producer / Multimedia (and Podcaster)",
       "org": "The Daily Californian",
       "cat": "Cal campus / athletics",
@@ -2028,8 +1985,8 @@
       ]
     },
     {
-      "id": 50,
-      "rank": 50,
+      "id": 49,
+      "rank": 49,
       "name": "Newsroom Summer Internship Program",
       "org": "The Washington Post",
       "cat": "General journalism",
@@ -2069,8 +2026,8 @@
       ]
     },
     {
-      "id": 51,
-      "rank": 51,
+      "id": 50,
+      "rank": 50,
       "name": "Gameday production academy student crew (football and volleyball event production / videoboard)",
       "org": "Cal Athletics - Gameday Entertainment (Strawberry Creek Studios)",
       "cat": "Cal campus / athletics",
@@ -2111,8 +2068,8 @@
       ]
     },
     {
-      "id": 52,
-      "rank": 52,
+      "id": 51,
+      "rank": 51,
       "name": "Media Relations Intern (2027 season)",
       "org": "San Francisco Giants (MLB)",
       "cat": "Teams & leagues",
@@ -2151,8 +2108,8 @@
       ]
     },
     {
-      "id": 53,
-      "rank": 53,
+      "id": 52,
+      "rank": 52,
       "name": "Paid newsroom internship (summer/fall/winter cohorts)",
       "org": "Bay City News / Local News Matters",
       "cat": "Bay Area & digital outlets",
@@ -2191,8 +2148,8 @@
       ]
     },
     {
-      "id": 54,
-      "rank": 54,
+      "id": 53,
+      "rank": 53,
       "name": "ESPN NEXT Production Internship",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -2231,8 +2188,8 @@
       ]
     },
     {
-      "id": 55,
-      "rank": 55,
+      "id": 54,
+      "rank": 54,
       "name": "ESPN Programming Internship - Women's Sports (espnW lineage)",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -2246,7 +2203,7 @@
       "payType": "Paid (hourly / unspecified)",
       "payScore": 7,
       "time": "Full-time summer (~10 weeks)",
-      "window": "Verified Oct 19, 2026: still not posted - same summer cycle as the main ESPN program, expected to post ~Nov 2026 and close within days (2026 cycle: six-day window). Prep before it posts; apply within 48h.",
+      "window": "Verified Oct 19, 2026: still not posted - same summer cycle as the main ESPN program, expected to post ~Nov 2026 and close within days (2026 cycle: six-day window). Prep before it posts; apply within 48h. Verified Oct 31, 2026 (daily ESPN speed-rule check): still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing/programming) live on Disney Careers; only the already-tracked Spring 2027 wave (rows for Social/Marketing/Production/Programming) and unrelated UK/London roles found.",
       "deadline": "2026-12-04",
       "deadlineLabel": "Expected: posts ~Nov, closes ~6 days later",
       "buckets": [
@@ -2272,6 +2229,46 @@
         "verified",
         "sophomore-ok"
       ]
+    },
+    {
+      "name": "NABJ-Wall Street Journal Internship (2027)",
+      "org": "National Association of Black Journalists (NABJ) + The Wall Street Journal",
+      "cat": "General journalism",
+      "role": "internship",
+      "loc": "New York, Chicago, Detroit, Houston, Los Angeles, San Francisco, or Washington, DC",
+      "remote": "no",
+      "regions": [
+        "New York City",
+        "San Francisco",
+        "SoCal / LA",
+        "Other US"
+      ],
+      "pay": "$28.57/hr, 10 weeks",
+      "payType": "Paid hourly $19+",
+      "payScore": 9,
+      "time": "10 weeks, full-time, June-August 2027",
+      "window": "Verified Oct 11, 2026: deadline reconfirmed as Fri Oct 30, 2026, 11:59pm PT via two agreeing secondary sources (Opportunity Desk, Fastweb), consistent with the Oct 2 verification. Program: $28.57/hr, 10 weeks, June-Aug 2027, in-person at one of NY/Chicago/Detroit/Houston/LA/SF/DC. Still need NABJ student membership + a published clip before applying. Verified Oct 31, 2026: application window closed Oct 30, 2026, 11:59pm PT as scheduled (reconfirmed via Opportunity Desk + Fastweb + ScholarshipBob, all agreeing). Next cycle (2028) expected to open ~Aug 2027.",
+      "deadline": null,
+      "deadlineLabel": null,
+      "buckets": [
+        "future"
+      ],
+      "elig": "NABJ student members in good standing, enrolled undergrad (sophomore/junior) or grad student not yet graduated; GPA 3.0+; needs one prior reporting internship OR strong campus/freelance clips. Olivia's junior standing qualifies (confirmed Sep 29, 2026); she'd need to join NABJ and have a Daily Cal clip ready before Oct 30.",
+      "desc": "A second, earlier-deadline path into the same elite WSJ newsrooms as the flagship WSJ Summer Internship (incl. San Francisco), run through NABJ's mentorship pipeline. New row added Oct 2, 2026 after it surfaced during routine verification; worth pursuing in parallel with the general WSJ application once she has a campus clip and NABJ membership.",
+      "email": null,
+      "contact": null,
+      "link": "https://nabjonline.org/student-services/internships/",
+      "s": {
+        "prestige": 8,
+        "fit": 5,
+        "pay": 9,
+        "loc": 9,
+        "timing": 2,
+        "overall": 69.5
+      },
+      "tags": [],
+      "id": 55,
+      "rank": 55
     },
     {
       "id": 56,
