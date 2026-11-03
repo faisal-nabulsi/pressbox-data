@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-01",
+    "updated": "2026-11-03",
     "count": 179,
-    "note": "Nov 1: WSJ Sports Reporting Internship + WSJ Summer Internship Program (Summer 2027 cycle) confirmed closed Oct 31 as scheduled - re-bucketed to future, timing scores reset, next cycle expected ~Sept/Oct 2027. ESPN speed-rule daily check: still no US summer 2027 posting live. DJNF (Nov 11), AWSM (Nov 8), SJI (Nov 6), LA Times (likely Nov 15, no open call yet), ACP/CMA convention (Nov 4-7, Kansas City) reconfirmed unchanged. KQED: no new Nov cohort wave found yet; still watching for next posting."
+    "note": "Nov 3: LA Times Summer 2027 Reporting Internships reconfirmed OPEN (Nov 15 deadline) after Oct 12 showed no open call - re-bucketed to open-now/closing-soon, timing score raised. ESPN speed-rule check: still no US summer 2027 posting live. SJI (Nov 6), AWSM (Nov 8), DJNF (Nov 11), ACP/CMA convention (Nov 4-7) reconfirmed unchanged. KQED: Oct 30 cohort window closed as scheduled, no new Nov wave found yet. NBCU News Group / NBC Sports-Peacock summer 2027 cycles still unposted."
   },
   "rows": [
     {
@@ -1983,6 +1983,48 @@
     {
       "id": 49,
       "rank": 49,
+      "name": "Summer Reporting Internships",
+      "org": "Los Angeles Times",
+      "cat": "General journalism",
+      "role": "internship",
+      "loc": "El Segundo/Los Angeles, CA (plus Sacramento bureau)",
+      "remote": "no",
+      "regions": [
+        "Sacramento",
+        "SoCal / LA"
+      ],
+      "pay": "Paid",
+      "payType": "Paid (hourly / unspecified)",
+      "payScore": 7,
+      "time": "10 weeks full-time, June-August (rolling start dates)",
+      "window": "Verified Nov 3, 2026: latimes.submittable.com/submit confirms the 2027 Spring and Summer Reporting Internships are now OPEN (resolves the Oct 12 \"no open calls\" gap - the page was between postings). Deadline Nov 15, 2026, 11:59pm PST. Summer 2027 interns start May 24, Jun 7, or Jun 21; decisions by email May 1. Reporting roles require a valid driver's license and car in working condition.",
+      "deadline": "2026-11-15",
+      "deadlineLabel": "Deadline Nov 15, 2026 - confirmed open",
+      "buckets": [
+        "open-now",
+        "closing-soon"
+      ],
+      "elig": "Actively working toward an undergraduate or graduate degree (no class-year floor stated); reporting roles require a driver's license and car",
+      "desc": "Placements include a dedicated Sports desk plus Photography, Data and Graphics, and Digital/Engagement — several map directly onto Olivia's video and analytics skills, and there is no junior/senior requirement. Competitive, so strong Daily Cal clips matter; the September 1 open date is only weeks away.",
+      "email": null,
+      "contact": null,
+      "link": "https://latimes.submittable.com/submit",
+      "s": {
+        "prestige": 9,
+        "fit": 4,
+        "pay": 7,
+        "loc": 7,
+        "timing": 8,
+        "overall": 70.5
+      },
+      "tags": [
+        "sophomore-ok",
+        "verified"
+      ]
+    },
+    {
+      "id": 50,
+      "rank": 50,
       "name": "Newsroom Summer Internship Program",
       "org": "The Washington Post",
       "cat": "General journalism",
@@ -2022,8 +2064,8 @@
       ]
     },
     {
-      "id": 50,
-      "rank": 50,
+      "id": 51,
+      "rank": 51,
       "name": "Gameday production academy student crew (football and volleyball event production / videoboard)",
       "org": "Cal Athletics - Gameday Entertainment (Strawberry Creek Studios)",
       "cat": "Cal campus / athletics",
@@ -2064,8 +2106,8 @@
       ]
     },
     {
-      "id": 51,
-      "rank": 51,
+      "id": 52,
+      "rank": 52,
       "name": "Media Relations Intern (2027 season)",
       "org": "San Francisco Giants (MLB)",
       "cat": "Teams & leagues",
@@ -2104,8 +2146,8 @@
       ]
     },
     {
-      "id": 52,
-      "rank": 52,
+      "id": 53,
+      "rank": 53,
       "name": "Paid newsroom internship (summer/fall/winter cohorts)",
       "org": "Bay City News / Local News Matters",
       "cat": "Bay Area & digital outlets",
@@ -2144,8 +2186,8 @@
       ]
     },
     {
-      "id": 53,
-      "rank": 53,
+      "id": 54,
+      "rank": 54,
       "name": "ESPN NEXT Production Internship",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -2184,8 +2226,8 @@
       ]
     },
     {
-      "id": 54,
-      "rank": 54,
+      "id": 55,
+      "rank": 55,
       "name": "ESPN Programming Internship - Women's Sports (espnW lineage)",
       "org": "ESPN / The Walt Disney Company",
       "cat": "National sports media",
@@ -2263,12 +2305,12 @@
         "overall": 69.5
       },
       "tags": [],
-      "id": 55,
-      "rank": 55
+      "id": 56,
+      "rank": 56
     },
     {
-      "id": 56,
-      "rank": 56,
+      "id": 57,
+      "rank": 57,
       "name": "AAJA student membership + Sports Task Force",
       "org": "Asian American Journalists Association (AAJA)",
       "cat": "Programs & fellowships",
@@ -2346,12 +2388,12 @@
         "sophomore-ok",
         "verified"
       ],
-      "id": 57,
-      "rank": 57
+      "id": 58,
+      "rank": 58
     },
     {
-      "id": 58,
-      "rank": 58,
+      "id": 59,
+      "rank": 59,
       "name": "Bleacher Report / House of Highlights Social & Production Internships",
       "org": "Warner Bros. Discovery - Bleacher Report / House of Highlights",
       "cat": "National sports media",
@@ -2391,8 +2433,8 @@
       ]
     },
     {
-      "id": 59,
-      "rank": 59,
+      "id": 60,
+      "rank": 60,
       "name": "Emerging Reporters Program",
       "org": "ProPublica",
       "cat": "General journalism",
@@ -2431,8 +2473,8 @@
       ]
     },
     {
-      "id": 60,
-      "rank": 60,
+      "id": 61,
+      "rank": 61,
       "name": "MLB Summer Internship Program (Business & Content)",
       "org": "Major League Baseball (Commissioner's Office)",
       "cat": "Teams & leagues",
@@ -2464,47 +2506,6 @@
         "loc": 4,
         "timing": 7,
         "overall": 69.0
-      },
-      "tags": [
-        "sophomore-ok",
-        "verified"
-      ]
-    },
-    {
-      "id": 61,
-      "rank": 61,
-      "name": "Summer Reporting Internships",
-      "org": "Los Angeles Times",
-      "cat": "General journalism",
-      "role": "internship",
-      "loc": "El Segundo/Los Angeles, CA (plus Sacramento bureau)",
-      "remote": "no",
-      "regions": [
-        "Sacramento",
-        "SoCal / LA"
-      ],
-      "pay": "Paid",
-      "payType": "Paid (hourly / unspecified)",
-      "payScore": 7,
-      "time": "10 weeks full-time, June-August (rolling start dates)",
-      "window": "Verified Sep 26, 2026: confirmed open via the primary latimes.submittable.com/submit page. Re-checked Oct 12, 2026: two independent searches of that same Submittable landing page now read \"there are presently no open calls for submissions\" - the Sep 26 open window may have been a priority round that has since paused, or the page is between postings. Final deadline has held at Nov 15 in both the 2025 and 2026 cycles, so treat Nov 15, 2026 as the likely date but unconfirmed as currently accepting - recheck closer to the deadline.",
-      "deadline": "2026-11-15",
-      "deadlineLabel": "Deadline likely Nov 15, but page shows no open call as of Oct 12",
-      "buckets": [
-        "nov-dec-2026"
-      ],
-      "elig": "Actively working toward an undergraduate or graduate degree (no class-year floor stated); reporting roles require a driver's license and car",
-      "desc": "Placements include a dedicated Sports desk plus Photography, Data and Graphics, and Digital/Engagement — several map directly onto Olivia's video and analytics skills, and there is no junior/senior requirement. Competitive, so strong Daily Cal clips matter; the September 1 open date is only weeks away.",
-      "email": null,
-      "contact": null,
-      "link": "https://latimes.submittable.com/submit",
-      "s": {
-        "prestige": 9,
-        "fit": 4,
-        "pay": 7,
-        "loc": 7,
-        "timing": 6,
-        "overall": 68.5
       },
       "tags": [
         "sophomore-ok",
