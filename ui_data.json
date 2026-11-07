@@ -1,8 +1,8 @@
 {
  "meta": {
-  "updated": "2026-11-04",
+  "updated": "2026-11-07",
   "count": 179,
-  "note": "Nov 4: ESPN speed-rule daily check (main/Women's/NEXT) - still no summer 2027 US posting. NBCU News Group & NBC Sports-Peacock summer 2027 - still unposted, Nov 30 deadlines remain projections. SJI (Nov 6), AWSM (Nov 8), DJNF (Nov 11) deadlines reconfirmed via primary/official sources, unchanged. KQED Oct 30 cohort close reconfirmed, no new Nov wave yet. ACP/CMA fall convention (Kansas City) is in session Nov 4-7 - re-bucketed off today's stale deadline to spring-2027, timing score lowered pending spring registration dates."
+  "note": "Nov 7: SJI Class of 2027 window closed Nov 6 as scheduled - re-bucketed to future, next cycle expected ~Sept 2027. ESPN speed-rule check (main/NEXT/Women's) - still unposted. DJNF (Nov 11), LA Times (Nov 15), AWSM (Nov 8) deadlines reconfirmed, unchanged. NBCU News Group & NBC Sports-Peacock summer 2027 still unposted. KQED no new Nov wave yet. AAJA VOICES 2027 still not open."
  },
  "rows": [
   {
@@ -62,7 +62,7 @@
    "payType": "Stipend / scholarship",
    "payScore": 9,
    "time": "One-week training + 10-12 week summer internship, full-time",
-   "window": "Verified Oct 11, 2026: dowjonesnewsfund.org's own application page text (indexed via search; egress proxy still blocks a direct fetch) states the application is \"due November 11\" - confirming the Nov 11, 2026 deadline for the Summer 2027 cycle, agreeing with a third-party guide (Extern, Sept 2026). An older Nov 5 date on Petersons/CollegeData appears to be a separate/legacy business-reporting scholarship test deadline, not this cycle's main application deadline.",
+   "window": "Verified Oct 11, 2026: dowjonesnewsfund.org's own application page text (indexed via search; egress proxy still blocks a direct fetch) states the application is \"due November 11\" - confirming the Nov 11, 2026 deadline for the Summer 2027 cycle, agreeing with a third-party guide (Extern, Sept 2026). An older Nov 5 date on Petersons/CollegeData appears to be a separate/legacy business-reporting scholarship test deadline, not this cycle's main application deadline. Verified Nov 7, 2026: dowjonesnewsfund.org deadline reconfirmed as Nov 11, 2026, with the timed qualifying test due Nov 15, 11:59pm ET.",
    "deadline": "2026-11-11",
    "deadlineLabel": "Expected deadline ~Nov 11 + news test",
    "buckets": [
@@ -139,7 +139,7 @@
    "payType": "Paid hourly $19+",
    "payScore": 8,
    "time": "~16 hrs/week for six months; cohorts Jan-mid June and mid June-Dec",
-   "window": "Verified Oct 13, 2026: Jan-June 2027 cohort now posted - Forum Intern and Newscast Intern roles live on kqed.applytojob.com, confirmed via two agreeing secondary mirrors (Employbl, Vaia/Jobgether) of the ApplyToJob postings (egress proxy still blocks a direct kqed.org/applytojob.com read). Jan 19-June 25, 2027, 16 hrs/week, $19.61/hr. Apply to each role separately; cover letter must name the specific internship and, for Newscast, the Bay Area beat/issues of interest. Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in this wave - check back for those. Verified Oct 31, 2026: Forum Intern / Newscast Intern application window closed Oct 30 as scheduled (reconfirmed via additional secondary aggregator listings - TealHQ, InternDock; egress proxy still blocks a direct kqed.org read). Per UPDATER.md, KQED runs a second cohort wave around Nov; watch for a new posting (Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in any wave) before the next likely wave ~May 2027.",
+   "window": "Verified Oct 13, 2026: Jan-June 2027 cohort now posted - Forum Intern and Newscast Intern roles live on kqed.applytojob.com, confirmed via two agreeing secondary mirrors (Employbl, Vaia/Jobgether) of the ApplyToJob postings (egress proxy still blocks a direct kqed.org/applytojob.com read). Jan 19-June 25, 2027, 16 hrs/week, $19.61/hr. Apply to each role separately; cover letter must name the specific internship and, for Newscast, the Bay Area beat/issues of interest. Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in this wave - check back for those. Verified Oct 31, 2026: Forum Intern / Newscast Intern application window closed Oct 30 as scheduled (reconfirmed via additional secondary aggregator listings - TealHQ, InternDock; egress proxy still blocks a direct kqed.org read). Per UPDATER.md, KQED runs a second cohort wave around Nov; watch for a new posting (Visual Journalism/Bay Curious/Audience Intelligence roles not yet seen in any wave) before the next likely wave ~May 2027. Verified Nov 7, 2026: no new Nov wave (Visual Journalism/Bay Curious/Audience Intelligence) found yet; Jan-June 2027 Forum/Newscast wave remains closed since Oct 30.",
    "deadline": null,
    "deadlineLabel": null,
    "buckets": [
@@ -385,7 +385,7 @@
    "payType": "Stipend / scholarship",
    "payScore": 6,
    "time": "Fall application; roughly 10-week paid summer internship in sports writing, broadcast production, social media, or media relations (some awardees receive a mentoring track instead)",
-   "window": "Verified Sep 29, 2026 (read from the live application form): 2027 Scholars application is OPEN. Priority deadline Nov 8, 2026, 11:59pm PST; final Dec 13. ELIGIBILITY CONFIRMED: 'sophomores and above' - no class-standing ambiguity. Form requires: resume (PDF), headshot, personal statement (max 500 words, uploaded as PDF), 3-5 work samples (links preferred, PDFs accepted), contact info for 3 references, position selection (sports writing / broadcast production / media relations / social media - can pick multiple), and current AWSM student membership ($30 - starting the membership application by the deadline counts). No application fee. Award: $1,250 + paid internship placement OR mentor track; summer 2027 placements announced in spring.",
+   "window": "Verified Sep 29, 2026 (read from the live application form): 2027 Scholars application is OPEN. Priority deadline Nov 8, 2026, 11:59pm PST; final Dec 13. ELIGIBILITY CONFIRMED: 'sophomores and above' - no class-standing ambiguity. Form requires: resume (PDF), headshot, personal statement (max 500 words, uploaded as PDF), 3-5 work samples (links preferred, PDFs accepted), contact info for 3 references, position selection (sports writing / broadcast production / media relations / social media - can pick multiple), and current AWSM student membership ($30 - starting the membership application by the deadline counts). No application fee. Award: $1,250 + paid internship placement OR mentor track; summer 2027 placements announced in spring. Verified Nov 7, 2026: secondary-source recheck returned stale/mismatched cached pages (one showed an unrelated 2023 deadline); standing on the Sep 29 primary-source read of the live application form. Priority deadline Nov 8, 2026 remains one day out.",
    "deadline": "2026-11-08",
    "deadlineLabel": "Priority deadline Nov 8 (final Dec 13)",
    "buckets": [
@@ -602,7 +602,7 @@
    "payType": "Paid hourly $19+",
    "payScore": 8,
    "time": "Full-time ~10 weeks (Summer 2026 ran June 1-Aug 7)",
-   "window": "Verified Oct 19, 2026: still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing) live on Disney Careers; only UK placement-year roles found (not applicable). APPLICATION SPEED WARNING: ESPN summer postings close in DAYS, not weeks: the Summer 2026 cycle posted ~Dec 2 and closed Dec 8, 2025 (six days), with 500+ applications within hours of posting. Summer 2027 postings expected to open ~November 2026 and close early December. Materials must be 100% ready BEFORE the posting appears; set a Disney Careers job alert (jobs.disneycareers.com/espn, filter Internships/Programs) for same-day notice. Verified Oct 31, 2026 (daily ESPN speed-rule check): still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing/programming) live on Disney Careers; only the already-tracked Spring 2027 wave (rows for Social/Marketing/Production/Programming) and unrelated UK/London roles found. Verified Nov 1, 2026 (daily ESPN speed-rule check): still not posted. Verified Nov 4, 2026 (daily ESPN speed-rule check): still not posted.",
+   "window": "Verified Oct 19, 2026: still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing) live on Disney Careers; only UK placement-year roles found (not applicable). APPLICATION SPEED WARNING: ESPN summer postings close in DAYS, not weeks: the Summer 2026 cycle posted ~Dec 2 and closed Dec 8, 2025 (six days), with 500+ applications within hours of posting. Summer 2027 postings expected to open ~November 2026 and close early December. Materials must be 100% ready BEFORE the posting appears; set a Disney Careers job alert (jobs.disneycareers.com/espn, filter Internships/Programs) for same-day notice. Verified Oct 31, 2026 (daily ESPN speed-rule check): still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing/programming) live on Disney Careers; only the already-tracked Spring 2027 wave (rows for Social/Marketing/Production/Programming) and unrelated UK/London roles found. Verified Nov 1, 2026 (daily ESPN speed-rule check): still not posted. Verified Nov 4, 2026 (daily ESPN speed-rule check): still not posted. Verified Nov 7, 2026 (daily ESPN speed-rule check): still not posted.",
    "deadline": "2026-12-04",
    "deadlineLabel": "Expected: posts ~Nov, closes ~6 days later",
    "buckets": [
@@ -1583,7 +1583,7 @@
    "payType": "Paid (hourly / unspecified)",
    "payScore": 7,
    "time": "Summer (June-August) full-time; academic-year cohorts part-time",
-   "window": "Verified Nov 4, 2026: no summer 2027 NBCUniversal News Group internship posting found yet on nbcunicareers.com or job-board mirrors; last cycle (summer 2026) opened Nov 10-Dec 5, 2025, so the Nov 30, 2026 placeholder deadline remains a projection pending the live posting. Academic-year 2026-27 News/Sports internships (Sept 2026-Apr 2027) are posted and running separately.",
+   "window": "Verified Nov 4, 2026: no summer 2027 NBCUniversal News Group internship posting found yet on nbcunicareers.com or job-board mirrors; last cycle (summer 2026) opened Nov 10-Dec 5, 2025, so the Nov 30, 2026 placeholder deadline remains a projection pending the live posting. Academic-year 2026-27 News/Sports internships (Sept 2026-Apr 2027) are posted and running separately. Verified Nov 7, 2026: still no summer 2027 posting found; Nov 30 placeholder deadline stands.",
    "deadline": "2026-11-30",
    "deadlineLabel": "Window opens ~Nov, closes fast",
    "buckets": [
@@ -1701,7 +1701,7 @@
    "payType": "Paid hourly $19+",
    "payScore": 9,
    "time": "Full-time, 16 weeks (spring 2027)",
-   "window": "Verified Sep 28, 2026: Spring 2027 internship (16 weeks full-time, $1,000/week) reconfirmed live and accepting applications on missionlocal.org/about/internships/. No deadline posted.",
+   "window": "Verified Sep 28, 2026: Spring 2027 internship (16 weeks full-time, $1,000/week) reconfirmed live and accepting applications on missionlocal.org/about/internships/. No deadline posted. Verified Nov 7, 2026: Spring 2027 internship application link reconfirmed live on missionlocal.org/about/internships/; still no posted deadline.",
    "deadline": "2026-12-01",
    "deadlineLabel": "Spring 2027 apps open now",
    "buckets": [
@@ -1997,7 +1997,7 @@
    "payType": "Paid (hourly / unspecified)",
    "payScore": 7,
    "time": "10 weeks full-time, June-August (rolling start dates)",
-   "window": "Verified Nov 3, 2026: latimes.submittable.com/submit confirms the 2027 Spring and Summer Reporting Internships are now OPEN (resolves the Oct 12 \"no open calls\" gap - the page was between postings). Deadline Nov 15, 2026, 11:59pm PST. Summer 2027 interns start May 24, Jun 7, or Jun 21; decisions by email May 1. Reporting roles require a valid driver's license and car in working condition.",
+   "window": "Verified Nov 3, 2026: latimes.submittable.com/submit confirms the 2027 Spring and Summer Reporting Internships are now OPEN (resolves the Oct 12 \"no open calls\" gap - the page was between postings). Deadline Nov 15, 2026, 11:59pm PST. Summer 2027 interns start May 24, Jun 7, or Jun 21; decisions by email May 1. Reporting roles require a valid driver's license and car in working condition. Verified Nov 7, 2026: latimes.submittable.com deadline reconfirmed as Nov 15, 2026, 11:59pm PST.",
    "deadline": "2026-11-15",
    "deadlineLabel": "Deadline Nov 15, 2026 - confirmed open",
    "buckets": [
@@ -2201,7 +2201,7 @@
    "payType": "Paid (hourly / unspecified)",
    "payScore": 7,
    "time": "Full-time; Summer 2026 cohort ran June 1-Aug 7",
-   "window": "Verified Oct 19, 2026: still not posted - summer cohort expected ~Nov 2026 with the same days-long window as the main ESPN program (2026: ~Dec 2-8). Watch alongside row above. Verified Nov 4, 2026 (ESPN speed-rule check): still not posted - no summer 2027 ESPN NEXT posting live.",
+   "window": "Verified Oct 19, 2026: still not posted - summer cohort expected ~Nov 2026 with the same days-long window as the main ESPN program (2026: ~Dec 2-8). Watch alongside row above. Verified Nov 4, 2026 (ESPN speed-rule check): still not posted - no summer 2027 ESPN NEXT posting live. Verified Nov 7, 2026 (daily ESPN speed-rule check): still not posted.",
    "deadline": null,
    "deadlineLabel": null,
    "buckets": [
@@ -2241,7 +2241,7 @@
    "payType": "Paid (hourly / unspecified)",
    "payScore": 7,
    "time": "Full-time summer (~10 weeks)",
-   "window": "Verified Oct 19, 2026: still not posted - same summer cycle as the main ESPN program, expected to post ~Nov 2026 and close within days (2026 cycle: six-day window). Prep before it posts; apply within 48h. Verified Oct 31, 2026 (daily ESPN speed-rule check): still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing/programming) live on Disney Careers; only the already-tracked Spring 2027 wave (rows for Social/Marketing/Production/Programming) and unrelated UK/London roles found. Verified Nov 1, 2026 (daily ESPN speed-rule check): still not posted. Verified Nov 4, 2026 (daily ESPN speed-rule check): still not posted.",
+   "window": "Verified Oct 19, 2026: still not posted - same summer cycle as the main ESPN program, expected to post ~Nov 2026 and close within days (2026 cycle: six-day window). Prep before it posts; apply within 48h. Verified Oct 31, 2026 (daily ESPN speed-rule check): still not posted - no US summer 2027 ESPN internship (editorial/production/social/marketing/programming) live on Disney Careers; only the already-tracked Spring 2027 wave (rows for Social/Marketing/Production/Programming) and unrelated UK/London roles found. Verified Nov 1, 2026 (daily ESPN speed-rule check): still not posted. Verified Nov 4, 2026 (daily ESPN speed-rule check): still not posted. Verified Nov 7, 2026 (daily ESPN speed-rule check): still not posted.",
    "deadline": "2026-12-04",
    "deadlineLabel": "Expected: posts ~Nov, closes ~6 days later",
    "buckets": [
@@ -2898,7 +2898,7 @@
    "payType": "Paid (hourly / unspecified)",
    "payScore": 7,
    "time": "Full-time 40 hrs/week, ~10 weeks (2026: June 1-Aug 7)",
-   "window": "Verified Aug 6, 2026: summer 2027 dates not announced; 'applications currently closed' on nbcunicareers. Historical pattern: opens Sept-Nov. No NBCU LA28 student program exists yet (LA28 committee runs its own internship - separate row). Verified Nov 4, 2026: still no summer 2027 NBC Sports/Peacock Sports posting found; consistent with the historical ~Nov opening pattern, so the Nov 30 placeholder deadline stands pending the live posting.",
+   "window": "Verified Aug 6, 2026: summer 2027 dates not announced; 'applications currently closed' on nbcunicareers. Historical pattern: opens Sept-Nov. No NBCU LA28 student program exists yet (LA28 committee runs its own internship - separate row). Verified Nov 4, 2026: still no summer 2027 NBC Sports/Peacock Sports posting found; consistent with the historical ~Nov opening pattern, so the Nov 30 placeholder deadline stands pending the live posting. Verified Nov 7, 2026: still no summer 2027 posting found; Nov 30 placeholder deadline stands.",
    "deadline": "2026-11-30",
    "deadlineLabel": "Window opens ~Nov, closes fast",
    "buckets": [
@@ -3416,46 +3416,6 @@
   {
    "id": 84,
    "rank": 84,
-   "name": "Sports Journalism Institute (SJI)",
-   "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
-   "cat": "National sports media",
-   "role": "entry program",
-   "loc": "Classroom boot camp at Poynter (St. Petersburg, FL) + placed 8-week paid newsroom internship",
-   "remote": "no",
-   "regions": [
-    "Other US"
-   ],
-   "pay": "Paid internship placement + $500 scholarship on completion for students returning to college",
-   "payType": "Stipend / scholarship",
-   "payScore": 6,
-   "time": "9 weeks, June-August",
-   "window": "Verified Oct 25, 2026: Class of 2027 application is now OPEN on the official apply page (sportsjournalisminstitute.org/program/apply), confirmed via that primary page plus SJI's own Sept 28, 2026 social post (@SJI_Update) announcing the same opening. Deadline is Nov 6, 2026 (not the previously projected Nov 3 - last cycle's Nov 3, 2025 deadline was for the class of 2026). Boot camp runs late May/June 2027 at Poynter; applicants need the items on the Application Checklist available on the same page.",
-   "deadline": "2026-11-06",
-   "deadlineLabel": "SJI apply by Nov 6",
-   "buckets": [
-    "open-now",
-    "closing-soon"
-   ],
-   "elig": "College students at accredited 4-year schools, cumulative GPA 2.5+; mission focus on racial and gender diversity in sports departments; sophomores can apply though juniors/seniors are typical",
-   "desc": "The most respected pipeline program in sports journalism \u2014 alumni at ESPN, The Athletic, NYT \u2014 and it PLACES you in a paid newsroom internship, solving the sophomore chicken-and-egg problem. November deadline means she should spend fall 2026 stacking clips and recommenders.",
-   "email": null,
-   "contact": null,
-   "link": "http://sportsjournalisminstitute.org/application/",
-   "s": {
-    "prestige": 9,
-    "fit": 5,
-    "pay": 6,
-    "loc": 4,
-    "timing": 8,
-    "overall": 67.0
-   },
-   "tags": [
-    "verified"
-   ]
-  },
-  {
-   "id": 85,
-   "rank": 85,
    "name": "NHL Summer Internship Program",
    "org": "National Hockey League (League Office)",
    "cat": "Teams & leagues",
@@ -3491,8 +3451,8 @@
    "tags": []
   },
   {
-   "id": 86,
-   "rank": 86,
+   "id": 85,
+   "rank": 85,
    "name": "PGA TOUR Summer Internship Program 2027",
    "org": "PGA TOUR",
    "cat": "Teams & leagues",
@@ -3530,8 +3490,8 @@
    ]
   },
   {
-   "id": 87,
-   "rank": 87,
+   "id": 86,
+   "rank": 86,
    "name": "ESPN Production Intern (Charlotte, Spring 2027)",
    "org": "ESPN / The Walt Disney Company",
    "cat": "National sports media",
@@ -3570,8 +3530,8 @@
    ]
   },
   {
-   "id": 88,
-   "rank": 88,
+   "id": 87,
+   "rank": 87,
    "name": "POLITICO Editorial Internships (HQ, New York, California/Sacramento)",
    "org": "POLITICO",
    "cat": "General journalism",
@@ -3609,8 +3569,8 @@
    "tags": []
   },
   {
-   "id": 89,
-   "rank": 89,
+   "id": 88,
+   "rank": 88,
    "name": "AWSM student membership + annual convention",
    "org": "Association for Women in Sports Media (AWSM)",
    "cat": "Programs & fellowships",
@@ -3652,8 +3612,8 @@
    ]
   },
   {
-   "id": 90,
-   "rank": 90,
+   "id": 89,
+   "rank": 89,
    "name": "Athletic Communications / media relations student assistant (incl. gameday stats support)",
    "org": "Cal Athletics - Athletic Communications",
    "cat": "Cal campus / athletics",
@@ -3693,8 +3653,8 @@
    ]
   },
   {
-   "id": 91,
-   "rank": 91,
+   "id": 90,
+   "rank": 90,
    "name": "Front Office Sports - Social Media Intern (and recurring FOS internships)",
    "org": "Front Office Sports (backed by RedBird IMI)",
    "cat": "National sports media",
@@ -3733,8 +3693,8 @@
    ]
   },
   {
-   "id": 92,
-   "rank": 92,
+   "id": 91,
+   "rank": 91,
    "name": "VolleyballMag - freelance contributor route",
    "org": "VolleyballMag.com",
    "cat": "National sports media",
@@ -3774,8 +3734,8 @@
    ]
   },
   {
-   "id": 93,
-   "rank": 93,
+   "id": 92,
+   "rank": 92,
    "name": "Internships / matchday content roles",
    "org": "Bay FC (NWSL)",
    "cat": "Teams & leagues",
@@ -3815,8 +3775,8 @@
    ]
   },
   {
-   "id": 94,
-   "rank": 94,
+   "id": 93,
+   "rank": 93,
    "name": "USTA Undergraduate Summer Internship (e.g., Digital Strategy & Partnerships)",
    "org": "USTA (United States Tennis Association)",
    "cat": "Teams & leagues",
@@ -3853,8 +3813,8 @@
    "tags": []
   },
   {
-   "id": 95,
-   "rank": 95,
+   "id": 94,
+   "rank": 94,
    "name": "Summer Internships (News Reporting, Social Media, Photo)",
    "org": "The San Francisco Standard",
    "cat": "General journalism",
@@ -3890,8 +3850,8 @@
    "tags": []
   },
   {
-   "id": 96,
-   "rank": 96,
+   "id": 95,
+   "rank": 95,
    "name": "Axios Internships",
    "org": "Axios",
    "cat": "General journalism",
@@ -3931,8 +3891,8 @@
    ]
   },
   {
-   "id": 97,
-   "rank": 97,
+   "id": 96,
+   "rank": 96,
    "name": "CBS News Intern, KPIX San Francisco",
    "org": "KPIX CBS News Bay Area (Paramount)",
    "cat": "General journalism",
@@ -3971,8 +3931,8 @@
    ]
   },
   {
-   "id": 98,
-   "rank": 98,
+   "id": 97,
+   "rank": 97,
    "name": "ESPN Programming Intern (Bristol, Spring 2027)",
    "org": "ESPN / The Walt Disney Company",
    "cat": "National sports media",
@@ -4011,8 +3971,8 @@
    ]
   },
   {
-   "id": 99,
-   "rank": 99,
+   "id": 98,
+   "rank": 98,
    "name": "Editorial/content internships and contributor pitches",
    "org": "Just Women's Sports",
    "cat": "Bay Area & digital outlets",
@@ -4052,8 +4012,8 @@
    ]
   },
   {
-   "id": 100,
-   "rank": 100,
+   "id": 99,
+   "rank": 99,
    "name": "URAP research apprenticeship with Journalism/Investigative Reporting Program faculty",
    "org": "UC Berkeley Office of Undergraduate Research (URAP)",
    "cat": "Cal campus / athletics",
@@ -4096,8 +4056,8 @@
    ]
   },
   {
-   "id": 101,
-   "rank": 101,
+   "id": 100,
+   "rank": 100,
    "name": "Content Intern (video)",
    "org": "Sacramento Kings (NBA)",
    "cat": "Teams & leagues",
@@ -4135,8 +4095,8 @@
    ]
   },
   {
-   "id": 102,
-   "rank": 102,
+   "id": 101,
+   "rank": 101,
    "name": "Poynter self-paced courses + ACES-Poynter editing certificate",
    "org": "Poynter Institute",
    "cat": "Programs & fellowships",
@@ -4175,8 +4135,8 @@
    ]
   },
   {
-   "id": 103,
-   "rank": 103,
+   "id": 102,
+   "rank": 102,
    "name": "Content Marketing / media internships",
    "org": "Oakland Roots & Soul SC (USL)",
    "cat": "Teams & leagues",
@@ -4215,8 +4175,8 @@
    ]
   },
   {
-   "id": 104,
-   "rank": 104,
+   "id": 103,
+   "rank": 103,
    "name": "Hearst Journalism Fellowship",
    "org": "Hearst Newspapers (SF Chronicle, Houston Chronicle, San Antonio Express-News, Times Union, CT publications)",
    "cat": "General journalism",
@@ -4252,8 +4212,8 @@
    "tags": []
   },
   {
-   "id": 105,
-   "rank": 105,
+   "id": 104,
+   "rank": 104,
    "name": "KRON4 internships / production assistant entry roles",
    "org": "KRON4 (Nexstar Media Group)",
    "cat": "Bay Area & digital outlets",
@@ -4291,8 +4251,8 @@
    ]
   },
   {
-   "id": 106,
-   "rank": 106,
+   "id": 105,
+   "rank": 105,
    "name": "CBS News Internships (NYC, DC, LA + stations)",
    "org": "CBS News (Paramount)",
    "cat": "General journalism",
@@ -4333,8 +4293,8 @@
    ]
   },
   {
-   "id": 107,
-   "rank": 107,
+   "id": 106,
+   "rank": 106,
    "name": "Cond\u00e9 Nast US Summer Internship Program",
    "org": "Cond\u00e9 Nast (Vogue, GQ, The New Yorker, Wired, Vanity Fair, etc.)",
    "cat": "General journalism",
@@ -4374,8 +4334,8 @@
    ]
   },
   {
-   "id": 108,
-   "rank": 108,
+   "id": 107,
+   "rank": 107,
    "name": "Fans for Life Internship Program (Communications, Digital, 49ers Studios content)",
    "org": "San Francisco 49ers (NFL)",
    "cat": "Teams & leagues",
@@ -4413,8 +4373,8 @@
    ]
   },
   {
-   "id": 109,
-   "rank": 109,
+   "id": 108,
+   "rank": 108,
    "name": "SPJ Mark of Excellence Awards (2027 cycle, for 2026 work)",
    "org": "Society of Professional Journalists (SPJ)",
    "cat": "Programs & fellowships",
@@ -4453,8 +4413,8 @@
    ]
   },
   {
-   "id": 110,
-   "rank": 110,
+   "id": 109,
+   "rank": 109,
    "name": "USBWA Full Court Press seminar + Larry Donald Scholarship (Final Four 2027)",
    "org": "U.S. Basketball Writers Association (USBWA)",
    "cat": "Programs & fellowships",
@@ -4530,12 +4490,12 @@
     "verified",
     "sophomore-ok"
    ],
-   "id": 111,
-   "rank": 111
+   "id": 110,
+   "rank": 110
   },
   {
-   "id": 112,
-   "rank": 112,
+   "id": 111,
+   "rank": 111,
    "name": "Vox Media Summer Internship Program",
    "org": "Vox Media (Vox, The Verge, Eater, New York Magazine, Vulture, The Cut, SB Nation network)",
    "cat": "General journalism",
@@ -4572,8 +4532,8 @@
    "tags": []
   },
   {
-   "id": 113,
-   "rank": 113,
+   "id": 112,
+   "rank": 112,
    "name": "Contributor \u2014 Cal Athletics coverage",
    "org": "Write for California (successor to SB Nation's California Golden Blogs)",
    "cat": "Bay Area & digital outlets",
@@ -4651,12 +4611,12 @@
     "verified",
     "sophomore-ok"
    ],
-   "id": 114,
-   "rank": 114
+   "id": 113,
+   "rank": 113
   },
   {
-   "id": 115,
-   "rank": 115,
+   "id": 114,
+   "rank": 114,
    "name": "IRE student membership + conference fellowships (incl. AccessFest26)",
    "org": "Investigative Reporters & Editors (IRE)",
    "cat": "Programs & fellowships",
@@ -4697,8 +4657,8 @@
    ]
   },
   {
-   "id": 116,
-   "rank": 116,
+   "id": 115,
+   "rank": 115,
    "name": "NSMA student membership",
    "org": "National Sports Media Association (NSMA)",
    "cat": "Programs & fellowships",
@@ -4738,8 +4698,8 @@
    ]
   },
   {
-   "id": 117,
-   "rank": 117,
+   "id": 116,
+   "rank": 116,
    "name": "FanSided Contributor (Blue Man Hoop \u2014 Warriors, Niner Noise \u2014 49ers, Around the Foghorn \u2014 Giants, Golden Gate Sports)",
    "org": "FanSided (Minute Media)",
    "cat": "Bay Area & digital outlets",
@@ -4780,8 +4740,8 @@
    ]
   },
   {
-   "id": 118,
-   "rank": 118,
+   "id": 117,
+   "rank": 117,
    "name": "Hearst Magazines Summer Internship Program",
    "org": "Hearst Magazines (Cosmopolitan, Esquire, ELLE, Good Housekeeping, Women's Health, etc.)",
    "cat": "General journalism",
@@ -4821,8 +4781,8 @@
    ]
   },
   {
-   "id": 119,
-   "rank": 119,
+   "id": 118,
+   "rank": 118,
    "name": "CalTV Sports department member",
    "org": "CalTV (ASUC student-run television)",
    "cat": "Cal campus / athletics",
@@ -4862,8 +4822,8 @@
    ]
   },
   {
-   "id": 120,
-   "rank": 120,
+   "id": 119,
+   "rank": 119,
    "name": "Contributor (Sharks coverage)",
    "org": "Fear the Fin (independent, For Hockey Fans network)",
    "cat": "Bay Area & digital outlets",
@@ -4902,8 +4862,8 @@
    ]
   },
   {
-   "id": 121,
-   "rank": 121,
+   "id": 120,
+   "rank": 120,
    "name": "Investigations Lab student investigator (open-source reporting)",
    "org": "Human Rights Center, UC Berkeley (partners with Berkeley Journalism)",
    "cat": "Cal campus / athletics",
@@ -4943,8 +4903,8 @@
    ]
   },
   {
-   "id": 122,
-   "rank": 122,
+   "id": 121,
+   "rank": 121,
    "name": "FloSports Internships (Content Video Production; Live Production; vertical editorial incl. FloVolleyball coverage)",
    "org": "FloSports",
    "cat": "National sports media",
@@ -4984,8 +4944,8 @@
    ]
   },
   {
-   "id": 123,
-   "rank": 123,
+   "id": 122,
+   "rank": 122,
    "name": "WISE student membership",
    "org": "WISE (Women in Sports and Events)",
    "cat": "Programs & fellowships",
@@ -5028,8 +4988,8 @@
    ]
   },
   {
-   "id": 124,
-   "rank": 124,
+   "id": 123,
+   "rank": 123,
    "name": "Prep sports freelance stringer (high school game coverage)",
    "org": "Bay Area News Group \u2014 Mercury News / East Bay Times",
    "cat": "Bay Area & digital outlets",
@@ -5069,8 +5029,8 @@
    ]
   },
   {
-   "id": 125,
-   "rank": 125,
+   "id": 124,
+   "rank": 124,
    "name": "Staff member (writing, photo, video, or marketing)",
    "org": "Caliber Magazine",
    "cat": "Cal campus / athletics",
@@ -5110,8 +5070,8 @@
    ]
   },
   {
-   "id": 126,
-   "rank": 126,
+   "id": 125,
+   "rank": 125,
    "name": "Sportico / Penske Media Corporation internships",
    "org": "Sportico (Penske Media Corporation)",
    "cat": "National sports media",
@@ -5151,8 +5111,8 @@
    ]
   },
   {
-   "id": 127,
-   "rank": 127,
+   "id": 126,
+   "rank": 126,
    "name": "NFL Films Internship (production/post-production)",
    "org": "NFL Films",
    "cat": "Teams & leagues",
@@ -5188,8 +5148,8 @@
    "tags": []
   },
   {
-   "id": 128,
-   "rank": 128,
+   "id": 127,
+   "rank": 127,
    "name": "USOPC internships (Team USA)",
    "org": "U.S. Olympic & Paralympic Committee",
    "cat": "Teams & leagues",
@@ -5227,8 +5187,8 @@
    ]
   },
   {
-   "id": 129,
-   "rank": 129,
+   "id": 128,
+   "rank": 128,
    "name": "NCAA Championships media coordination volunteer (incl. D1 Women's Volleyball Championship)",
    "org": "NCAA Championships (host sites)",
    "cat": "Teams & leagues",
@@ -5268,8 +5228,8 @@
    ]
   },
   {
-   "id": 130,
-   "rank": 130,
+   "id": 129,
+   "rank": 129,
    "name": "AAJA VOICES fellowship (2027 cohort)",
    "org": "Asian American Journalists Association (AAJA)",
    "cat": "Programs & fellowships",
@@ -5285,7 +5245,7 @@
    "payType": "Unpaid / for credit",
    "payScore": 1,
    "time": "Multi-week remote training plus convention week",
-   "window": "Verified Aug 6, 2026: 2027 apps not yet open; 2026 cycle opened Oct 8, closed Dec 19 - expect ~Oct 2026 opening. Travel, lodging, meals and registration confirmed covered for fellows.",
+   "window": "Verified Aug 6, 2026: 2027 apps not yet open; 2026 cycle opened Oct 8, closed Dec 19 - expect ~Oct 2026 opening. Travel, lodging, meals and registration confirmed covered for fellows. Verified Nov 7, 2026: VOICES 2027 application still not open on voices.aaja.org/apply; most recent closed cycle (VOICES 2026) deadline was Dec 19, 2025.",
    "deadline": "2026-12-19",
    "deadlineLabel": "Expected apps ~Oct-Dec 2026",
    "buckets": [
@@ -5312,8 +5272,8 @@
    ]
   },
   {
-   "id": 131,
-   "rank": 131,
+   "id": 130,
+   "rank": 130,
    "name": "SABR Analytics Conference student scholarships (Yoseloff, 2027)",
    "org": "Society for American Baseball Research (SABR)",
    "cat": "Programs & fellowships",
@@ -5349,6 +5309,45 @@
    "tags": [
     "sophomore-ok",
     "has-contact",
+    "verified"
+   ]
+  },
+  {
+   "id": 131,
+   "rank": 131,
+   "name": "Sports Journalism Institute (SJI)",
+   "org": "Sports Journalism Institute (industry program assoc. with APSE; sessions at Poynter Institute)",
+   "cat": "National sports media",
+   "role": "entry program",
+   "loc": "Classroom boot camp at Poynter (St. Petersburg, FL) + placed 8-week paid newsroom internship",
+   "remote": "no",
+   "regions": [
+    "Other US"
+   ],
+   "pay": "Paid internship placement + $500 scholarship on completion for students returning to college",
+   "payType": "Stipend / scholarship",
+   "payScore": 6,
+   "time": "9 weeks, June-August",
+   "window": "Verified Oct 25, 2026: Class of 2027 application is now OPEN on the official apply page (sportsjournalisminstitute.org/program/apply), confirmed via that primary page plus SJI's own Sept 28, 2026 social post (@SJI_Update) announcing the same opening. Deadline is Nov 6, 2026 (not the previously projected Nov 3 - last cycle's Nov 3, 2025 deadline was for the class of 2026). Boot camp runs late May/June 2027 at Poynter; applicants need the items on the Application Checklist available on the same page. Verified Nov 7, 2026: Class of 2027 application window closed Nov 6 as scheduled (confirmed via secondary aggregator mirroring the official apply page, which no longer shows an open form). Selected Class of 2027 attends the boot camp late May/June 2027 at Poynter. Next application cycle (Class of 2028) expected to open ~Sept 1, 2027, based on this cycle's Sept 1-Nov 6, 2026 pattern; prior class (34th) was announced Feb 2026.",
+   "deadline": null,
+   "deadlineLabel": null,
+   "buckets": [
+    "future"
+   ],
+   "elig": "College students at accredited 4-year schools, cumulative GPA 2.5+; mission focus on racial and gender diversity in sports departments; sophomores can apply though juniors/seniors are typical",
+   "desc": "The most respected pipeline program in sports journalism \u2014 alumni at ESPN, The Athletic, NYT \u2014 and it PLACES you in a paid newsroom internship, solving the sophomore chicken-and-egg problem. November deadline means she should spend fall 2026 stacking clips and recommenders.",
+   "email": null,
+   "contact": null,
+   "link": "http://sportsjournalisminstitute.org/application/",
+   "s": {
+    "prestige": 9,
+    "fit": 5,
+    "pay": 6,
+    "loc": 4,
+    "timing": 2,
+    "overall": 61.0
+   },
+   "tags": [
     "verified"
    ]
   },
